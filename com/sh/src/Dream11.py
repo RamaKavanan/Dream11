@@ -12,7 +12,7 @@ from selenium.webdriver.common.by import By
 
 chrome_options = Options()
 chrome_options.add_argument("--window-size=1920,1080")
-# chrome_options.add_argument("--headless")
+chrome_options.add_argument("--headless")
 chrome_options.add_argument("--remote-debugging=9222 ")
 chrome_options.add_argument("--no-sandbox")
 
@@ -27,7 +27,7 @@ class PythonOrgSearch:
         driver = self.driver
         #urls = ['https://www.iplt20.com/match/2017/29?tab=scorecard']
 
-        driver.get("https://www.iplt20.com/archive/2017")
+        driver.get("https://www.iplt20.com/archive/2013")
         elements = driver.find_elements_by_class_name("result__button--mc")
         urls = []
         for el in elements:
@@ -41,10 +41,10 @@ class PythonOrgSearch:
         #pprint.pprint(players)
         players = {}
 
-        exist_data = pd.read_csv("/home/ubuntu/Desktop/Ideas2it/Datascience/Dream11/data/players_2017.csv")
+        #exist_data = pd.read_csv("/home/ubuntu/Desktop/Ideas2it/Datascience/Dream11/data/players_2017.csv")
         df = pd.DataFrame(list)
-        exist_data = exist_data.append(df)
-        exist_data.to_csv("/home/ubuntu/Desktop/Ideas2it/Datascience/Dream11/data/players_2017.csv", index=False)
+        #exist_data = exist_data.append(df)
+        df.to_csv("/home/ubuntu/Dream11/Dream11/data/players_2013.csv", index=False)
         #print(df)
         self.tearDown()
 

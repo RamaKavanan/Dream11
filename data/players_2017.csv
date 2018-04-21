@@ -1,1 +1,1252 @@
-
+ball_faced,bowled_by,catched_by,dot_balls,economy,four,ground_city,ground_name,match_no,name,opposite_team_name,over,run_gave,run_scored,runout_by,six,strike_rate,stumped_by,team_name,wicket,wicket_taken
+50,Mitchell Johnson,Ambati Rayudu,,,2,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,Final,Steve Smith,Mumbai Indians,,,51,,2,102.00,,Rising Pune Supergiant,catch,
+8,Mitchell Johnson,Kieron Pollard,,,1,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,Final,Manoj Tiwary,Mumbai Indians,,,7,,0,87.50,,Rising Pune Supergiant,catch,
+13,Jasprit Bumrah,Parthiv Patel,,,1,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,Final,MS Dhoni,Mumbai Indians,,,10,,0,76.92,,Rising Pune Supergiant,catch,
+2,,,10,8.50,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,Final,Dan Christian,Mumbai Indians,4,34,4,,0,200.00,,Rising Pune Supergiant,,2
+,,,7,8.00,,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,Final,Adam Zampa,Mumbai Indians,4,32,,,,,,Rising Pune Supergiant,,2
+,,,11,4.75,,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,Final,Jaydev Unadkat,Mumbai Indians,4,19,,,,,,Rising Pune Supergiant,,2
+8,Jaydev Unadkat,&,,,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,Final,Lendl Simmons,Rising Pune Supergiant,,,3,,0,37.50,,Mumbai Indians,catch,
+38,Dan Christian,Ajinkya Rahane,8,7.75,3,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,Final,Krunal Pandya,Rising Pune Supergiant,4,31,47,,2,123.68,,Mumbai Indians,catch,0
+5,,,12,4.50,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,Final,Karn Sharma,Rising Pune Supergiant,4,18,1,Dan Christian,0,20.00,,Mumbai Indians,runout,0
+3,Adam Zampa,Manoj Tiwary,,,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,Final,Kieron Pollard,Rising Pune Supergiant,,,7,,1,233.33,,Mumbai Indians,catch,
+,,,5,10.50,,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,Final,Lockie Ferguson,Mumbai Indians,2,21,,,,,,Rising Pune Supergiant,,0
+,,,6,3.50,,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,Final,Shardul Thakur,Mumbai Indians,2,7,,,,,,Rising Pune Supergiant,,0
+1,,,15,3.25,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,Final,Washington Sundar,Mumbai Indians,4,13,0,Jagadeesha Suchith,0,0.00,,Rising Pune Supergiant,runout,0
+6,Jaydev Unadkat,Shardul Thakur,,,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,Final,Parthiv Patel,Rising Pune Supergiant,,,4,,0,66.66,,Mumbai Indians,catch,
+,,,11,5.25,,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,Final,Lasith Malinga,Rising Pune Supergiant,4,21,,,,,,Mumbai Indians,,0
+8,Jasprit Bumrah,,,,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,Final,Rahul Tripathi,Mumbai Indians,,,3,,0,37.50,,Rising Pune Supergiant,lbw,
+38,Mitchell Johnson,Kieron Pollard,,,5,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,Final,Ajinkya Rahane,Mumbai Indians,,,44,,0,115.78,,Rising Pune Supergiant,catch,
+15,,,,,1,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,Final,Ambati Rayudu,Rising Pune Supergiant,,,12,Steve Smith,0,80.00,,Mumbai Indians,runout,
+,,,8,6.50,,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,Final,Jasprit Bumrah,Rising Pune Supergiant,4,26,,,,,,Mumbai Indians,,2
+14,,,10,6.50,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,Final,Mitchell Johnson,Rising Pune Supergiant,4,26,13,,1,92.85,,Mumbai Indians,,3
+9,Dan Christian,,,,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,Final,Hardik Pandya,Rising Pune Supergiant,,,10,,1,111.11,,Mumbai Indians,lbw,
+22,Adam Zampa,Shardul Thakur,,,4,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,Final,Rohit Sharma,Rising Pune Supergiant,,,24,,0,109.09,,Mumbai Indians,catch,
+1,Karn Sharma,,,,0,Bengaluru,M. Chinnaswamy Stadium,Qualifier 2,Colin de Grandhomme,Mumbai Indians,,,0,,0,0.00,,Kolkata Knight Riders,lbw,
+4,Mitchell Johnson,Hardik Pandya,6,5.00,0,Bengaluru,M. Chinnaswamy Stadium,Qualifier 2,Nathan Coulter-Nile,Mumbai Indians,3,15,6,,1,150.00,,Kolkata Knight Riders,catch,1
+31,Karn Sharma,Mitchell Johnson,,,3,Bengaluru,M. Chinnaswamy Stadium,Qualifier 2,Ishank Jaggi,Mumbai Indians,,,28,,0,90.32,,Kolkata Knight Riders,catch,
+,,,3,4.00,,Bengaluru,M. Chinnaswamy Stadium,Qualifier 2,Hardik Pandya,Kolkata Knight Riders,1,4,,,,,,Mumbai Indians,,0
+3,Jasprit Bumrah,,,,0,Bengaluru,M. Chinnaswamy Stadium,Qualifier 2,Robin Uthappa,Mumbai Indians,,,1,,0,33.33,,Kolkata Knight Riders,lbw,
+25,Jasprit Bumrah,Lasith Malinga,,,2,Bengaluru,M. Chinnaswamy Stadium,Qualifier 2,Suryakumar Yadav,Mumbai Indians,,,31,,1,124.00,,Kolkata Knight Riders,catch,
+6,Piyush Chawla,,,,0,Bengaluru,M. Chinnaswamy Stadium,Qualifier 2,Lendl Simmons,Kolkata Knight Riders,,,3,,0,50.00,,Mumbai Indians,lbw,
+15,Karn Sharma,Hardik Pandya,,,2,Bengaluru,M. Chinnaswamy Stadium,Qualifier 2,Gautam Gambhir,Mumbai Indians,,,12,,0,80.00,,Kolkata Knight Riders,catch,
+30,,,5,8.33,8,Bengaluru,M. Chinnaswamy Stadium,Qualifier 2,Krunal Pandya,Kolkata Knight Riders,3,25,45,,0,150.00,,Mumbai Indians,,0
+,,,12,4.00,,Bengaluru,M. Chinnaswamy Stadium,Qualifier 2,Karn Sharma,Kolkata Knight Riders,4,16,,,,,,Mumbai Indians,,4
+7,,,,,1,Bengaluru,M. Chinnaswamy Stadium,Qualifier 2,Kieron Pollard,Kolkata Knight Riders,,,9,,0,128.57,,Mumbai Indians,,
+3,,,6,9.20,0,Bengaluru,M. Chinnaswamy Stadium,Qualifier 2,Umesh Yadav,Mumbai Indians,2.3,23,2,,0,66.66,,Kolkata Knight Riders,,1
+10,Karn Sharma,,13,5.25,0,Bengaluru,M. Chinnaswamy Stadium,Qualifier 2,Sunil Narine,Mumbai Indians,4,21,10,,1,100.00,Parthiv Patel,Kolkata Knight Riders,stemping,0
+9,Umesh Yadav,Robin Uthappa,,,3,Bengaluru,M. Chinnaswamy Stadium,Qualifier 2,Parthiv Patel,Kolkata Knight Riders,,,14,,0,155.55,,Mumbai Indians,catch,
+,,,11,6.26,,Bengaluru,M. Chinnaswamy Stadium,Qualifier 2,Lasith Malinga,Kolkata Knight Riders,3.5,24,,,,,,Mumbai Indians,,1
+11,Piyush Chawla,,,,0,Bengaluru,M. Chinnaswamy Stadium,Qualifier 2,Ambati Rayudu,Kolkata Knight Riders,,,6,,0,54.54,,Mumbai Indians,bold,
+,,,14,2.33,,Bengaluru,M. Chinnaswamy Stadium,Qualifier 2,Jasprit Bumrah,Kolkata Knight Riders,3,7,,,,,,Mumbai Indians,,3
+7,Lasith Malinga,,0,14.00,1,Bengaluru,M. Chinnaswamy Stadium,Qualifier 2,Ankit Rajpoot,Mumbai Indians,1,14,4,,0,57.14,,Kolkata Knight Riders,bold,0
+,,,13,7.00,,Bengaluru,M. Chinnaswamy Stadium,Qualifier 2,Mitchell Johnson,Kolkata Knight Riders,4,28,,,,,,Mumbai Indians,,2
+24,Nathan Coulter-Nile,Ankit Rajpoot,,,1,Bengaluru,M. Chinnaswamy Stadium,Qualifier 2,Rohit Sharma,Kolkata Knight Riders,,,26,,1,108.33,,Mumbai Indians,catch,
+6,Mitchell Johnson,Ambati Rayudu,9,8.50,0,Bengaluru,M. Chinnaswamy Stadium,Qualifier 2,Piyush Chawla,Mumbai Indians,4,34,2,,0,33.33,,Kolkata Knight Riders,catch,2
+8,Jasprit Bumrah,Kieron Pollard,,,0,Bengaluru,M. Chinnaswamy Stadium,Qualifier 2,Chris Lynn,Mumbai Indians,,,4,,0,50.00,,Kolkata Knight Riders,catch,
+,,,12,5.00,,Bengaluru,M. Chinnaswamy Stadium,Eliminator,Nathan Coulter-Nile,Sunrisers Hyderabad,4,20,,,,,,Kolkata Knight Riders,,3
+13,Umesh Yadav,Robin Uthappa,,,1,Bengaluru,M. Chinnaswamy Stadium,Eliminator,Shikhar Dhawan,Kolkata Knight Riders,,,11,,0,84.61,,Sunrisers Hyderabad,catch,
+8,,,,,0,Bengaluru,M. Chinnaswamy Stadium,Eliminator,Ishank Jaggi,Sunrisers Hyderabad,,,5,,0,62.50,,Kolkata Knight Riders,,
+,,,7,9.00,,Bengaluru,M. Chinnaswamy Stadium,Eliminator,Piyush Chawla,Sunrisers Hyderabad,3,27,,,,,,Kolkata Knight Riders,,1
+,,,5,5.50,,Bengaluru,M. Chinnaswamy Stadium,Eliminator,Rashid Khan,Kolkata Knight Riders,2,11,,,,,,Sunrisers Hyderabad,,0
+,,,0,14.00,,Bengaluru,M. Chinnaswamy Stadium,Eliminator,Siddarth Kaul,Kolkata Knight Riders,1,14,,,,,,Sunrisers Hyderabad,,0
+,,,8,7.50,,Bengaluru,M. Chinnaswamy Stadium,Eliminator,Trent Boult,Sunrisers Hyderabad,4,30,,,,,,Kolkata Knight Riders,,1
+2,Chris Jordan,Shikhar Dhawan,,,0,Bengaluru,M. Chinnaswamy Stadium,Eliminator,Robin Uthappa,Sunrisers Hyderabad,,,1,,0,50.00,,Kolkata Knight Riders,catch,
+16,Trent Boult,Chris Lynn,,,0,Bengaluru,M. Chinnaswamy Stadium,Eliminator,Naman Ojha,Kolkata Knight Riders,,,16,,1,100.00,,Sunrisers Hyderabad,catch,
+1,,,2,7.00,0,Bengaluru,M. Chinnaswamy Stadium,Eliminator,Yusuf Pathan,Sunrisers Hyderabad,1,7,0,Bhuvneshwar Kumar,0,0.00,,Kolkata Knight Riders,runout,0
+,,,12,5.25,,Bengaluru,M. Chinnaswamy Stadium,Eliminator,Umesh Yadav,Sunrisers Hyderabad,4,21,,,,,,Kolkata Knight Riders,,2
+,,,3,11.00,,Bengaluru,M. Chinnaswamy Stadium,Eliminator,Bhuvneshwar Kumar,Kolkata Knight Riders,1,11,,,,,,Sunrisers Hyderabad,,1
+19,,,,,2,Bengaluru,M. Chinnaswamy Stadium,Eliminator,Gautam Gambhir,Sunrisers Hyderabad,,,32,,2,168.42,,Kolkata Knight Riders,,
+3,,,0,6.00,0,Bengaluru,M. Chinnaswamy Stadium,Eliminator,Bipul Sharma,Kolkata Knight Riders,0.2,2,2,,0,66.66,,Sunrisers Hyderabad,,0
+35,Piyush Chawla,,,,2,Bengaluru,M. Chinnaswamy Stadium,Eliminator,David Warner,Kolkata Knight Riders,,,37,,2,105.71,,Sunrisers Hyderabad,bold,
+9,Umesh Yadav,Piyush Chawla,,,2,Bengaluru,M. Chinnaswamy Stadium,Eliminator,Yuvraj Singh,Kolkata Knight Riders,,,9,,0,100.00,,Sunrisers Hyderabad,catch,
+17,Nathan Coulter-Nile,Suryakumar Yadav,,,2,Bengaluru,M. Chinnaswamy Stadium,Eliminator,Vijay Shankar,Kolkata Knight Riders,,,22,,1,129.41,,Sunrisers Hyderabad,catch,
+1,Nathan Coulter-Nile,&,3,9.00,0,Bengaluru,M. Chinnaswamy Stadium,Eliminator,Chris Jordan,Kolkata Knight Riders,1,9,0,,0,0.00,,Sunrisers Hyderabad,catch,1
+26,Nathan Coulter-Nile,Suryakumar Yadav,,,2,Bengaluru,M. Chinnaswamy Stadium,Eliminator,Kane Williamson,Kolkata Knight Riders,,,24,,1,92.30,,Sunrisers Hyderabad,catch,
+2,Bhuvneshwar Kumar,Naman Ojha,,,0,Bengaluru,M. Chinnaswamy Stadium,Eliminator,Chris Lynn,Sunrisers Hyderabad,,,6,,1,300.00,,Kolkata Knight Riders,catch,
+,,,13,5.00,,Bengaluru,M. Chinnaswamy Stadium,Eliminator,Sunil Narine,Sunrisers Hyderabad,4,20,,,,,,Kolkata Knight Riders,,0
+2,Lasith Malinga,Hardik Pandya,,,0,Mumbai,Wankhede Stadium,Qualifier 1,Steve Smith,Mumbai Indians,,,1,,0,50.00,,Rising Pune Supergiant,catch,
+48,,,,,4,Mumbai,Wankhede Stadium,Qualifier 1,Manoj Tiwary,Mumbai Indians,,,58,Jasprit Bumrah,2,120.83,,Rising Pune Supergiant,runout,
+26,,,,,0,Mumbai,Wankhede Stadium,Qualifier 1,MS Dhoni,Mumbai Indians,,,40,,5,153.84,,Rising Pune Supergiant,,
+,,,6,8.25,,Mumbai,Wankhede Stadium,Qualifier 1,Dan Christian,Mumbai Indians,4,33,,,,,,Rising Pune Supergiant,,0
+11,Shardul Thakur,Jaydev Unadkat,10,11.50,0,Mumbai,Wankhede Stadium,Qualifier 1,Mitchell McClenaghan,Rising Pune Supergiant,4,46,12,,1,109.09,,Mumbai Indians,catch,1
+,,,2,9.00,,Mumbai,Wankhede Stadium,Qualifier 1,Adam Zampa,Mumbai Indians,1,9,,,,,,Rising Pune Supergiant,,0
+,,,10,6.00,,Mumbai,Wankhede Stadium,Qualifier 1,Jaydev Unadkat,Mumbai Indians,4,24,,,,,,Rising Pune Supergiant,,1
+13,,,,,0,Mumbai,Wankhede Stadium,Qualifier 1,Lendl Simmons,Rising Pune Supergiant,,,5,Shardul Thakur,0,38.46,,Mumbai Indians,runout,
+11,Shardul Thakur,Dan Christian,9,5.50,2,Mumbai,Wankhede Stadium,Qualifier 1,Krunal Pandya,Rising Pune Supergiant,4,22,15,,0,136.36,,Mumbai Indians,catch,0
+7,Jaydev Unadkat,MS Dhoni,10,7.50,0,Mumbai,Wankhede Stadium,Qualifier 1,Karn Sharma,Rising Pune Supergiant,4,30,4,,0,57.14,,Mumbai Indians,catch,1
+10,Washington Sundar,Steve Smith,,,1,Mumbai,Wankhede Stadium,Qualifier 1,Kieron Pollard,Rising Pune Supergiant,,,7,,0,70.00,,Mumbai Indians,catch,
+,,,10,7.00,,Mumbai,Wankhede Stadium,Qualifier 1,Lockie Ferguson,Mumbai Indians,3,21,,,,,,Rising Pune Supergiant,,1
+,,,7,9.25,,Mumbai,Wankhede Stadium,Qualifier 1,Shardul Thakur,Mumbai Indians,4,37,,,,,,Rising Pune Supergiant,,3
+43,Karn Sharma,,,,5,Mumbai,Wankhede Stadium,Qualifier 1,Ajinkya Rahane,Mumbai Indians,,,56,,1,130.23,,Rising Pune Supergiant,lbw,
+40,Shardul Thakur,Dan Christian,,,3,Mumbai,Wankhede Stadium,Qualifier 1,Parthiv Patel,Rising Pune Supergiant,,,52,,3,130.00,,Mumbai Indians,catch,
+2,,,8,4.66,0,Mumbai,Wankhede Stadium,Qualifier 1,Lasith Malinga,Rising Pune Supergiant,3,14,7,,1,350.00,,Mumbai Indians,,1
+2,Mitchell McClenaghan,,,,0,Mumbai,Wankhede Stadium,Qualifier 1,Rahul Tripathi,Mumbai Indians,,,0,,0,0.00,,Rising Pune Supergiant,bold,
+,,,13,4.00,,Mumbai,Wankhede Stadium,Qualifier 1,Washington Sundar,Mumbai Indians,4,16,,,,,,Rising Pune Supergiant,,3
+3,Washington Sundar,Steve Smith,,,0,Mumbai,Wankhede Stadium,Qualifier 1,Ambati Rayudu,Rising Pune Supergiant,,,0,,0,0.00,,Mumbai Indians,catch,
+11,,,6,8.25,0,Mumbai,Wankhede Stadium,Qualifier 1,Jasprit Bumrah,Rising Pune Supergiant,4,33,16,,1,145.45,,Mumbai Indians,,0
+10,Lockie Ferguson,Dan Christian,0,15.00,1,Mumbai,Wankhede Stadium,Qualifier 1,Hardik Pandya,Rising Pune Supergiant,1,15,14,,1,140.00,,Mumbai Indians,catch,0
+2,Washington Sundar,,,,0,Mumbai,Wankhede Stadium,Qualifier 1,Rohit Sharma,Rising Pune Supergiant,,,1,,0,50.00,,Mumbai Indians,lbw,
+5,,,7,5.00,3,Delhi,Feroz Shah Kotla Ground,56,Pawan Negi,Delhi Daredevils,2,10,13,,0,260.00,,Royal Challengers Bangalore,,3
+34,Harshal Patel,,,,3,Delhi,Feroz Shah Kotla Ground,56,Rishabh Pant,Royal Challengers Bangalore,,,45,,2,132.35,,Delhi Daredevils,bold,
+,,,12,5.75,,Delhi,Feroz Shah Kotla Ground,56,Avesh Khan,Delhi Daredevils,4,23,,,,,,Royal Challengers Bangalore,,1
+6,Pawan Negi,Kedar Jadhav,4,6.00,0,Delhi,Feroz Shah Kotla Ground,56,Shahbaz Nadeem,Royal Challengers Bangalore,2,12,2,,0,33.33,,Delhi Daredevils,catch,1
+45,Zaheer Khan,Shahbaz Nadeem,,,3,Delhi,Feroz Shah Kotla Ground,56,Virat Kohli,Delhi Daredevils,,,58,,3,128.88,,Royal Challengers Bangalore,catch,
+9,Travis Head,,3,9.50,0,Delhi,Feroz Shah Kotla Ground,56,Corey Anderson,Royal Challengers Bangalore,4,38,3,,0,33.33,Vishnu Vinod,Delhi Daredevils,stemping,0
+38,Shahbaz Nadeem,Zaheer Khan,,,3,Delhi,Feroz Shah Kotla Ground,56,Chris Gayle,Delhi Daredevils,,,48,,3,126.31,,Royal Challengers Bangalore,catch,
+9,Pawan Negi,,11,7.75,3,Delhi,Feroz Shah Kotla Ground,56,Mohammed Shami,Royal Challengers Bangalore,4,31,21,,1,233.33,Vishnu Vinod,Delhi Daredevils,stemping,0
+,,,8,8.00,,Delhi,Feroz Shah Kotla Ground,56,Yuzvendra Chahal,Delhi Daredevils,3,24,,,,,,Royal Challengers Bangalore,,0
+3,Travis Head,Virat Kohli,10,5.25,0,Delhi,Feroz Shah Kotla Ground,56,Pat Cummins,Royal Challengers Bangalore,4,21,7,,1,233.33,,Delhi Daredevils,catch,2
+,,,8,10.75,,Delhi,Feroz Shah Kotla Ground,56,Harshal Patel,Delhi Daredevils,4,43,,,,,,Royal Challengers Bangalore,,3
+1,Harshal Patel,,,,0,Delhi,Feroz Shah Kotla Ground,56,Marlon Samuels,Royal Challengers Bangalore,,,0,,0,0.00,,Delhi Daredevils,bold,
+30,Harshal Patel,Shane Watson,,,2,Delhi,Feroz Shah Kotla Ground,56,Shreyas Iyer,Royal Challengers Bangalore,,,32,,1,106.66,,Delhi Daredevils,catch,
+9,,,,,0,Delhi,Feroz Shah Kotla Ground,56,Kedar Jadhav,Delhi Daredevils,,,12,Pat Cummins,1,133.33,,Royal Challengers Bangalore,runout,
+8,Pat Cummins,Corey Anderson,,,2,Delhi,Feroz Shah Kotla Ground,56,Sachin Baby,Delhi Daredevils,,,12,,0,150.00,,Royal Challengers Bangalore,catch,
+22,Shane Watson,Kedar Jadhav,,,5,Delhi,Feroz Shah Kotla Ground,56,Karun Nair,Royal Challengers Bangalore,,,26,,0,118.18,,Delhi Daredevils,catch,
+9,Pat Cummins,,,,0,Delhi,Feroz Shah Kotla Ground,56,Vishnu Vinod,Delhi Daredevils,,,3,,0,33.33,,Royal Challengers Bangalore,bold,
+4,Pawan Negi,,3,13.00,0,Delhi,Feroz Shah Kotla Ground,56,Amit Mishra,Royal Challengers Bangalore,2,26,7,,1,175.00,,Delhi Daredevils,bold,0
+2,Avesh Khan,Virat Kohli,,,0,Delhi,Feroz Shah Kotla Ground,56,Sanju Samson,Royal Challengers Bangalore,,,0,,0,0.00,,Delhi Daredevils,catch,
+2,,,5,10.00,0,Delhi,Feroz Shah Kotla Ground,56,Travis Head,Delhi Daredevils,3,30,2,Shreyas Iyer/Zaheer Khan,0,100.00,,Royal Challengers Bangalore,runout,2
+1,,,10,7.75,0,Delhi,Feroz Shah Kotla Ground,56,Zaheer Khan,Royal Challengers Bangalore,4,31,1,,0,100.00,,Delhi Daredevils,,1
+4,,,11,4.00,0,Delhi,Feroz Shah Kotla Ground,56,Shane Watson,Delhi Daredevils,4,16,4,,0,100.00,,Royal Challengers Bangalore,,1
+13,Shardul Thakur,Steve Smith,,,2,Pune,Maharashtra Cricket Association's International Stadium,55,Shaun Marsh,Rising Pune Supergiant,,,10,,0,76.92,,Kings XI Punjab,catch,
+20,Axar Patel,,,,4,Pune,Maharashtra Cricket Association's International Stadium,55,Rahul Tripathi,Kings XI Punjab,,,28,,1,140.00,,Rising Pune Supergiant,bold,
+34,,,,,1,Pune,Maharashtra Cricket Association's International Stadium,55,Ajinkya Rahane,Kings XI Punjab,,,34,,1,100.00,,Rising Pune Supergiant,,
+1,Jaydev Unadkat,Manoj Tiwary,,,0,Pune,Maharashtra Cricket Association's International Stadium,55,Martin Guptill,Rising Pune Supergiant,,,0,,0,0.00,,Kings XI Punjab,catch,
+5,Adam Zampa,Steve Smith,1,12.00,0,Pune,Maharashtra Cricket Association's International Stadium,55,Ishant Sharma,Rising Pune Supergiant,1,12,1,,0,20.00,,Kings XI Punjab,catch,0
+,,,8,5.73,,Pune,Maharashtra Cricket Association's International Stadium,55,Adam Zampa,Kings XI Punjab,3.5,22,,,,,,Rising Pune Supergiant,,2
+17,Jaydev Unadkat,MS Dhoni,1,6.00,0,Pune,Maharashtra Cricket Association's International Stadium,55,Swapnil Singh,Rising Pune Supergiant,1,6,10,,0,58.82,,Kings XI Punjab,catch,0
+,,,12,3.33,,Pune,Maharashtra Cricket Association's International Stadium,55,Ben Stokes,Kings XI Punjab,3,10,,,,,,Rising Pune Supergiant,,0
+0,,,5,6.00,0,Pune,Maharashtra Cricket Association's International Stadium,55,Sandeep Sharma,Rising Pune Supergiant,2,12,0,,0,0.00,,Kings XI Punjab,,0
+,,,16,4.75,,Pune,Maharashtra Cricket Association's International Stadium,55,Shardul Thakur,Kings XI Punjab,4,19,,,,,,Rising Pune Supergiant,,3
+17,Dan Christian,MS Dhoni,,,0,Pune,Maharashtra Cricket Association's International Stadium,55,Wriddhiman Saha,Rising Pune Supergiant,,,13,,1,76.47,,Kings XI Punjab,catch,
+18,,,,,0,Pune,Maharashtra Cricket Association's International Stadium,55,Steve Smith,Kings XI Punjab,,,15,,0,83.33,,Rising Pune Supergiant,,
+20,Dan Christian,MS Dhoni,2,6.50,1,Pune,Maharashtra Cricket Association's International Stadium,55,Axar Patel,Rising Pune Supergiant,2,13,22,,1,110.00,,Kings XI Punjab,catch,1
+3,Shardul Thakur,Ajinkya Rahane,3,7.50,0,Pune,Maharashtra Cricket Association's International Stadium,55,Glenn Maxwell,Rising Pune Supergiant,2,15,0,,0,0.00,,Kings XI Punjab,catch,0
+4,,,,,1,Pune,Maharashtra Cricket Association's International Stadium,55,Eoin Morgan,Rising Pune Supergiant,,,4,Jaydev Unadkat,0,100.00,,Kings XI Punjab,runout,
+,,,4,5.00,,Pune,Maharashtra Cricket Association's International Stadium,55,Dan Christian,Kings XI Punjab,2,10,,,,,,Rising Pune Supergiant,,2
+3,Shardul Thakur,Jaydev Unadkat,10,4.66,1,Pune,Maharashtra Cricket Association's International Stadium,55,Rahul Tewatia,Rising Pune Supergiant,3,14,4,,0,133.33,,Kings XI Punjab,catch,0
+12,Adam Zampa,Dan Christian,3,6.00,0,Pune,Maharashtra Cricket Association's International Stadium,55,Mohit Sharma,Rising Pune Supergiant,1,6,6,,0,50.00,,Kings XI Punjab,catch,0
+,,,14,4.00,,Pune,Maharashtra Cricket Association's International Stadium,55,Jaydev Unadkat,Kings XI Punjab,3,12,,,,,,Rising Pune Supergiant,,2
+,,,11,9.75,,Kolkata,Eden Gardens,54,Tim Southee,Kolkata Knight Riders,4,39,,,,,,Mumbai Indians,,2
+16,Hardik Pandya,,7,8.00,4,Kolkata,Eden Gardens,54,Colin de Grandhomme,Mumbai Indians,2,16,29,,1,181.25,,Kolkata Knight Riders,bold,0
+7,Vinay Kumar,Hardik Pandya,,,0,Kolkata,Eden Gardens,54,Yusuf Pathan,Mumbai Indians,,,20,,3,285.71,,Kolkata Knight Riders,catch,
+2,,,9,5.50,0,Kolkata,Eden Gardens,54,Hardik Pandya,Kolkata Knight Riders,4,22,1,,0,50.00,,Mumbai Indians,,2
+4,Karn Sharma,Rohit Sharma,,,0,Kolkata,Eden Gardens,54,Robin Uthappa,Mumbai Indians,,,2,,0,50.00,,Kolkata Knight Riders,catch,
+33,Hardik Pandya,sub (Jagadeesha Suchith),,,2,Kolkata,Eden Gardens,54,Manish Pandey,Mumbai Indians,,,33,,0,100.00,,Kolkata Knight Riders,catch,
+5,Trent Boult,Sunil Narine,,,0,Kolkata,Eden Gardens,54,Lendl Simmons,Kolkata Knight Riders,,,0,,0,0.00,,Mumbai Indians,catch,
+16,Mitchell Johnson,Karn Sharma,,,3,Kolkata,Eden Gardens,54,Gautam Gambhir,Mumbai Indians,,,21,,1,131.25,,Kolkata Knight Riders,catch,
+1,,,2,7.00,0,Kolkata,Eden Gardens,54,Krunal Pandya,Kolkata Knight Riders,2,14,0,,0,0.00,,Mumbai Indians,,0
+,,,8,8.66,,Kolkata,Eden Gardens,54,Karn Sharma,Kolkata Knight Riders,3,26,,,,,,Mumbai Indians,,1
+11,Trent Boult,Yusuf Pathan,,,0,Kolkata,Eden Gardens,54,Kieron Pollard,Kolkata Knight Riders,,,13,,1,118.18,,Mumbai Indians,catch,
+8,,,13,7.50,0,Kolkata,Eden Gardens,54,Trent Boult,Mumbai Indians,4,30,5,,0,62.50,,Kolkata Knight Riders,,2
+43,,,,,9,Kolkata,Eden Gardens,54,Saurabh Tiwary,Kolkata Knight Riders,,,52,Umesh Yadav,0,120.93,,Mumbai Indians,runout,
+4,,,9,10.00,0,Kolkata,Eden Gardens,54,Umesh Yadav,Mumbai Indians,4,40,4,,0,100.00,,Kolkata Knight Riders,,0
+4,Tim Southee,Hardik Pandya,8,9.25,0,Kolkata,Eden Gardens,54,Sunil Narine,Mumbai Indians,4,37,0,,0,0.00,,Kolkata Knight Riders,catch,0
+37,Kuldeep Yadav,,,,6,Kolkata,Eden Gardens,54,Ambati Rayudu,Kolkata Knight Riders,,,63,,3,170.27,Robin Uthappa,Mumbai Indians,stemping,
+,,,6,10.33,,Kolkata,Eden Gardens,54,Vinay Kumar,Kolkata Knight Riders,3,31,,,,,,Mumbai Indians,,2
+,,,9,4.66,,Kolkata,Eden Gardens,54,Ankit Rajpoot,Mumbai Indians,3,14,,,,,,Kolkata Knight Riders,,1
+15,Tim Southee,Ambati Rayudu,5,8.33,2,Kolkata,Eden Gardens,54,Kuldeep Yadav,Mumbai Indians,3,25,16,,0,106.66,,Kolkata Knight Riders,catch,1
+,,,12,7.50,,Kolkata,Eden Gardens,54,Mitchell Johnson,Kolkata Knight Riders,4,30,,,,,,Mumbai Indians,,1
+21,Ankit Rajpoot,,,,4,Kolkata,Eden Gardens,54,Rohit Sharma,Kolkata Knight Riders,,,27,,1,128.57,,Mumbai Indians,lbw,
+14,Vinay Kumar,sub (Jagadeesha Suchith),,,3,Kolkata,Eden Gardens,54,Chris Lynn,Mumbai Indians,,,26,,2,185.71,,Kolkata Knight Riders,catch,
+11,Praveen Kumar,James Faulkner,,,4,Kanpur,Green Park,53,Shikhar Dhawan,Gujarat Lions,,,18,,0,163.63,,Sunrisers Hyderabad,catch,
+3,Rashid Khan,,,,0,Kanpur,Green Park,53,Aaron Finch,Sunrisers Hyderabad,,,2,,0,66.66,,Gujarat Lions,bold,
+,,,10,8.50,,Kanpur,Green Park,53,Rashid Khan,Gujarat Lions,4,34,,,,,,Sunrisers Hyderabad,,3
+5,Mohammed Siraj,Shikhar Dhawan,,,0,Kanpur,Green Park,53,Suresh Raina,Sunrisers Hyderabad,,,2,,0,40.00,,Gujarat Lions,catch,
+,,,9,7.50,,Kanpur,Green Park,53,Siddarth Kaul,Gujarat Lions,4,30,,,,,,Sunrisers Hyderabad,,1
+1,Rashid Khan,Deepak Hooda,,,0,Kanpur,Green Park,53,Dinesh Karthik,Sunrisers Hyderabad,,,0,,0,0.00,,Gujarat Lions,catch,
+2,Praveen Kumar,Dinesh Karthik,1,12.00,1,Kanpur,Green Park,53,Moises Henriques,Gujarat Lions,1,12,4,,0,200.00,,Sunrisers Hyderabad,catch,0
+1,Bhuvneshwar Kumar,,3,7.33,0,Kanpur,Green Park,53,Munaf Patel,Sunrisers Hyderabad,3,22,0,,0,0.00,,Gujarat Lions,bold,0
+33,Rashid Khan,,,,7,Kanpur,Green Park,53,Dwayne Smith,Sunrisers Hyderabad,,,54,,2,163.63,,Gujarat Lions,lbw,
+,,,10,8.00,,Kanpur,Green Park,53,Mohammed Siraj,Gujarat Lions,4,32,,,,,,Sunrisers Hyderabad,,4
+,,,9,5.66,,Kanpur,Green Park,53,Mohammad Nabi,Gujarat Lions,3,17,,,,,,Sunrisers Hyderabad,,0
+10,Mohammed Siraj,,0,12.00,1,Kanpur,Green Park,53,James Faulkner,Sunrisers Hyderabad,2,24,8,,0,80.00,,Gujarat Lions,bold,0
+6,Siddarth Kaul,,1,14.30,0,Kanpur,Green Park,53,Ankit Soni,Sunrisers Hyderabad,2.1,31,0,,0,0.00,,Gujarat Lions,bold,0
+52,,,,,9,Kanpur,Green Park,53,David Warner,Gujarat Lions,,,69,,0,132.69,,Sunrisers Hyderabad,,
+,,,9,7.50,,Kanpur,Green Park,53,Bhuvneshwar Kumar,Gujarat Lions,3.2,25,,,,,,Sunrisers Hyderabad,,2
+44,,,,,9,Kanpur,Green Park,53,Vijay Shankar,Gujarat Lions,,,63,,0,143.18,,Sunrisers Hyderabad,,
+40,Mohammed Siraj,Naman Ojha,,,5,Kanpur,Green Park,53,Ishan Kishan,Sunrisers Hyderabad,,,61,,4,152.50,,Gujarat Lions,catch,
+2,Bhuvneshwar Kumar,,15,5.50,0,Kanpur,Green Park,53,Praveen Kumar,Sunrisers Hyderabad,4,22,1,,0,50.00,,Gujarat Lions,bold,2
+14,,,4,6.33,2,Kanpur,Green Park,53,Ravindra Jadeja,Sunrisers Hyderabad,3,19,20,,0,142.85,,Gujarat Lions,,0
+1,Mohammed Siraj,,10,9.25,0,Kanpur,Green Park,53,Pradeep Sangwan,Sunrisers Hyderabad,4,37,0,,0,0.00,,Gujarat Lions,bold,0
+32,Shahbaz Nadeem,,,,4,Delhi,Feroz Shah Kotla Ground,52,Steve Smith,Delhi Daredevils,,,38,,1,118.75,,Rising Pune Supergiant,lbw,
+45,Pat Cummins,,,,5,Delhi,Feroz Shah Kotla Ground,52,Manoj Tiwary,Delhi Daredevils,,,60,,3,133.33,,Rising Pune Supergiant,bold,
+5,,,,,0,Delhi,Feroz Shah Kotla Ground,52,MS Dhoni,Delhi Daredevils,,,5,Mohammed Shami,0,100.00,,Rising Pune Supergiant,runout,
+4,,,,,0,Delhi,Feroz Shah Kotla Ground,52,Sanju Samson,Rising Pune Supergiant,,,2,Ben Stokes,0,50.00,,Delhi Daredevils,runout,
+3,Mohammed Shami,,1,9.00,0,Delhi,Feroz Shah Kotla Ground,52,Dan Christian,Delhi Daredevils,2,18,3,,0,100.00,,Rising Pune Supergiant,lbw,1
+0,,,11,7.00,0,Delhi,Feroz Shah Kotla Ground,52,Shahbaz Nadeem,Rising Pune Supergiant,3,21,0,,0,0.00,,Delhi Daredevils,,1
+,,,9,7.25,,Delhi,Feroz Shah Kotla Ground,52,Adam Zampa,Delhi Daredevils,4,29,,,,,,Rising Pune Supergiant,,1
+,,,10,7.25,,Delhi,Feroz Shah Kotla Ground,52,Jaydev Unadkat,Delhi Daredevils,4,29,,,,,,Rising Pune Supergiant,,2
+25,Mohammed Shami,Corey Anderson,11,7.75,3,Delhi,Feroz Shah Kotla Ground,52,Ben Stokes,Delhi Daredevils,4,31,33,,2,132.00,,Rising Pune Supergiant,catch,2
+5,Washington Sundar,,3,4.00,0,Delhi,Feroz Shah Kotla Ground,52,Corey Anderson,Rising Pune Supergiant,1,4,3,,0,60.00,MS Dhoni,Delhi Daredevils,stemping,0
+6,Ben Stokes,,12,7.75,0,Delhi,Feroz Shah Kotla Ground,52,Pat Cummins,Rising Pune Supergiant,4,31,11,,1,183.33,,Delhi Daredevils,bold,1
+4,Jaydev Unadkat,Ben Stokes,7,9.25,0,Delhi,Feroz Shah Kotla Ground,52,Mohammed Shami,Rising Pune Supergiant,4,37,2,,0,50.00,,Delhi Daredevils,catch,2
+,,,7,11.66,,Delhi,Feroz Shah Kotla Ground,52,Shardul Thakur,Delhi Daredevils,3,35,,,,,,Rising Pune Supergiant,,0
+21,Dan Christian,MS Dhoni,2,12.00,1,Delhi,Feroz Shah Kotla Ground,52,Marlon Samuels,Rising Pune Supergiant,1,12,27,,2,128.57,,Delhi Daredevils,catch,0
+4,Jaydev Unadkat,MS Dhoni,,,0,Delhi,Feroz Shah Kotla Ground,52,Shreyas Iyer,Rising Pune Supergiant,,,3,,0,75.00,,Delhi Daredevils,catch,
+3,,,7,7.66,0,Delhi,Feroz Shah Kotla Ground,52,Washington Sundar,Delhi Daredevils,3,23,5,,0,166.66,,Rising Pune Supergiant,,1
+6,Zaheer Khan,Rishabh Pant,,,1,Delhi,Feroz Shah Kotla Ground,52,Rahul Tripathi,Delhi Daredevils,,,7,,0,116.66,,Rising Pune Supergiant,catch,
+1,Zaheer Khan,,,,0,Delhi,Feroz Shah Kotla Ground,52,Ajinkya Rahane,Delhi Daredevils,,,0,,0,0.00,,Rising Pune Supergiant,bold,
+45,Ben Stokes,Jaydev Unadkat,,,9,Delhi,Feroz Shah Kotla Ground,52,Karun Nair,Rising Pune Supergiant,,,64,,0,142.22,,Delhi Daredevils,catch,
+9,,,4,8.66,0,Delhi,Feroz Shah Kotla Ground,52,Amit Mishra,Rising Pune Supergiant,3,26,13,,1,144.44,,Delhi Daredevils,,0
+22,Adam Zampa,Dan Christian,,,4,Delhi,Feroz Shah Kotla Ground,52,Rishabh Pant,Rising Pune Supergiant,,,36,,2,163.63,,Delhi Daredevils,catch,
+,,,7,6.25,,Delhi,Feroz Shah Kotla Ground,52,Zaheer Khan,Rising Pune Supergiant,4,25,,,,,,Delhi Daredevils,,2
+,,,5,8.50,,Mumbai,Wankhede Stadium,51,Rahul Tewatia,Mumbai Indians,2,17,,,,,,Kings XI Punjab,,1
+6,Mohit Sharma,,4,10.66,3,Mumbai,Wankhede Stadium,51,Karn Sharma,Kings XI Punjab,3,32,19,,1,316.66,,Mumbai Indians,bold,1
+24,,,,,1,Mumbai,Wankhede Stadium,51,Kieron Pollard,Kings XI Punjab,,,50,,5,208.33,,Mumbai Indians,,
+,,,6,14.25,,Mumbai,Wankhede Stadium,51,Mohit Sharma,Mumbai Indians,4,57,,,,,,Kings XI Punjab,,2
+18,Karn Sharma,Hardik Pandya,,,5,Mumbai,Wankhede Stadium,51,Martin Guptill,Mumbai Indians,,,36,,1,200.00,,Kings XI Punjab,catch,
+,,,8,9.66,,Mumbai,Wankhede Stadium,51,Ishant Sharma,Mumbai Indians,3,29,,,,,,Kings XI Punjab,,0
+16,Mitchell McClenaghan,Parthiv Patel,,,0,Mumbai,Wankhede Stadium,51,Shaun Marsh,Mumbai Indians,,,25,,2,156.25,,Kings XI Punjab,catch,
+13,Sandeep Sharma,Wriddhiman Saha,3,14.50,0,Mumbai,Wankhede Stadium,51,Hardik Pandya,Kings XI Punjab,2,29,30,,4,230.76,,Mumbai Indians,catch,0
+,,,10,6.00,,Mumbai,Wankhede Stadium,51,Jasprit Bumrah,Kings XI Punjab,4,24,,,,,,Mumbai Indians,,1
+,,,8,10.50,,Mumbai,Wankhede Stadium,51,Sandeep Sharma,Mumbai Indians,4,42,,,,,,Kings XI Punjab,,1
+55,,,,,11,Mumbai,Wankhede Stadium,51,Wriddhiman Saha,Mumbai Indians,,,93,,3,169.09,,Kings XI Punjab,,
+23,Mohit Sharma,Manan Vohra,,,7,Mumbai,Wankhede Stadium,51,Parthiv Patel,Kings XI Punjab,,,38,,0,165.21,,Mumbai Indians,catch,
+32,Glenn Maxwell,Martin Guptill,,,5,Mumbai,Wankhede Stadium,51,Lendl Simmons,Kings XI Punjab,,,59,,4,184.37,,Mumbai Indians,catch,
+,,,2,20.00,,Mumbai,Wankhede Stadium,51,Matt Henry,Mumbai Indians,2,40,,,,,,Kings XI Punjab,,0
+13,,,6,9.33,0,Mumbai,Wankhede Stadium,51,Axar Patel,Mumbai Indians,3,28,19,,1,146.15,,Kings XI Punjab,,1
+21,Jasprit Bumrah,,5,4.00,2,Mumbai,Wankhede Stadium,51,Glenn Maxwell,Mumbai Indians,2,8,47,,5,223.80,,Kings XI Punjab,bold,1
+,,,5,11.25,,Mumbai,Wankhede Stadium,51,Lasith Malinga,Kings XI Punjab,4,45,,,,,,Mumbai Indians,,0
+12,Axar Patel,Martin Guptill,,,2,Mumbai,Wankhede Stadium,51,Nitish Rana,Kings XI Punjab,,,12,,0,100.00,,Mumbai Indians,catch,
+4,,,1,15.00,0,Mumbai,Wankhede Stadium,51,Harbhajan Singh,Kings XI Punjab,3,45,2,,0,50.00,,Mumbai Indians,,0
+7,Rahul Tewatia,Martin Guptill,,,0,Mumbai,Wankhede Stadium,51,Rohit Sharma,Kings XI Punjab,,,5,,0,71.42,,Mumbai Indians,catch,
+,,,4,13.50,,Mumbai,Wankhede Stadium,51,Mitchell McClenaghan,Kings XI Punjab,4,54,,,,,,Mumbai Indians,,1
+8,,,10,9.75,1,Kanpur,Green Park,50,James Faulkner,Delhi Daredevils,4,39,14,,0,175.00,,Gujarat Lions,,2
+39,Mohammed Shami,,,,6,Kanpur,Green Park,50,Aaron Finch,Delhi Daredevils,,,69,,4,176.92,,Gujarat Lions,bold,
+8,,,1,17.00,1,Kanpur,Green Park,50,Dwayne Smith,Delhi Daredevils,1,17,8,Amit Mishra,0,100.00,,Gujarat Lions,runout,0
+15,James Faulkner,Dwayne Smith,,,5,Kanpur,Green Park,50,Karun Nair,Gujarat Lions,,,30,,1,200.00,,Delhi Daredevils,catch,
+10,Dhawal Kulkarni,&,5,9.50,2,Kanpur,Green Park,50,Carlos Brathwaite,Gujarat Lions,4,38,11,,0,110.00,,Delhi Daredevils,catch,1
+28,Carlos Brathwaite,Corey Anderson,,,4,Kanpur,Green Park,50,Dinesh Karthik,Delhi Daredevils,,,40,,1,142.85,,Gujarat Lions,catch,
+5,Pat Cummins,,,,1,Kanpur,Green Park,50,Suresh Raina,Delhi Daredevils,,,6,,0,120.00,,Gujarat Lions,bold,
+,,,10,7.50,,Kanpur,Green Park,50,Dhawal Kulkarni,Delhi Daredevils,4,30,,,,,,Gujarat Lions,,1
+4,,,,,0,Kanpur,Green Park,50,Marlon Samuels,Gujarat Lions,,,1,Ravindra Jadeja,0,25.00,,Delhi Daredevils,runout,
+6,,,3,9.50,1,Kanpur,Green Park,50,Corey Anderson,Gujarat Lions,2,19,6,Ravindra Jadeja,0,100.00,,Delhi Daredevils,runout,0
+,,,5,11.72,,Kanpur,Green Park,50,Basil Thampi,Delhi Daredevils,3.4,43,,,,,,Gujarat Lions,,1
+2,,,2,13.50,2,Kanpur,Green Park,50,Amit Mishra,Gujarat Lions,2,27,8,,0,400.00,,Delhi Daredevils,,1
+13,James Faulkner,Dwayne Smith,4,9.50,2,Kanpur,Green Park,50,Pat Cummins,Gujarat Lions,4,38,24,,1,184.61,,Delhi Daredevils,catch,1
+2,,,,,1,Kanpur,Green Park,50,Rishabh Pant,Gujarat Lions,,,4,Suresh Raina,0,200.00,,Delhi Daredevils,runout,
+57,Basil Thampi,,,,15,Kanpur,Green Park,50,Shreyas Iyer,Gujarat Lions,,,96,,2,168.42,,Delhi Daredevils,bold,
+7,Pradeep Sangwan,,,,2,Kanpur,Green Park,50,Sanju Samson,Gujarat Lions,,,10,,0,142.85,,Delhi Daredevils,bold,
+2,,,11,9.00,1,Kanpur,Green Park,50,Mohammed Shami,Gujarat Lions,4,36,4,,0,200.00,,Delhi Daredevils,,1
+25,Amit Mishra,Zaheer Khan,,,5,Kanpur,Green Park,50,Ishan Kishan,Delhi Daredevils,,,34,,1,136.00,,Gujarat Lions,catch,
+7,,,10,7.75,2,Kanpur,Green Park,50,Ravindra Jadeja,Delhi Daredevils,4,31,13,,0,185.71,,Gujarat Lions,,0
+,,,9,7.50,,Kanpur,Green Park,50,Zaheer Khan,Gujarat Lions,4,30,,,,,,Delhi Daredevils,,0
+,,,7,11.66,,Kanpur,Green Park,50,Pradeep Sangwan,Delhi Daredevils,3,35,,,,,,Gujarat Lions,,1
+,,,6,7.75,,Mohali,IS Bindra Stadium,49,Sandeep Sharma,Kolkata Knight Riders,4,31,,,,,,Kings XI Punjab,,0
+7,,,8,9.25,1,Mohali,IS Bindra Stadium,49,Colin de Grandhomme,Kings XI Punjab,4,37,11,,0,157.14,,Kolkata Knight Riders,,0
+3,Mohit Sharma,Glenn Maxwell,,,0,Mohali,IS Bindra Stadium,49,Yusuf Pathan,Kings XI Punjab,,,2,,0,66.66,,Kolkata Knight Riders,catch,
+33,Kuldeep Yadav,,,,2,Mohali,IS Bindra Stadium,49,Wriddhiman Saha,Kolkata Knight Riders,,,38,,1,115.15,Robin Uthappa,Kings XI Punjab,stemping,
+8,,,10,4.50,3,Mohali,IS Bindra Stadium,49,Rahul Tewatia,Kolkata Knight Riders,4,18,15,,0,187.50,,Kings XI Punjab,,2
+18,Rahul Tewatia,Shaun Marsh,,,0,Mohali,IS Bindra Stadium,49,Gautam Gambhir,Kings XI Punjab,,,8,,0,44.44,,Kolkata Knight Riders,catch,
+1,Rahul Tewatia,Axar Patel,,,0,Mohali,IS Bindra Stadium,49,Robin Uthappa,Kings XI Punjab,,,0,,0,0.00,,Kolkata Knight Riders,catch,
+23,Matt Henry,Axar Patel,,,1,Mohali,IS Bindra Stadium,49,Manish Pandey,Kings XI Punjab,,,18,,0,78.26,,Kolkata Knight Riders,catch,
+6,,,12,5.00,0,Mohali,IS Bindra Stadium,49,Chris Woakes,Kings XI Punjab,4,20,8,,1,133.33,,Kolkata Knight Riders,,2
+10,,,9,7.00,0,Mohali,IS Bindra Stadium,49,Axar Patel,Kolkata Knight Riders,4,28,8,,0,80.00,,Kings XI Punjab,,0
+10,Chris Woakes,,,,2,Mohali,IS Bindra Stadium,49,Shaun Marsh,Kolkata Knight Riders,,,11,,0,110.00,,Kings XI Punjab,bold,
+25,Kuldeep Yadav,Chris Woakes,,,1,Mohali,IS Bindra Stadium,49,Glenn Maxwell,Kolkata Knight Riders,,,44,,4,176.00,,Kings XI Punjab,catch,
+,,,7,8.66,,Mohali,IS Bindra Stadium,49,Umesh Yadav,Kings XI Punjab,3,26,,,,,,Kolkata Knight Riders,,1
+,,,5,10.33,,Mohali,IS Bindra Stadium,49,Matt Henry,Kolkata Knight Riders,3,31,,,,,,Kings XI Punjab,,1
+10,Mohit Sharma,,8,6.75,4,Mohali,IS Bindra Stadium,49,Sunil Narine,Kings XI Punjab,4,27,18,,0,180.00,,Kolkata Knight Riders,bold,1
+16,Umesh Yadav,Robin Uthappa,,,4,Mohali,IS Bindra Stadium,49,Manan Vohra,Kolkata Knight Riders,,,25,,0,156.25,,Kings XI Punjab,catch,
+16,Sunil Narine,,,,1,Mohali,IS Bindra Stadium,49,Martin Guptill,Kolkata Knight Riders,,,12,,0,75.00,,Kings XI Punjab,lbw,
+2,Chris Woakes,,2,9.50,0,Mohali,IS Bindra Stadium,49,Swapnil Singh,Kolkata Knight Riders,2,19,2,,0,100.00,,Kings XI Punjab,bold,0
+,,,4,8.50,,Mohali,IS Bindra Stadium,49,Ankit Rajpoot,Kings XI Punjab,2,17,,,,,,Kolkata Knight Riders,,0
+,,,4,11.33,,Mohali,IS Bindra Stadium,49,Kuldeep Yadav,Kings XI Punjab,3,34,,,,,,Kolkata Knight Riders,,2
+,,,8,8.00,,Mohali,IS Bindra Stadium,49,Mohit Sharma,Kolkata Knight Riders,3,24,,,,,,Kings XI Punjab,,2
+52,,,,,8,Mohali,IS Bindra Stadium,49,Chris Lynn,Kings XI Punjab,,,84,Axar Patel,3,161.53,,Kolkata Knight Riders,runout,
+,,,5,8.50,,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,48,Lasith Malinga,Sunrisers Hyderabad,4,34,,,,,,Mumbai Indians,,1
+46,,,,,4,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,48,Shikhar Dhawan,Mumbai Indians,,,62,,2,134.78,,Sunrisers Hyderabad,,
+9,Bhuvneshwar Kumar,Vijay Shankar,,,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,48,Kieron Pollard,Sunrisers Hyderabad,,,5,,0,55.55,,Mumbai Indians,catch,
+,,,6,10.66,,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,48,Mohammed Siraj,Mumbai Indians,3,32,,,,,,Sunrisers Hyderabad,,0
+,,,11,5.50,,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,48,Rashid Khan,Mumbai Indians,4,22,,,,,,Sunrisers Hyderabad,,1
+1,,,8,6.50,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,48,Mitchell McClenaghan,Sunrisers Hyderabad,4,26,2,,0,200.00,,Mumbai Indians,,1
+5,Bhuvneshwar Kumar,Naman Ojha,6,9.50,1,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,48,Karn Sharma,Sunrisers Hyderabad,2,19,5,,0,100.00,,Mumbai Indians,catch,0
+35,Jasprit Bumrah,Rohit Sharma,0,15.00,6,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,48,Moises Henriques,Mumbai Indians,1,15,44,,0,125.71,,Sunrisers Hyderabad,catch,0
+24,Rashid Khan,Moises Henriques,1,13.00,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,48,Hardik Pandya,Sunrisers Hyderabad,1,13,15,,0,62.50,,Mumbai Indians,catch,0
+,,,9,6.90,,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,48,Jasprit Bumrah,Sunrisers Hyderabad,3.2,23,,,,,,Mumbai Indians,,1
+,,,9,7.25,,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,48,Bhuvneshwar Kumar,Mumbai Indians,4,29,,,,,,Sunrisers Hyderabad,,2
+3,,,8,5.75,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,48,Harbhajan Singh,Sunrisers Hyderabad,4,23,1,,0,33.33,,Mumbai Indians,,0
+5,Mohammad Nabi,,,,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,48,Lendl Simmons,Sunrisers Hyderabad,,,1,,0,20.00,,Mumbai Indians,bold,
+,,,8,6.00,,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,48,Siddarth Kaul,Mumbai Indians,4,24,,,,,,Sunrisers Hyderabad,,3
+6,Mitchell McClenaghan,,,,1,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,48,David Warner,Mumbai Indians,,,6,,0,100.00,,Sunrisers Hyderabad,lbw,
+11,Lasith Malinga,Hardik Pandya,,,1,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,48,Yuvraj Singh,Mumbai Indians,,,9,,0,81.81,,Sunrisers Hyderabad,catch,
+45,Siddarth Kaul,,,,6,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,48,Rohit Sharma,Sunrisers Hyderabad,,,67,,2,148.88,,Mumbai Indians,bold,
+12,,,,,1,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,48,Vijay Shankar,Mumbai Indians,,,15,,0,125.00,,Sunrisers Hyderabad,,
+11,Siddarth Kaul,Bhuvneshwar Kumar,,,2,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,48,Nitish Rana,Sunrisers Hyderabad,,,9,,0,81.81,,Mumbai Indians,catch,
+17,Siddarth Kaul,David Warner,,,1,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,48,Parthiv Patel,Sunrisers Hyderabad,,,23,,1,135.29,,Mumbai Indians,catch,
+,,,15,3.25,,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,48,Mohammad Nabi,Mumbai Indians,4,13,,,,,,Sunrisers Hyderabad,,1
+60,Basil Thampi,,,,8,Mohali,IS Bindra Stadium,47,Hashim Amla,Gujarat Lions,,,104,,5,173.33,,Kings XI Punjab,lbw,
+43,Dhawal Kulkarni,Aaron Finch,,,6,Mohali,IS Bindra Stadium,47,Shaun Marsh,Gujarat Lions,,,58,,0,134.88,,Kings XI Punjab,catch,
+2,Sandeep Sharma,Wriddhiman Saha,,,0,Mohali,IS Bindra Stadium,47,Aaron Finch,Kings XI Punjab,,,2,,0,100.00,,Gujarat Lions,catch,
+,,,4,8.75,,Mohali,IS Bindra Stadium,47,Mohit Sharma,Gujarat Lions,4,35,,,,,,Kings XI Punjab,,0
+25,Sandeep Sharma,Gurkeerat Singh,,,4,Mohali,IS Bindra Stadium,47,Suresh Raina,Kings XI Punjab,,,39,,1,156.00,,Gujarat Lions,catch,
+,,,6,10.75,,Mohali,IS Bindra Stadium,47,Varun Aaron,Gujarat Lions,4,43,,,,,,Kings XI Punjab,,0
+23,,,,,2,Mohali,IS Bindra Stadium,47,Dinesh Karthik,Kings XI Punjab,,,35,,1,152.17,,Gujarat Lions,,
+11,,,3,10.50,0,Mohali,IS Bindra Stadium,47,Glenn Maxwell,Gujarat Lions,2,21,20,,2,181.81,,Kings XI Punjab,,1
+39,Glenn Maxwell,Martin Guptill,,,8,Mohali,IS Bindra Stadium,47,Dwayne Smith,Kings XI Punjab,,,74,,4,189.74,,Gujarat Lions,catch,
+,,,9,7.25,,Mohali,IS Bindra Stadium,47,Sandeep Sharma,Gujarat Lions,4,29,,,,,,Kings XI Punjab,,2
+,,,2,10.75,,Mohali,IS Bindra Stadium,47,James Faulkner,Kings XI Punjab,4,43,,,,,,Gujarat Lions,,0
+,,,4,12.00,,Mohali,IS Bindra Stadium,47,T Natarajan,Gujarat Lions,2.4,32,,,,,,Kings XI Punjab,,1
+,,,2,12.00,,Mohali,IS Bindra Stadium,47,Basil Thampi,Kings XI Punjab,4,48,,,,,,Gujarat Lions,,1
+5,Pradeep Sangwan,Basil Thampi,,,0,Mohali,IS Bindra Stadium,47,Martin Guptill,Gujarat Lions,,,2,,0,40.00,,Kings XI Punjab,catch,
+,,,3,9.00,,Mohali,IS Bindra Stadium,47,Ankit Soni,Kings XI Punjab,3,27,,,,,,Gujarat Lions,,0
+1,,,1,9.66,0,Mohali,IS Bindra Stadium,47,Axar Patel,Gujarat Lions,3,29,2,,0,200.00,,Kings XI Punjab,,0
+,,,9,6.00,,Mohali,IS Bindra Stadium,47,Dhawal Kulkarni,Kings XI Punjab,4,24,,,,,,Gujarat Lions,,1
+24,T Natarajan,sub (David Miller),,,3,Mohali,IS Bindra Stadium,47,Ishan Kishan,Kings XI Punjab,,,29,,0,120.83,,Gujarat Lions,catch,
+6,,,1,9.50,0,Mohali,IS Bindra Stadium,47,Ravindra Jadeja,Kings XI Punjab,2,19,7,,0,116.66,,Gujarat Lions,,0
+,,,8,9.33,,Mohali,IS Bindra Stadium,47,Pradeep Sangwan,Kings XI Punjab,3,28,,,,,,Gujarat Lions,,1
+,,,10,6.70,,Bengaluru,M. Chinnaswamy Stadium,46,Aniket Choudhary,Kolkata Knight Riders,2.5,19,,,,,,Royal Challengers Bangalore,,1
+,,,8,9.75,,Bengaluru,M. Chinnaswamy Stadium,46,Chris Woakes,Royal Challengers Bangalore,4,39,,,,,,Kolkata Knight Riders,,1
+9,Umesh Yadav,,,,0,Bengaluru,M. Chinnaswamy Stadium,46,Virat Kohli,Kolkata Knight Riders,,,5,,0,55.55,,Royal Challengers Bangalore,lbw,
+5,,,,,0,Bengaluru,M. Chinnaswamy Stadium,46,Yusuf Pathan,Royal Challengers Bangalore,,,0,,0,0.00,,Kolkata Knight Riders,,
+28,Pawan Negi,,2,7.50,1,Bengaluru,M. Chinnaswamy Stadium,46,Colin de Grandhomme,Royal Challengers Bangalore,2,15,31,,2,110.71,Kedar Jadhav,Kolkata Knight Riders,stemping,0
+3,,,,,0,Bengaluru,M. Chinnaswamy Stadium,46,Manish Pandey,Royal Challengers Bangalore,,,4,,0,133.33,,Kolkata Knight Riders,,
+3,Umesh Yadav,Chris Lynn,4,6.63,1,Bengaluru,M. Chinnaswamy Stadium,46,Pawan Negi,Kolkata Knight Riders,3.1,21,5,,0,166.66,,Royal Challengers Bangalore,catch,2
+43,Sunil Narine,Umesh Yadav,,,4,Bengaluru,M. Chinnaswamy Stadium,46,Mandeep Singh,Kolkata Knight Riders,,,52,,1,120.93,,Royal Challengers Bangalore,catch,
+47,,,1,9.42,3,Bengaluru,M. Chinnaswamy Stadium,46,Travis Head,Kolkata Knight Riders,1.1,11,75,,5,159.57,,Royal Challengers Bangalore,,0
+16,Yuzvendra Chahal,Pawan Negi,,,0,Bengaluru,M. Chinnaswamy Stadium,46,Gautam Gambhir,Royal Challengers Bangalore,,,14,,0,87.50,,Kolkata Knight Riders,catch,
+,,,7,6.25,,Bengaluru,M. Chinnaswamy Stadium,46,Ankit Rajpoot,Royal Challengers Bangalore,4,25,,,,,,Kolkata Knight Riders,,0
+17,Aniket Choudhary,Kedar Jadhav,8,7.25,6,Bengaluru,M. Chinnaswamy Stadium,46,Sunil Narine,Royal Challengers Bangalore,4,29,54,,4,317.64,,Kolkata Knight Riders,catch,2
+0,,,0,26.00,0,Bengaluru,M. Chinnaswamy Stadium,46,Sreenath Arvind,Kolkata Knight Riders,1,26,0,,0,0.00,,Royal Challengers Bangalore,,0
+1,Umesh Yadav,Gautam Gambhir,,,0,Bengaluru,M. Chinnaswamy Stadium,46,Chris Gayle,Kolkata Knight Riders,,,0,,0,0.00,,Royal Challengers Bangalore,catch,
+8,Sunil Narine,,,,2,Bengaluru,M. Chinnaswamy Stadium,46,AB de Villiers,Kolkata Knight Riders,,,10,,0,125.00,,Royal Challengers Bangalore,bold,
+,,,5,13.33,,Bengaluru,M. Chinnaswamy Stadium,46,Samuel Badree,Kolkata Knight Riders,3,40,,,,,,Royal Challengers Bangalore,,0
+,,,13,9.75,,Bengaluru,M. Chinnaswamy Stadium,46,Yuzvendra Chahal,Kolkata Knight Riders,4,39,,,,,,Royal Challengers Bangalore,,1
+22,Pawan Negi,,,,5,Bengaluru,M. Chinnaswamy Stadium,46,Chris Lynn,Royal Challengers Bangalore,,,50,,4,227.27,,Kolkata Knight Riders,bold,
+9,Chris Woakes,Umesh Yadav,,,1,Bengaluru,M. Chinnaswamy Stadium,46,Kedar Jadhav,Kolkata Knight Riders,,,8,,0,88.88,,Royal Challengers Bangalore,catch,
+,,,12,9.00,,Bengaluru,M. Chinnaswamy Stadium,46,Umesh Yadav,Royal Challengers Bangalore,4,36,,,,,,Kolkata Knight Riders,,3
+,,,1,6.50,,Bengaluru,M. Chinnaswamy Stadium,46,Piyush Chawla,Royal Challengers Bangalore,2,13,,,,,,Kolkata Knight Riders,,0
+,,,10,2.50,,Delhi,Feroz Shah Kotla Ground,45,Lasith Malinga,Delhi Daredevils,2,5,,,,,,Mumbai Indians,,2
+,,,14,3.00,,Delhi,Feroz Shah Kotla Ground,45,Karn Sharma,Delhi Daredevils,3.4,11,,,,,,Mumbai Indians,,3
+5,Karn Sharma,Rohit Sharma,9,8.25,0,Delhi,Feroz Shah Kotla Ground,45,Kagiso Rabada,Mumbai Indians,4,33,0,,0,0.00,,Delhi Daredevils,catch,1
+15,Harbhajan Singh,Rohit Sharma,,,3,Delhi,Feroz Shah Kotla Ground,45,Karun Nair,Mumbai Indians,,,21,,1,140.00,,Delhi Daredevils,catch,
+14,,,4,2.00,1,Delhi,Feroz Shah Kotla Ground,45,Hardik Pandya,Delhi Daredevils,1,2,29,,3,207.14,,Mumbai Indians,,0
+,,,3,6.00,,Delhi,Feroz Shah Kotla Ground,45,Jasprit Bumrah,Delhi Daredevils,1,6,,,,,,Mumbai Indians,,1
+5,Karn Sharma,Rohit Sharma,,,0,Delhi,Feroz Shah Kotla Ground,45,Marlon Samuels,Mumbai Indians,,,1,,0,20.00,,Delhi Daredevils,catch,
+8,Lasith Malinga,Karn Sharma,1,14.50,2,Delhi,Feroz Shah Kotla Ground,45,Corey Anderson,Mumbai Indians,2,29,10,,0,125.00,,Delhi Daredevils,catch,1
+,,,15,5.50,,Delhi,Feroz Shah Kotla Ground,45,Harbhajan Singh,Delhi Daredevils,4,22,,,,,,Mumbai Indians,,3
+43,Corey Anderson,Marlon Samuels,,,5,Delhi,Feroz Shah Kotla Ground,45,Lendl Simmons,Delhi Daredevils,,,66,,4,153.48,,Mumbai Indians,catch,
+14,,,10,9.25,0,Delhi,Feroz Shah Kotla Ground,45,Amit Mishra,Mumbai Indians,4,37,9,,0,64.28,,Delhi Daredevils,,1
+35,,,,,5,Delhi,Feroz Shah Kotla Ground,45,Kieron Pollard,Delhi Daredevils,,,63,,4,180.00,,Mumbai Indians,,
+10,Harbhajan Singh,Parthiv Patel,6,14.75,0,Delhi,Feroz Shah Kotla Ground,45,Pat Cummins,Mumbai Indians,4,59,10,,1,100.00,,Delhi Daredevils,catch,0
+3,Jasprit Bumrah,Lendl Simmons,,,0,Delhi,Feroz Shah Kotla Ground,45,Rishabh Pant,Mumbai Indians,,,0,,0,0.00,,Delhi Daredevils,catch,
+6,Kagiso Rabada,Amit Mishra,,,1,Delhi,Feroz Shah Kotla Ground,45,Rohit Sharma,Delhi Daredevils,,,10,,0,166.66,,Mumbai Indians,catch,
+6,Lasith Malinga,Harbhajan Singh,,,0,Delhi,Feroz Shah Kotla Ground,45,Shreyas Iyer,Mumbai Indians,,,3,,0,50.00,,Delhi Daredevils,catch,
+1,Mitchell McClenaghan,Lendl Simmons,,,0,Delhi,Feroz Shah Kotla Ground,45,Sanju Samson,Mumbai Indians,,,0,,0,0.00,,Delhi Daredevils,catch,
+4,Harbhajan Singh,Kieron Pollard,5,8.00,0,Delhi,Feroz Shah Kotla Ground,45,Mohammed Shami,Mumbai Indians,2,16,7,,1,175.00,,Delhi Daredevils,catch,0
+22,Amit Mishra,,,,3,Delhi,Feroz Shah Kotla Ground,45,Parthiv Patel,Delhi Daredevils,,,25,,0,113.63,Rishabh Pant,Mumbai Indians,stemping,
+11,Karn Sharma,Nitish Rana,6,7.25,0,Delhi,Feroz Shah Kotla Ground,45,Zaheer Khan,Mumbai Indians,4,29,2,,0,18.18,,Delhi Daredevils,catch,0
+,,,5,9.00,,Delhi,Feroz Shah Kotla Ground,45,Mitchell McClenaghan,Delhi Daredevils,2,18,,,,,,Mumbai Indians,,1
+0,,,4,4.28,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,44,Ashish Nehra,Rising Pune Supergiant,1.1,5,0,,0,0.00,,Sunrisers Hyderabad,,0
+39,Siddarth Kaul,Bipul Sharma,,,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,44,Steve Smith,Sunrisers Hyderabad,,,34,,0,87.17,,Rising Pune Supergiant,catch,
+7,Jaydev Unadkat,Ben Stokes,5,9.75,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,44,Bipul Sharma,Rising Pune Supergiant,4,39,8,,0,114.28,,Sunrisers Hyderabad,catch,1
+3,,,9,6.33,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,44,Washington Sundar,Sunrisers Hyderabad,3,19,1,,0,33.33,,Rising Pune Supergiant,,0
+5,,,,,1,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,44,Manoj Tiwary,Sunrisers Hyderabad,,,9,David Warner/Bhuvneshwar Kumar,0,180.00,,Rising Pune Supergiant,runout,
+21,Siddarth Kaul,Naman Ojha,,,2,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,44,MS Dhoni,Sunrisers Hyderabad,,,31,,2,147.61,,Rising Pune Supergiant,catch,
+4,Jaydev Unadkat,&,9,4.50,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,44,Rashid Khan,Rising Pune Supergiant,4,18,3,,0,75.00,,Sunrisers Hyderabad,catch,1
+12,Ben Stokes,,,,2,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,44,Shikhar Dhawan,Rising Pune Supergiant,,,19,,1,158.33,,Sunrisers Hyderabad,bold,
+0,,,12,7.50,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,44,Jaydev Unadkat,Sunrisers Hyderabad,4,30,0,,0,0.00,,Rising Pune Supergiant,,5
+9,Jaydev Unadkat,Ben Stokes,,,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,44,Naman Ojha,Rising Pune Supergiant,,,9,,1,100.00,,Sunrisers Hyderabad,catch,
+25,Rashid Khan,,11,7.50,1,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,44,Ben Stokes,Sunrisers Hyderabad,4,30,39,,3,156.00,,Rising Pune Supergiant,bold,3
+34,Ben Stokes,Shardul Thakur,,,4,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,44,David Warner,Rising Pune Supergiant,,,40,,1,117.64,,Sunrisers Hyderabad,catch,
+,,,11,6.00,,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,44,Imran Tahir,Sunrisers Hyderabad,4,24,,,,,,Rising Pune Supergiant,,1
+2,,,9,7.25,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,44,Siddarth Kaul,Rising Pune Supergiant,4,29,0,,0,0.00,,Sunrisers Hyderabad,,4
+1,Siddarth Kaul,David Warner,6,6.00,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,44,Shardul Thakur,Sunrisers Hyderabad,2,12,0,,0,0.00,,Rising Pune Supergiant,catch,0
+6,Imran Tahir,,7,5.29,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,44,Moises Henriques,Rising Pune Supergiant,2.5,15,4,,0,66.66,,Sunrisers Hyderabad,bold,0
+2,Siddarth Kaul,Rashid Khan,6,7.00,1,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,44,Dan Christian,Sunrisers Hyderabad,3,21,4,,0,200.00,,Rising Pune Supergiant,catch,0
+2,Ben Stokes,MS Dhoni,,,1,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,44,Kane Williamson,Rising Pune Supergiant,,,4,,0,200.00,,Sunrisers Hyderabad,catch,
+4,,,,,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,44,Rahul Tripathi,Sunrisers Hyderabad,,,1,Bipul Sharma,0,25.00,,Rising Pune Supergiant,runout,
+20,Bipul Sharma,Yuvraj Singh,,,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,44,Ajinkya Rahane,Sunrisers Hyderabad,,,22,,1,110.00,,Rising Pune Supergiant,catch,
+1,Jaydev Unadkat,Ajinkya Rahane,5,9.75,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,44,Bhuvneshwar Kumar,Rising Pune Supergiant,4,39,0,,0,0.00,,Sunrisers Hyderabad,catch,0
+43,Jaydev Unadkat,Rahul Tripathi,,,4,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,44,Yuvraj Singh,Rising Pune Supergiant,,,47,,2,109.30,,Sunrisers Hyderabad,catch,
+23,Axar Patel,Wriddhiman Saha,7,7.00,2,Bengaluru,M. Chinnaswamy Stadium,43,Pawan Negi,Kings XI Punjab,3,21,21,,0,91.30,,Royal Challengers Bangalore,catch,1
+25,Shane Watson,,,,1,Bengaluru,M. Chinnaswamy Stadium,43,Wriddhiman Saha,Royal Challengers Bangalore,,,21,,0,84.00,,Kings XI Punjab,bold,
+6,Glenn Maxwell,,6,6.50,0,Bengaluru,M. Chinnaswamy Stadium,43,Sreenath Arvind,Kings XI Punjab,2,13,4,,0,66.66,,Royal Challengers Bangalore,lbw,1
+9,Axar Patel,,8,4.66,0,Bengaluru,M. Chinnaswamy Stadium,43,Samuel Badree,Kings XI Punjab,3,14,8,,0,88.88,,Royal Challengers Bangalore,bold,0
+6,Mohit Sharma,Martin Guptill,13,4.25,0,Bengaluru,M. Chinnaswamy Stadium,43,Aniket Choudhary,Kings XI Punjab,4,17,4,,0,66.66,,Royal Challengers Bangalore,catch,2
+6,Sandeep Sharma,,,,1,Bengaluru,M. Chinnaswamy Stadium,43,Virat Kohli,Kings XI Punjab,,,6,,0,100.00,,Royal Challengers Bangalore,bold,
+,,,15,5.50,,Bengaluru,M. Chinnaswamy Stadium,43,Sandeep Sharma,Royal Challengers Bangalore,4,22,,,,,,Kings XI Punjab,,3
+17,,,7,3.66,3,Bengaluru,M. Chinnaswamy Stadium,43,Axar Patel,Royal Challengers Bangalore,3,11,38,,2,223.52,,Kings XI Punjab,,3
+2,Sandeep Sharma,Martin Guptill,,,0,Bengaluru,M. Chinnaswamy Stadium,43,Chris Gayle,Kings XI Punjab,,,0,,0,0.00,,Royal Challengers Bangalore,catch,
+40,Glenn Maxwell,,,,5,Bengaluru,M. Chinnaswamy Stadium,43,Mandeep Singh,Kings XI Punjab,,,46,,2,115.00,,Royal Challengers Bangalore,bold,
+4,,,14,5.25,0,Bengaluru,M. Chinnaswamy Stadium,43,Yuzvendra Chahal,Kings XI Punjab,4,21,4,,0,100.00,,Royal Challengers Bangalore,,2
+17,Pawan Negi,Mandeep Singh,,,3,Bengaluru,M. Chinnaswamy Stadium,43,Shaun Marsh,Royal Challengers Bangalore,,,20,,0,117.64,,Kings XI Punjab,catch,
+5,,,14,7.00,0,Bengaluru,M. Chinnaswamy Stadium,43,Varun Aaron,Royal Challengers Bangalore,4,28,0,,0,0.00,,Kings XI Punjab,,0
+11,Yuzvendra Chahal,Samuel Badree,5,5.00,1,Bengaluru,M. Chinnaswamy Stadium,43,Glenn Maxwell,Royal Challengers Bangalore,3,15,6,,0,54.54,,Kings XI Punjab,catch,2
+6,Sandeep Sharma,Wriddhiman Saha,,,1,Bengaluru,M. Chinnaswamy Stadium,43,AB de Villiers,Kings XI Punjab,,,10,,1,166.66,,Royal Challengers Bangalore,catch,
+6,Mohit Sharma,Axar Patel,,,1,Bengaluru,M. Chinnaswamy Stadium,43,Kedar Jadhav,Kings XI Punjab,,,6,,0,100.00,,Royal Challengers Bangalore,catch,
+28,Yuzvendra Chahal,AB de Villiers,,,1,Bengaluru,M. Chinnaswamy Stadium,43,Manan Vohra,Royal Challengers Bangalore,,,25,,1,89.28,,Kings XI Punjab,catch,
+10,Sreenath Arvind,Pawan Negi,,,1,Bengaluru,M. Chinnaswamy Stadium,43,Martin Guptill,Royal Challengers Bangalore,,,9,,0,90.00,,Kings XI Punjab,catch,
+3,Aniket Choudhary,Kedar Jadhav,,,0,Bengaluru,M. Chinnaswamy Stadium,43,Hashim Amla,Royal Challengers Bangalore,,,1,,0,33.33,,Kings XI Punjab,catch,
+,,,2,15.00,,Bengaluru,M. Chinnaswamy Stadium,43,T Natarajan,Royal Challengers Bangalore,1,15,,,,,,Kings XI Punjab,,0
+4,Aniket Choudhary,Kedar Jadhav,8,6.00,1,Bengaluru,M. Chinnaswamy Stadium,43,Mohit Sharma,Royal Challengers Bangalore,4,24,6,,0,150.00,,Kings XI Punjab,catch,2
+6,Axar Patel,Wriddhiman Saha,5,10.75,0,Bengaluru,M. Chinnaswamy Stadium,43,Shane Watson,Kings XI Punjab,4,43,3,,0,50.00,,Royal Challengers Bangalore,catch,1
+43,,,3,12.00,5,Delhi,Feroz Shah Kotla Ground,42,Suresh Raina,Delhi Daredevils,2,24,77,Kagiso Rabada,4,179.06,,Gujarat Lions,runout,0
+34,Pat Cummins,Corey Anderson,,,5,Delhi,Feroz Shah Kotla Ground,42,Dinesh Karthik,Delhi Daredevils,,,65,,5,191.17,,Gujarat Lions,catch,
+,,,2,13.00,,Delhi,Feroz Shah Kotla Ground,42,Ankit Soni,Delhi Daredevils,2,26,,,,,,Gujarat Lions,,0
+43,Basil Thampi,Dinesh Karthik,,,6,Delhi,Feroz Shah Kotla Ground,42,Rishabh Pant,Gujarat Lions,,,97,,9,225.58,,Delhi Daredevils,catch,
+6,Pat Cummins,Shreyas Iyer,,,0,Delhi,Feroz Shah Kotla Ground,42,Ishan Kishan,Delhi Daredevils,,,4,,0,66.66,,Gujarat Lions,catch,
+3,Kagiso Rabada,Rishabh Pant,,,0,Delhi,Feroz Shah Kotla Ground,42,Brendon McCullum,Delhi Daredevils,,,1,,0,33.33,,Gujarat Lions,catch,
+,,,11,7.00,,Delhi,Feroz Shah Kotla Ground,42,Kagiso Rabada,Gujarat Lions,4,28,,,,,,Delhi Daredevils,,2
+,,,3,14.00,,Delhi,Feroz Shah Kotla Ground,42,Shahbaz Nadeem,Gujarat Lions,2,28,,,,,,Delhi Daredevils,,0
+12,,,3,12.00,0,Delhi,Feroz Shah Kotla Ground,42,Corey Anderson,Gujarat Lions,3,36,18,,2,150.00,,Delhi Daredevils,,1
+3,Corey Anderson,sub (Carlos Brathwaite),5,14.00,0,Delhi,Feroz Shah Kotla Ground,42,James Faulkner,Delhi Daredevils,2.3,35,1,,0,33.33,,Gujarat Lions,catch,0
+,,,9,7.50,,Delhi,Feroz Shah Kotla Ground,42,Pat Cummins,Gujarat Lions,4,30,,,,,,Delhi Daredevils,,2
+,,,4,13.33,,Delhi,Feroz Shah Kotla Ground,42,Mohammed Shami,Gujarat Lions,3,40,,,,,,Delhi Daredevils,,0
+7,,,4,14.00,0,Delhi,Feroz Shah Kotla Ground,42,Ravindra Jadeja,Delhi Daredevils,2,28,18,,2,257.14,,Gujarat Lions,,1
+,,,3,11.00,,Delhi,Feroz Shah Kotla Ground,42,Marlon Samuels,Gujarat Lions,2,22,,,,,,Delhi Daredevils,,0
+,,,9,10.00,,Delhi,Feroz Shah Kotla Ground,42,Basil Thampi,Delhi Daredevils,4,40,,,,,,Gujarat Lions,,1
+8,,,,,0,Delhi,Feroz Shah Kotla Ground,42,Shreyas Iyer,Gujarat Lions,,,14,,2,175.00,,Delhi Daredevils,,
+1,,,11,10.75,0,Delhi,Feroz Shah Kotla Ground,42,Pradeep Sangwan,Delhi Daredevils,4,43,1,,0,100.00,,Gujarat Lions,,1
+19,Kagiso Rabada,Rishabh Pant,,,4,Delhi,Feroz Shah Kotla Ground,42,Aaron Finch,Delhi Daredevils,,,27,,0,142.10,,Gujarat Lions,catch,
+11,Pradeep Sangwan,Dinesh Karthik,,,2,Delhi,Feroz Shah Kotla Ground,42,Karun Nair,Gujarat Lions,,,12,,0,109.09,,Delhi Daredevils,catch,
+4,,,1,11.00,2,Delhi,Feroz Shah Kotla Ground,42,Dwayne Smith,Delhi Daredevils,1,11,9,Shahbaz Nadeem,0,225.00,,Gujarat Lions,runout,0
+,,,1,11.50,,Delhi,Feroz Shah Kotla Ground,42,Amit Mishra,Gujarat Lions,2,23,,,,,,Delhi Daredevils,,0
+31,Ravindra Jadeja,James Faulkner,,,0,Delhi,Feroz Shah Kotla Ground,42,Sanju Samson,Gujarat Lions,,,61,,7,196.77,,Delhi Daredevils,catch,
+9,Chris Woakes,,,,0,Kolkata,Eden Gardens,41,Steve Smith,Kolkata Knight Riders,,,9,,1,100.00,,Rising Pune Supergiant,bold,
+32,Dan Christian,Ajinkya Rahane,,,4,Kolkata,Eden Gardens,41,Manish Pandey,Rising Pune Supergiant,,,37,,1,115.62,,Kolkata Knight Riders,catch,
+9,Chris Woakes,,,,1,Kolkata,Eden Gardens,41,Manoj Tiwary,Kolkata Knight Riders,,,8,,0,88.88,,Rising Pune Supergiant,bold,
+9,Imran Tahir,,,,0,Kolkata,Eden Gardens,41,Yusuf Pathan,Rising Pune Supergiant,,,4,,0,44.44,,Kolkata Knight Riders,lbw,
+9,Kuldeep Yadav,Sheldon Jackson,,,0,Kolkata,Eden Gardens,41,MS Dhoni,Kolkata Knight Riders,,,5,,0,55.55,,Rising Pune Supergiant,catch,
+10,,,6,7.66,0,Kolkata,Eden Gardens,41,Dan Christian,Kolkata Knight Riders,3,23,9,,1,90.00,,Rising Pune Supergiant,,1
+5,Ben Stokes,Washington Sundar,8,13.66,0,Kolkata,Eden Gardens,41,Nathan Coulter-Nile,Rising Pune Supergiant,3,41,6,,1,120.00,,Kolkata Knight Riders,catch,0
+3,,,14,4.50,0,Kolkata,Eden Gardens,41,Chris Woakes,Rising Pune Supergiant,4,18,1,Steve Smith,0,33.33,,Kolkata Knight Riders,runout,3
+,,,15,7.00,,Kolkata,Eden Gardens,41,Jaydev Unadkat,Kolkata Knight Riders,4,28,,,,,,Rising Pune Supergiant,,2
+15,Sunil Narine,&,10,6.00,1,Kolkata,Eden Gardens,41,Ben Stokes,Kolkata Knight Riders,4,24,14,,0,93.33,,Rising Pune Supergiant,catch,1
+16,,,,,2,Kolkata,Eden Gardens,41,Suryakumar Yadav,Rising Pune Supergiant,,,30,,2,187.50,,Kolkata Knight Riders,,
+19,Washington Sundar,Ajinkya Rahane,,,3,Kolkata,Eden Gardens,41,Gautam Gambhir,Rising Pune Supergiant,,,24,,1,126.31,,Kolkata Knight Riders,catch,
+,,,6,9.00,,Kolkata,Eden Gardens,41,Imran Tahir,Kolkata Knight Riders,4,36,,,,,,Rising Pune Supergiant,,1
+19,Jaydev Unadkat,Washington Sundar,0,21.00,3,Kolkata,Eden Gardens,41,Colin de Grandhomme,Rising Pune Supergiant,0.2,7,36,,2,189.47,,Kolkata Knight Riders,catch,0
+,,,6,7.00,,Kolkata,Eden Gardens,41,Shardul Thakur,Kolkata Knight Riders,3,21,,,,,,Rising Pune Supergiant,,0
+2,,,12,5.75,0,Kolkata,Eden Gardens,41,Umesh Yadav,Rising Pune Supergiant,4,23,2,,0,100.00,,Kolkata Knight Riders,,1
+6,Jaydev Unadkat,&,9,7.00,0,Kolkata,Eden Gardens,41,Sunil Narine,Rising Pune Supergiant,4,28,0,,0,0.00,,Kolkata Knight Riders,catch,1
+3,,,6,9.00,0,Kolkata,Eden Gardens,41,Washington Sundar,Kolkata Knight Riders,2,18,1,,0,33.33,,Rising Pune Supergiant,,2
+52,Chris Woakes,sub (Rovman Powell),,,9,Kolkata,Eden Gardens,41,Rahul Tripathi,Kolkata Knight Riders,,,93,,7,178.84,,Rising Pune Supergiant,catch,
+9,Umesh Yadav,Sheldon Jackson,,,2,Kolkata,Eden Gardens,41,Ajinkya Rahane,Kolkata Knight Riders,,,11,,0,122.22,,Rising Pune Supergiant,catch,
+,,,10,8.75,,Kolkata,Eden Gardens,41,Kuldeep Yadav,Rising Pune Supergiant,4,35,,,,,,Kolkata Knight Riders,,1
+9,Washington Sundar,,,,2,Kolkata,Eden Gardens,41,Sheldon Jackson,Rising Pune Supergiant,,,10,,0,111.11,,Kolkata Knight Riders,bold,
+,,,12,6.50,,Delhi,Feroz Shah Kotla Ground,40,Jayant Yadav,Sunrisers Hyderabad,4,26,,,,,,Delhi Daredevils,,0
+17,Amit Mishra,Shreyas Iyer,,,4,Delhi,Feroz Shah Kotla Ground,40,Shikhar Dhawan,Delhi Daredevils,,,28,,1,164.70,,Sunrisers Hyderabad,catch,
+,,,4,14.75,,Delhi,Feroz Shah Kotla Ground,40,Kagiso Rabada,Sunrisers Hyderabad,4,59,,,,,,Delhi Daredevils,,0
+24,Mohammed Shami,Chris Morris,,,1,Delhi,Feroz Shah Kotla Ground,40,Kane Williamson,Delhi Daredevils,,,24,,1,100.00,,Sunrisers Hyderabad,catch,
+,,,8,6.00,,Delhi,Feroz Shah Kotla Ground,40,Rashid Khan,Delhi Daredevils,4,24,,,,,,Sunrisers Hyderabad,,0
+20,Siddarth Kaul,Bhuvneshwar Kumar,,,5,Delhi,Feroz Shah Kotla Ground,40,Karun Nair,Sunrisers Hyderabad,,,39,,2,195.00,,Delhi Daredevils,catch,
+18,,,1,16.61,2,Delhi,Feroz Shah Kotla Ground,40,Moises Henriques,Delhi Daredevils,2.1,36,25,,0,138.88,,Sunrisers Hyderabad,,0
+,,,7,10.25,,Delhi,Feroz Shah Kotla Ground,40,Mohammed Siraj,Delhi Daredevils,4,41,,,,,,Sunrisers Hyderabad,,2
+24,,,,,2,Delhi,Feroz Shah Kotla Ground,40,Corey Anderson,Sunrisers Hyderabad,,,41,,3,170.83,,Delhi Daredevils,,
+,,,9,8.25,,Delhi,Feroz Shah Kotla Ground,40,Bhuvneshwar Kumar,Delhi Daredevils,4,33,,,,,,Sunrisers Hyderabad,,1
+41,,,0,16.00,11,Delhi,Feroz Shah Kotla Ground,40,Yuvraj Singh,Delhi Daredevils,1,16,70,,1,170.73,,Sunrisers Hyderabad,,0
+21,Mohammed Shami,,,,4,Delhi,Feroz Shah Kotla Ground,40,David Warner,Delhi Daredevils,,,30,,1,142.85,,Sunrisers Hyderabad,bold,
+20,Mohammed Siraj,,,,4,Delhi,Feroz Shah Kotla Ground,40,Rishabh Pant,Sunrisers Hyderabad,,,34,,1,170.00,,Delhi Daredevils,bold,
+,,,9,5.75,,Delhi,Feroz Shah Kotla Ground,40,Amit Mishra,Sunrisers Hyderabad,4,23,,,,,,Delhi Daredevils,,1
+25,Bhuvneshwar Kumar,Mohammed Siraj,,,1,Delhi,Feroz Shah Kotla Ground,40,Shreyas Iyer,Sunrisers Hyderabad,,,33,,2,132.00,,Delhi Daredevils,catch,
+19,Mohammed Siraj,Shikhar Dhawan,,,2,Delhi,Feroz Shah Kotla Ground,40,Sanju Samson,Sunrisers Hyderabad,,,24,,1,126.31,,Delhi Daredevils,catch,
+,,,8,9.00,,Delhi,Feroz Shah Kotla Ground,40,Mohammed Shami,Sunrisers Hyderabad,4,36,,,,,,Delhi Daredevils,,2
+7,,,7,9.00,1,Delhi,Feroz Shah Kotla Ground,40,Chris Morris,Sunrisers Hyderabad,4,36,15,,1,214.28,,Delhi Daredevils,,0
+,,,7,9.50,,Delhi,Feroz Shah Kotla Ground,40,Siddarth Kaul,Delhi Daredevils,4,38,,,,,,Sunrisers Hyderabad,,1
+2,Pradeep Sangwan,Ankit Soni,,,1,Pune,Maharashtra Cricket Association's International Stadium,39,Steve Smith,Gujarat Lions,,,4,,0,200.00,,Rising Pune Supergiant,catch,
+8,,,,,0,Pune,Maharashtra Cricket Association's International Stadium,39,Suresh Raina,Rising Pune Supergiant,,,8,Ajinkya Rahane/MS Dhoni,0,100.00,,Gujarat Lions,runout,
+26,,,,,3,Pune,Maharashtra Cricket Association's International Stadium,39,Dinesh Karthik,Rising Pune Supergiant,,,29,MS Dhoni,0,111.53,,Gujarat Lions,runout,
+2,Basil Thampi,,,,0,Pune,Maharashtra Cricket Association's International Stadium,39,Manoj Tiwary,Gujarat Lions,,,0,,0,0.00,,Rising Pune Supergiant,lbw,
+33,Basil Thampi,Brendon McCullum,,,1,Pune,Maharashtra Cricket Association's International Stadium,39,MS Dhoni,Gujarat Lions,,,26,,1,78.78,,Rising Pune Supergiant,catch,
+1,Jaydev Unadkat,,13,4.00,0,Pune,Maharashtra Cricket Association's International Stadium,39,Ankit Soni,Rising Pune Supergiant,4,16,0,,0,0.00,,Gujarat Lions,bold,0
+8,,,3,9.00,1,Pune,Maharashtra Cricket Association's International Stadium,39,Dan Christian,Gujarat Lions,3,27,17,,1,212.50,,Rising Pune Supergiant,,1
+24,Imran Tahir,Washington Sundar,,,3,Pune,Maharashtra Cricket Association's International Stadium,39,Ishan Kishan,Rising Pune Supergiant,,,31,,2,129.16,,Gujarat Lions,catch,
+27,Shardul Thakur,Ajinkya Rahane,,,5,Pune,Maharashtra Cricket Association's International Stadium,39,Brendon McCullum,Rising Pune Supergiant,,,45,,2,166.66,,Gujarat Lions,catch,
+,,,10,7.56,,Pune,Maharashtra Cricket Association's International Stadium,39,Jaydev Unadkat,Gujarat Lions,3.5,29,,,,,,Rising Pune Supergiant,,3
+63,,,10,9.00,7,Pune,Maharashtra Cricket Association's International Stadium,39,Ben Stokes,Gujarat Lions,4,36,103,,6,163.49,,Rising Pune Supergiant,,0
+7,Jaydev Unadkat,Manoj Tiwary,4,10.58,0,Pune,Maharashtra Cricket Association's International Stadium,39,James Faulkner,Rising Pune Supergiant,2.5,30,6,,0,85.71,,Gujarat Lions,catch,0
+12,Dan Christian,Jaydev Unadkat,7,9.50,3,Pune,Maharashtra Cricket Association's International Stadium,39,Ravindra Jadeja,Rising Pune Supergiant,2,19,19,,0,158.33,,Gujarat Lions,catch,0
+,,,9,6.75,,Pune,Maharashtra Cricket Association's International Stadium,39,Imran Tahir,Gujarat Lions,4,27,,,,,,Rising Pune Supergiant,,3
+,,,5,8.33,,Pune,Maharashtra Cricket Association's International Stadium,39,Shardul Thakur,Gujarat Lions,3,25,,,,,,Rising Pune Supergiant,,1
+5,,,7,8.75,0,Pune,Maharashtra Cricket Association's International Stadium,39,Basil Thampi,Rising Pune Supergiant,4,35,2,,0,40.00,,Gujarat Lions,,2
+,,,8,6.00,,Pune,Maharashtra Cricket Association's International Stadium,39,Washington Sundar,Gujarat Lions,2,12,,,,,,Rising Pune Supergiant,,0
+2,Jaydev Unadkat,Rahul Tripathi,10,9.50,0,Pune,Maharashtra Cricket Association's International Stadium,39,Pradeep Sangwan,Rising Pune Supergiant,4,38,1,,0,50.00,,Gujarat Lions,catch,2
+6,Imran Tahir,&,,,1,Pune,Maharashtra Cricket Association's International Stadium,39,Aaron Finch,Rising Pune Supergiant,,,13,,1,216.66,,Gujarat Lions,catch,
+7,,,,,1,Pune,Maharashtra Cricket Association's International Stadium,39,Rahul Tripathi,Gujarat Lions,,,6,Aaron Finch,0,85.71,,Rising Pune Supergiant,runout,
+4,Pradeep Sangwan,,,,1,Pune,Maharashtra Cricket Association's International Stadium,39,Ajinkya Rahane,Gujarat Lions,,,4,,0,100.00,,Rising Pune Supergiant,lbw,
+1,Imran Tahir,,5,8.66,0,Pune,Maharashtra Cricket Association's International Stadium,39,Dwayne Smith,Rising Pune Supergiant,3,26,0,,0,0.00,,Gujarat Lions,bold,0
+23,Mitchell McClenaghan,Kieron Pollard,10,4.25,1,Mumbai,Wankhede Stadium,38,Pawan Negi,Mumbai Indians,4,17,35,,3,152.17,,Royal Challengers Bangalore,catch,2
+0,,,2,10.50,0,Mumbai,Wankhede Stadium,38,Sreenath Arvind,Mumbai Indians,2,21,0,Parthiv Patel,0,0.00,,Royal Challengers Bangalore,runout,0
+21,Pawan Negi,Virat Kohli,,,4,Mumbai,Wankhede Stadium,38,Jos Buttler,Royal Challengers Bangalore,,,33,,1,157.14,,Mumbai Indians,catch,
+,,,9,8.00,,Mumbai,Wankhede Stadium,38,Aniket Choudhary,Mumbai Indians,4,32,,,,,,Royal Challengers Bangalore,,1
+,,,9,8.50,,Mumbai,Wankhede Stadium,38,Mitchell McClenaghan,Royal Challengers Bangalore,4,34,,,,,,Mumbai Indians,,3
+14,Mitchell McClenaghan,Rohit Sharma,,,0,Mumbai,Wankhede Stadium,38,Virat Kohli,Mumbai Indians,,,20,,2,142.85,,Royal Challengers Bangalore,catch,
+9,,,2,5.00,0,Mumbai,Wankhede Stadium,38,Hardik Pandya,Royal Challengers Bangalore,1,5,14,,1,155.55,,Mumbai Indians,,0
+1,Aniket Choudhary,Yuzvendra Chahal,,,0,Mumbai,Wankhede Stadium,38,Parthiv Patel,Royal Challengers Bangalore,,,0,,0,0.00,,Mumbai Indians,catch,
+2,,,7,8.50,0,Mumbai,Wankhede Stadium,38,Krunal Pandya,Royal Challengers Bangalore,4,34,2,,0,100.00,,Mumbai Indians,,2
+13,Karn Sharma,Hardik Pandya,,,3,Mumbai,Wankhede Stadium,38,Mandeep Singh,Mumbai Indians,,,17,,0,130.76,,Royal Challengers Bangalore,catch,
+,,,8,9.00,,Mumbai,Wankhede Stadium,38,Yuzvendra Chahal,Mumbai Indians,4,36,,,,,,Royal Challengers Bangalore,,1
+8,Shane Watson,Adam Milne,5,7.66,1,Mumbai,Wankhede Stadium,38,Karn Sharma,Royal Challengers Bangalore,3,23,9,,0,112.50,,Mumbai Indians,catch,1
+13,Yuzvendra Chahal,Travis Head,,,2,Mumbai,Wankhede Stadium,38,Kieron Pollard,Royal Challengers Bangalore,,,17,,0,130.76,,Mumbai Indians,catch,
+1,,,1,14.50,0,Mumbai,Wankhede Stadium,38,Adam Milne,Mumbai Indians,2,29,0,,0,0.00,,Royal Challengers Bangalore,,0
+27,Krunal Pandya,Jasprit Bumrah,,,3,Mumbai,Wankhede Stadium,38,AB de Villiers,Mumbai Indians,,,43,,3,159.25,,Royal Challengers Bangalore,catch,
+28,Pawan Negi,Travis Head,,,4,Mumbai,Wankhede Stadium,38,Nitish Rana,Royal Challengers Bangalore,,,27,,0,96.42,,Mumbai Indians,catch,
+22,Mitchell McClenaghan,Kieron Pollard,,,2,Mumbai,Wankhede Stadium,38,Kedar Jadhav,Mumbai Indians,,,28,,0,127.27,,Royal Challengers Bangalore,catch,
+,,,10,7.75,,Mumbai,Wankhede Stadium,38,Lasith Malinga,Royal Challengers Bangalore,4,31,,,,,,Mumbai Indians,,0
+,,,8,8.25,,Mumbai,Wankhede Stadium,38,Jasprit Bumrah,Royal Challengers Bangalore,4,33,,,,,,Mumbai Indians,,1
+37,,,,,6,Mumbai,Wankhede Stadium,38,Rohit Sharma,Royal Challengers Bangalore,,,56,,1,151.35,,Mumbai Indians,,
+15,Krunal Pandya,Hardik Pandya,,,1,Mumbai,Wankhede Stadium,38,Travis Head,Mumbai Indians,,,12,,0,80.00,,Royal Challengers Bangalore,catch,
+5,Jasprit Bumrah,,6,7.30,0,Mumbai,Wankhede Stadium,38,Shane Watson,Mumbai Indians,3.5,28,3,,0,60.00,,Royal Challengers Bangalore,bold,1
+,,,7,8.50,,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,37,Nathan Coulter-Nile,Sunrisers Hyderabad,4,34,,,,,,Kolkata Knight Riders,,0
+30,,,,,2,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,37,Shikhar Dhawan,Kolkata Knight Riders,,,29,Kuldeep Yadav,1,96.66,,Sunrisers Hyderabad,runout,
+,,,7,9.50,,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,37,Rashid Khan,Kolkata Knight Riders,4,38,,,,,,Sunrisers Hyderabad,,1
+,,,11,6.50,,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,37,Siddarth Kaul,Kolkata Knight Riders,4,26,,,,,,Sunrisers Hyderabad,,2
+3,,,8,11.50,1,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,37,Chris Woakes,Sunrisers Hyderabad,4,46,6,,0,200.00,,Kolkata Knight Riders,,1
+,,,1,10.33,,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,37,Moises Henriques,Kolkata Knight Riders,3,31,,,,,,Sunrisers Hyderabad,,0
+17,Bhuvneshwar Kumar,Rashid Khan,,,1,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,37,Sheldon Jackson,Sunrisers Hyderabad,,,16,,0,94.11,,Kolkata Knight Riders,catch,
+28,Mohammed Siraj,David Warner,,,4,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,37,Robin Uthappa,Sunrisers Hyderabad,,,53,,4,189.28,,Kolkata Knight Riders,catch,
+15,Siddarth Kaul,Rashid Khan,,,1,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,37,Colin de Grandhomme,Sunrisers Hyderabad,,,18,,1,120.00,,Kolkata Knight Riders,catch,
+13,Rashid Khan,Siddarth Kaul,1,17.00,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,37,Yusuf Pathan,Sunrisers Hyderabad,1,17,12,,0,92.30,,Kolkata Knight Riders,catch,0
+,,,12,6.50,,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,37,Mohammed Siraj,Kolkata Knight Riders,4,26,,,,,,Sunrisers Hyderabad,,2
+,,,11,7.50,,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,37,Umesh Yadav,Sunrisers Hyderabad,4,30,,,,,,Kolkata Knight Riders,,0
+29,Bhuvneshwar Kumar,&,,,3,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,37,Manish Pandey,Sunrisers Hyderabad,,,39,,0,134.48,,Kolkata Knight Riders,catch,
+,,,7,7.25,,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,37,Bhuvneshwar Kumar,Kolkata Knight Riders,4,29,,,,,,Sunrisers Hyderabad,,2
+11,Siddarth Kaul,Rashid Khan,,,2,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,37,Gautam Gambhir,Sunrisers Hyderabad,,,11,,0,100.00,,Kolkata Knight Riders,catch,
+59,Chris Woakes,Gautam Gambhir,,,10,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,37,David Warner,Kolkata Knight Riders,,,126,,8,213.55,,Sunrisers Hyderabad,catch,
+4,Mohammed Siraj,David Warner,2,12.33,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,37,Sunil Narine,Sunrisers Hyderabad,3,37,1,,0,25.00,,Kolkata Knight Riders,catch,0
+6,,,,,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,37,Yuvraj Singh,Kolkata Knight Riders,,,6,,0,100.00,,Sunrisers Hyderabad,,
+,,,5,10.75,,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,37,Kuldeep Yadav,Sunrisers Hyderabad,4,43,,,,,,Kolkata Knight Riders,,0
+,,,0,10.00,,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,37,Bipul Sharma,Kolkata Knight Riders,1,10,,,,,,Sunrisers Hyderabad,,0
+25,,,,,5,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,37,Kane Williamson,Kolkata Knight Riders,,,40,Nathan Coulter-Nile/Robin Uthappa,0,160.00,,Sunrisers Hyderabad,runout,
+20,Sandeep Sharma,Shaun Marsh,5,9.00,1,Mohali,IS Bindra Stadium,36,Kagiso Rabada,Kings XI Punjab,2,18,11,,0,55.00,,Delhi Daredevils,catch,0
+,,,5,2.57,,Mohali,IS Bindra Stadium,36,Mohit Sharma,Delhi Daredevils,1.1,3,,,,,,Kings XI Punjab,,1
+27,,,,,6,Mohali,IS Bindra Stadium,36,Martin Guptill,Delhi Daredevils,,,50,,3,185.18,,Kings XI Punjab,,
+20,,,,,1,Mohali,IS Bindra Stadium,36,Hashim Amla,Delhi Daredevils,,,16,,0,80.00,,Kings XI Punjab,,
+10,Axar Patel,,,,0,Mohali,IS Bindra Stadium,36,Karun Nair,Kings XI Punjab,,,11,,1,110.00,,Delhi Daredevils,bold,
+,,,15,3.00,,Mohali,IS Bindra Stadium,36,Glenn Maxwell,Delhi Daredevils,4,12,,,,,,Kings XI Punjab,,1
+2,Sandeep Sharma,Wriddhiman Saha,,,0,Mohali,IS Bindra Stadium,36,Sam Billings,Kings XI Punjab,,,0,,0,0.00,,Delhi Daredevils,catch,
+,,,14,5.00,,Mohali,IS Bindra Stadium,36,Sandeep Sharma,Delhi Daredevils,4,20,,,,,,Kings XI Punjab,,4
+25,Varun Aaron,,,,0,Mohali,IS Bindra Stadium,36,Corey Anderson,Kings XI Punjab,,,18,,1,72.00,,Delhi Daredevils,bold,
+,,,9,3.50,,Mohali,IS Bindra Stadium,36,T Natarajan,Delhi Daredevils,2,7,,,,,,Kings XI Punjab,,0
+,,,12,5.50,,Mohali,IS Bindra Stadium,36,Axar Patel,Delhi Daredevils,4,22,,,,,,Kings XI Punjab,,2
+6,Glenn Maxwell,,,,0,Mohali,IS Bindra Stadium,36,Rishabh Pant,Kings XI Punjab,,,3,,0,50.00,,Delhi Daredevils,lbw,
+9,,,2,9.00,0,Mohali,IS Bindra Stadium,36,Amit Mishra,Kings XI Punjab,1,9,4,,0,44.44,,Delhi Daredevils,,0
+7,Sandeep Sharma,&,,,1,Mohali,IS Bindra Stadium,36,Shreyas Iyer,Kings XI Punjab,,,6,,0,85.71,,Delhi Daredevils,catch,
+,,,9,1.50,,Mohali,IS Bindra Stadium,36,Varun Aaron,Delhi Daredevils,2,3,,,,,,Kings XI Punjab,,2
+14,Sandeep Sharma,Mohit Sharma,,,1,Mohali,IS Bindra Stadium,36,Sanju Samson,Kings XI Punjab,,,5,,0,35.71,,Delhi Daredevils,catch,
+4,Varun Aaron,Sandeep Sharma,6,9.50,0,Mohali,IS Bindra Stadium,36,Mohammed Shami,Kings XI Punjab,2,19,2,,0,50.00,,Delhi Daredevils,catch,0
+5,Axar Patel,&,6,6.50,0,Mohali,IS Bindra Stadium,36,Chris Morris,Kings XI Punjab,2,13,2,,0,40.00,,Delhi Daredevils,catch,0
+1,Mohit Sharma,&,1,10.80,0,Mohali,IS Bindra Stadium,36,Shahbaz Nadeem,Kings XI Punjab,0.5,9,0,,0,0.00,,Delhi Daredevils,catch,0
+3,Jasprit Bumrah,Kieron Pollard,6,7.00,0,Rajkot,Saurashtra Cricket Association Stadium,35,Suresh Raina,Mumbai Indians,4,28,1,,0,33.33,,Gujarat Lions,catch,0
+8,Krunal Pandya,,,,0,Rajkot,Saurashtra Cricket Association Stadium,35,Dinesh Karthik,Mumbai Indians,,,2,,0,25.00,Parthiv Patel,Gujarat Lions,stemping,
+1,Basil Thampi,,11,5.75,0,Rajkot,Saurashtra Cricket Association Stadium,35,Harbhajan Singh,Gujarat Lions,4,23,0,,0,0.00,,Mumbai Indians,lbw,1
+2,,,13,4.00,0,Rajkot,Saurashtra Cricket Association Stadium,35,Ankit Soni,Mumbai Indians,4,16,7,,1,350.00,,Gujarat Lions,,1
+2,James Faulkner,Ishan Kishan,,,0,Rajkot,Saurashtra Cricket Association Stadium,35,Jos Buttler,Gujarat Lions,,,1,James Faulkner,0,50.00,,Mumbai Indians,catch,
+35,Harbhajan Singh,Kieron Pollard,,,6,Rajkot,Saurashtra Cricket Association Stadium,35,Ishan Kishan,Mumbai Indians,,,48,,2,137.14,,Gujarat Lions,catch,
+3,Lasith Malinga,,,,0,Rajkot,Saurashtra Cricket Association Stadium,35,Brendon McCullum,Gujarat Lions,,,1,,0,33.33,,Mumbai Indians,bold,
+1,,,7,12.50,0,Rajkot,Saurashtra Cricket Association Stadium,35,Mitchell McClenaghan,Gujarat Lions,4,50,1,Irfan Pathan,0,100.00,,Mumbai Indians,runout,0
+5,Basil Thampi,Ishan Kishan,,,0,Rajkot,Saurashtra Cricket Association Stadium,35,Hardik Pandya,Gujarat Lions,,,4,,0,80.00,,Mumbai Indians,catch,
+3,Krunal Pandya,Hardik Pandya,4,13.00,0,Rajkot,Saurashtra Cricket Association Stadium,35,Irfan Pathan,Mumbai Indians,2,26,2,,0,66.66,,Gujarat Lions,catch,0
+27,Jasprit Bumrah,,2,13.20,2,Rajkot,Saurashtra Cricket Association Stadium,35,James Faulkner,Mumbai Indians,0.5,11,21,,0,77.77,,Gujarat Lions,bold,2
+20,,,16,3.50,2,Rajkot,Saurashtra Cricket Association Stadium,35,Krunal Pandya,Gujarat Lions,4,14,29,Ravindra Jadeja,1,145.00,,Mumbai Indians,runout,3
+12,,,2,9.00,2,Rajkot,Saurashtra Cricket Association Stadium,35,Andrew Tye,Mumbai Indians,1,9,25,Jasprit Bumrah,2,208.33,,Gujarat Lions,runout,0
+21,Krunal Pandya,&,1,11.00,2,Rajkot,Saurashtra Cricket Association Stadium,35,Ravindra Jadeja,Mumbai Indians,1,11,28,,1,133.33,,Gujarat Lions,catch,0
+3,James Faulkner,Aaron Finch,,,1,Rajkot,Saurashtra Cricket Association Stadium,35,Kieron Pollard,Gujarat Lions,,,10,,1,333.33,,Mumbai Indians,catch,
+4,,,8,7.25,0,Rajkot,Saurashtra Cricket Association Stadium,35,Basil Thampi,Mumbai Indians,4,29,2,,0,50.00,,Gujarat Lions,,3
+16,Ankit Soni,,,,1,Rajkot,Saurashtra Cricket Association Stadium,35,Nitish Rana,Gujarat Lions,,,19,,1,118.75,,Mumbai Indians,lbw,
+0,James Faulkner,Dinesh Karthik,,,0,Rajkot,Saurashtra Cricket Association Stadium,35,Parthiv Patel,Gujarat Lions,,,0,,0,0.00,,Mumbai Indians,catch,
+1,,,10,8.25,0,Rajkot,Saurashtra Cricket Association Stadium,35,Lasith Malinga,Gujarat Lions,4,33,0,,0,0.00,,Mumbai Indians,,2
+4,Lasith Malinga,,,,0,Rajkot,Saurashtra Cricket Association Stadium,35,Aaron Finch,Gujarat Lions,,,1,,0,25.00,,Mumbai Indians,bold,
+1,,,4,4.00,0,Rajkot,Saurashtra Cricket Association Stadium,35,Jasprit Bumrah,Mumbai Indians,1,4,0,Ravindra Jadeja,0,0.00,,Gujarat Lions,runout,0
+13,James Faulkner,Dinesh Karthik,,,0,Rajkot,Saurashtra Cricket Association Stadium,35,Rohit Sharma,Gujarat Lions,,,5,,0,38.46,,Mumbai Indians,catch,
+32,Stuart Binny,Adam Milne,,,5,Pune,Maharashtra Cricket Association's International Stadium,34,Steve Smith,Royal Challengers Bangalore,,,45,,1,140.62,,Rising Pune Supergiant,catch,
+35,,,,,4,Pune,Maharashtra Cricket Association's International Stadium,34,Manoj Tiwary,Royal Challengers Bangalore,,,44,,1,125.71,,Rising Pune Supergiant,,
+7,Imran Tahir,Dan Christian,12,4.50,0,Pune,Maharashtra Cricket Association's International Stadium,34,Pawan Negi,Rising Pune Supergiant,4,18,3,,0,42.85,,Royal Challengers Bangalore,catch,1
+17,,,,,1,Pune,Maharashtra Cricket Association's International Stadium,34,MS Dhoni,Royal Challengers Bangalore,,,21,,1,123.52,,Rising Pune Supergiant,,
+5,,,8,7.50,1,Pune,Maharashtra Cricket Association's International Stadium,34,Sreenath Arvind,Rising Pune Supergiant,4,30,8,,0,160.00,,Royal Challengers Bangalore,,0
+,,,10,6.25,,Pune,Maharashtra Cricket Association's International Stadium,34,Dan Christian,Royal Challengers Bangalore,4,25,,,,,,Rising Pune Supergiant,,1
+7,Imran Tahir,,8,7.75,0,Pune,Maharashtra Cricket Association's International Stadium,34,Samuel Badree,Rising Pune Supergiant,4,31,2,,0,28.57,,Royal Challengers Bangalore,bold,1
+7,Lockie Ferguson,Washington Sundar,2,8.50,0,Pune,Maharashtra Cricket Association's International Stadium,34,Stuart Binny,Rising Pune Supergiant,2,17,1,,0,14.28,,Royal Challengers Bangalore,catch,1
+48,Dan Christian,sub (Mayank Agarwal),,,4,Pune,Maharashtra Cricket Association's International Stadium,34,Virat Kohli,Rising Pune Supergiant,,,55,,1,114.58,,Royal Challengers Bangalore,catch,
+,,,11,4.75,,Pune,Maharashtra Cricket Association's International Stadium,34,Jaydev Unadkat,Royal Challengers Bangalore,4,19,,,,,,Rising Pune Supergiant,,1
+9,,,1,12.50,0,Pune,Maharashtra Cricket Association's International Stadium,34,Yuzvendra Chahal,Rising Pune Supergiant,2,25,4,,0,44.44,,Royal Challengers Bangalore,,0
+,,,12,4.50,,Pune,Maharashtra Cricket Association's International Stadium,34,Imran Tahir,Royal Challengers Bangalore,4,18,,,,,,Rising Pune Supergiant,,3
+,,,18,1.75,,Pune,Maharashtra Cricket Association's International Stadium,34,Lockie Ferguson,Royal Challengers Bangalore,4,7,,,,,,Rising Pune Supergiant,,2
+8,Imran Tahir,Steve Smith,10,8.75,0,Pune,Maharashtra Cricket Association's International Stadium,34,Adam Milne,Rising Pune Supergiant,4,35,5,,0,62.50,,Royal Challengers Bangalore,catch,0
+8,Lockie Ferguson,Manoj Tiwary,,,0,Pune,Maharashtra Cricket Association's International Stadium,34,AB de Villiers,Rising Pune Supergiant,,,3,,0,37.50,,Royal Challengers Bangalore,catch,
+8,Samuel Badree,Adam Milne,,,0,Pune,Maharashtra Cricket Association's International Stadium,34,Ajinkya Rahane,Royal Challengers Bangalore,,,6,,0,75.00,,Rising Pune Supergiant,catch,
+12,,,,,1,Pune,Maharashtra Cricket Association's International Stadium,34,Kedar Jadhav,Rising Pune Supergiant,,,7,Lockie Ferguson/MS Dhoni,0,58.33,,Royal Challengers Bangalore,runout,
+4,Washington Sundar,Steve Smith,,,0,Pune,Maharashtra Cricket Association's International Stadium,34,Sachin Baby,Rising Pune Supergiant,,,2,,0,50.00,,Royal Challengers Bangalore,catch,
+28,Pawan Negi,Kedar Jadhav,,,4,Pune,Maharashtra Cricket Association's International Stadium,34,Rahul Tripathi,Royal Challengers Bangalore,,,37,,1,132.14,,Rising Pune Supergiant,catch,
+,,,5,3.50,,Pune,Maharashtra Cricket Association's International Stadium,34,Washington Sundar,Royal Challengers Bangalore,2,7,,,,,,Rising Pune Supergiant,,1
+,,,3,9.00,,Pune,Maharashtra Cricket Association's International Stadium,34,Deepak Chahar,Royal Challengers Bangalore,2,18,,,,,,Rising Pune Supergiant,,0
+5,Jaydev Unadkat,,,,0,Pune,Maharashtra Cricket Association's International Stadium,34,Travis Head,Rising Pune Supergiant,,,2,,0,40.00,,Royal Challengers Bangalore,bold,
+50,Bhuvneshwar Kumar,Deepak Hooda,,,14,Mohali,IS Bindra Stadium,33,Shaun Marsh,Sunrisers Hyderabad,,,84,,2,168.00,,Kings XI Punjab,catch,
+6,Ashish Nehra,Siddarth Kaul,,,0,Mohali,IS Bindra Stadium,33,Manan Vohra,Sunrisers Hyderabad,,,3,,0,50.00,,Kings XI Punjab,catch,
+27,,,,,4,Mohali,IS Bindra Stadium,33,Kane Williamson,Kings XI Punjab,,,54,,2,200.00,,Sunrisers Hyderabad,,
+12,Ashish Nehra,Kane Williamson,2,13.00,2,Mohali,IS Bindra Stadium,33,Anureet Singh,Sunrisers Hyderabad,2,26,15,,0,125.00,,Kings XI Punjab,catch,0
+2,,,8,10.25,1,Mohali,IS Bindra Stadium,33,Ishant Sharma,Sunrisers Hyderabad,4,41,5,,0,250.00,,Kings XI Punjab,,0
+11,Bhuvneshwar Kumar,Moises Henriques,,,4,Mohali,IS Bindra Stadium,33,Martin Guptill,Sunrisers Hyderabad,,,23,,1,209.09,,Kings XI Punjab,catch,
+,,,1,17.00,,Mohali,IS Bindra Stadium,33,Deepak Hooda,Kings XI Punjab,1,17,,,,,,Sunrisers Hyderabad,,0
+6,,,2,13.00,0,Mohali,IS Bindra Stadium,33,Moises Henriques,Kings XI Punjab,3,39,7,,0,116.66,,Sunrisers Hyderabad,,0
+2,Siddarth Kaul,Ashish Nehra,6,7.25,0,Mohali,IS Bindra Stadium,33,Glenn Maxwell,Sunrisers Hyderabad,4,29,0,,0,0.00,,Kings XI Punjab,catch,2
+,,,3,10.50,,Mohali,IS Bindra Stadium,33,KC Cariappa,Sunrisers Hyderabad,4,42,,,,,,Kings XI Punjab,,0
+,,,9,10.50,,Mohali,IS Bindra Stadium,33,Ashish Nehra,Kings XI Punjab,4,42,,,,,,Sunrisers Hyderabad,,3
+4,Siddarth Kaul,,,,0,Mohali,IS Bindra Stadium,33,Wriddhiman Saha,Sunrisers Hyderabad,,,2,,0,50.00,,Kings XI Punjab,bold,
+,,,9,6.75,,Mohali,IS Bindra Stadium,33,Bhuvneshwar Kumar,Kings XI Punjab,4,27,,,,,,Sunrisers Hyderabad,,2
+12,Glenn Maxwell,Axar Patel,,,2,Mohali,IS Bindra Stadium,33,Yuvraj Singh,Kings XI Punjab,,,15,,0,125.00,,Sunrisers Hyderabad,catch,
+27,Glenn Maxwell,,,,4,Mohali,IS Bindra Stadium,33,David Warner,Kings XI Punjab,,,51,,4,188.88,,Sunrisers Hyderabad,bold,
+9,Siddarth Kaul,David Warner,3,11.33,2,Mohali,IS Bindra Stadium,33,Axar Patel,Sunrisers Hyderabad,3,34,16,,0,177.77,,Kings XI Punjab,catch,0
+21,Rashid Khan,Deepak Hooda,,,2,Mohali,IS Bindra Stadium,33,Eoin Morgan,Sunrisers Hyderabad,,,26,,1,123.80,,Kings XI Punjab,catch,
+,,,14,4.00,,Mohali,IS Bindra Stadium,33,Rashid Khan,Kings XI Punjab,4,16,,,,,,Sunrisers Hyderabad,,1
+4,Ashish Nehra,Deepak Hooda,2,11.33,0,Mohali,IS Bindra Stadium,33,Mohit Sharma,Sunrisers Hyderabad,3,34,2,,0,50.00,,Kings XI Punjab,catch,1
+48,Mohit Sharma,Glenn Maxwell,,,9,Mohali,IS Bindra Stadium,33,Shikhar Dhawan,Kings XI Punjab,,,77,,1,160.41,,Sunrisers Hyderabad,catch,
+,,,7,9.00,,Mohali,IS Bindra Stadium,33,Siddarth Kaul,Kings XI Punjab,4,36,,,,,,Sunrisers Hyderabad,,3
+,,,11,8.50,,Kolkata,Eden Gardens,32,Nathan Coulter-Nile,Delhi Daredevils,4,34,,,,,,Kolkata Knight Riders,,3
+12,,,,,1,Kolkata,Eden Gardens,32,Ankit Bawne,Kolkata Knight Riders,,,12,,0,100.00,,Delhi Daredevils,,
+,,,10,6.00,,Kolkata,Eden Gardens,32,Kagiso Rabada,Kolkata Knight Riders,3.2,20,,,,,,Delhi Daredevils,,2
+17,Sunil Narine,,,,3,Kolkata,Eden Gardens,32,Karun Nair,Kolkata Knight Riders,,,15,,0,88.23,,Delhi Daredevils,lbw,
+,,,5,6.66,,Kolkata,Eden Gardens,32,Chris Woakes,Delhi Daredevils,3,20,,,,,,Kolkata Knight Riders,,0
+38,Umesh Yadav,,,,4,Kolkata,Eden Gardens,32,Sanju Samson,Kolkata Knight Riders,,,60,,3,157.89,,Delhi Daredevils,lbw,
+5,,,,,2,Kolkata,Eden Gardens,32,Sheldon Jackson,Delhi Daredevils,,,12,,0,240.00,,Kolkata Knight Riders,,
+33,,,,,5,Kolkata,Eden Gardens,32,Robin Uthappa,Delhi Daredevils,,,59,Karun Nair,4,178.78,,Kolkata Knight Riders,runout,
+,,,0,15.00,,Kolkata,Eden Gardens,32,Colin de Grandhomme,Delhi Daredevils,1,15,,,,,,Kolkata Knight Riders,,0
+4,Kagiso Rabada,,,,1,Kolkata,Eden Gardens,32,Manish Pandey,Delhi Daredevils,,,5,,0,125.00,,Kolkata Knight Riders,bold,
+5,,,3,9.52,0,Kolkata,Eden Gardens,32,Corey Anderson,Kolkata Knight Riders,2.5,27,2,Gautam Gambhir,0,40.00,,Delhi Daredevils,runout,0
+34,Nathan Coulter-Nile,,,,4,Kolkata,Eden Gardens,32,Shreyas Iyer,Kolkata Knight Riders,,,47,,1,138.23,,Delhi Daredevils,lbw,
+52,,,,,11,Kolkata,Eden Gardens,32,Gautam Gambhir,Delhi Daredevils,,,71,,0,136.53,,Kolkata Knight Riders,,
+4,Nathan Coulter-Nile,,,,1,Kolkata,Eden Gardens,32,Rishabh Pant,Kolkata Knight Riders,,,6,,0,150.00,,Delhi Daredevils,lbw,
+4,Kagiso Rabada,,8,6.25,1,Kolkata,Eden Gardens,32,Sunil Narine,Delhi Daredevils,4,25,4,,0,100.00,,Kolkata Knight Riders,bold,1
+,,,9,9.50,,Kolkata,Eden Gardens,32,Umesh Yadav,Delhi Daredevils,4,38,,,,,,Kolkata Knight Riders,,1
+0,,,7,7.33,0,Kolkata,Eden Gardens,32,Pat Cummins,Kolkata Knight Riders,3,22,0,,0,0.00,,Delhi Daredevils,,0
+,,,4,6.75,,Kolkata,Eden Gardens,32,Kuldeep Yadav,Delhi Daredevils,4,27,,,,,,Kolkata Knight Riders,,0
+,,,5,12.00,,Kolkata,Eden Gardens,32,Amit Mishra,Kolkata Knight Riders,3,36,,,,,,Delhi Daredevils,,0
+10,Nathan Coulter-Nile,Chris Woakes,3,13.00,1,Kolkata,Eden Gardens,32,Chris Morris,Kolkata Knight Riders,3,39,11,,0,110.00,,Delhi Daredevils,catch,0
+,,,3,6.85,,Kolkata,Eden Gardens,32,Zaheer Khan,Kolkata Knight Riders,1.1,8,,,,,,Delhi Daredevils,,0
+2,,,5,9.66,0,Bengaluru,M. Chinnaswamy Stadium,31,Yuzvendra Chahal,Gujarat Lions,3,29,1,Brendon McCullum,0,50.00,,Royal Challengers Bangalore,runout,0
+34,Pawan Negi,AB de Villiers,,,5,Bengaluru,M. Chinnaswamy Stadium,31,Aaron Finch,Royal Challengers Bangalore,,,72,,6,211.76,,Gujarat Lions,catch,
+12,,,5,10.50,1,Bengaluru,M. Chinnaswamy Stadium,31,Aniket Choudhary,Gujarat Lions,2,21,15,,0,125.00,,Royal Challengers Bangalore,,0
+,,,8,4.00,,Bengaluru,M. Chinnaswamy Stadium,31,Nathu Singh,Royal Challengers Bangalore,2,8,,,,,,Gujarat Lions,,0
+30,,,,,4,Bengaluru,M. Chinnaswamy Stadium,31,Suresh Raina,Royal Challengers Bangalore,,,34,,1,113.33,,Gujarat Lions,,
+,,,6,5.00,,Bengaluru,M. Chinnaswamy Stadium,31,James Faulkner,Royal Challengers Bangalore,3,15,,,,,,Gujarat Lions,,1
+13,Basil Thampi,Aaron Finch,,,0,Bengaluru,M. Chinnaswamy Stadium,31,Virat Kohli,Gujarat Lions,,,10,,1,76.92,,Royal Challengers Bangalore,catch,
+19,Ankit Soni,Basil Thampi,4,12.00,3,Bengaluru,M. Chinnaswamy Stadium,31,Pawan Negi,Gujarat Lions,2,24,32,,2,168.42,,Royal Challengers Bangalore,catch,1
+18,Ravindra Jadeja,,,,4,Bengaluru,M. Chinnaswamy Stadium,31,Kedar Jadhav,Gujarat Lions,,,31,,1,172.22,,Royal Challengers Bangalore,bold,
+,,,10,8.50,,Bengaluru,M. Chinnaswamy Stadium,31,Basil Thampi,Royal Challengers Bangalore,4,34,,,,,,Gujarat Lions,,1
+,,,6,9.33,,Bengaluru,M. Chinnaswamy Stadium,31,Ankit Soni,Royal Challengers Bangalore,3,28,,,,,,Gujarat Lions,,1
+14,Andrew Tye,Ravindra Jadeja,,,0,Bengaluru,M. Chinnaswamy Stadium,31,Mandeep Singh,Gujarat Lions,,,8,,0,57.14,,Royal Challengers Bangalore,catch,
+16,James Faulkner,Brendon McCullum,10,6.33,0,Bengaluru,M. Chinnaswamy Stadium,31,Sreenath Arvind,Gujarat Lions,3,19,9,,0,56.25,,Royal Challengers Bangalore,catch,0
+11,Andrew Tye,Dinesh Karthik,,,1,Bengaluru,M. Chinnaswamy Stadium,31,Chris Gayle,Gujarat Lions,,,8,,0,72.72,,Royal Challengers Bangalore,catch,
+11,,,,,0,Bengaluru,M. Chinnaswamy Stadium,31,AB de Villiers,Gujarat Lions,,,5,Ravindra Jadeja,0,45.45,,Royal Challengers Bangalore,runout,
+3,Ravindra Jadeja,Ishan Kishan,9,9.66,0,Bengaluru,M. Chinnaswamy Stadium,31,Samuel Badree,Gujarat Lions,3,29,3,,0,100.00,,Royal Challengers Bangalore,catch,2
+,,,13,3.00,,Bengaluru,M. Chinnaswamy Stadium,31,Andrew Tye,Royal Challengers Bangalore,4,12,,,,,,Gujarat Lions,,3
+11,Samuel Badree,,,,4,Bengaluru,M. Chinnaswamy Stadium,31,Ishan Kishan,Royal Challengers Bangalore,,,16,,0,145.45,,Gujarat Lions,lbw,
+1,Andrew Tye,Suresh Raina,0,13.20,0,Bengaluru,M. Chinnaswamy Stadium,31,Travis Head,Gujarat Lions,0.5,11,0,,0,0.00,,Royal Challengers Bangalore,catch,0
+4,,,8,7.00,0,Bengaluru,M. Chinnaswamy Stadium,31,Ravindra Jadeja,Royal Challengers Bangalore,4,28,2,,0,50.00,,Gujarat Lions,,2
+6,Samuel Badree,AB de Villiers,,,0,Bengaluru,M. Chinnaswamy Stadium,31,Brendon McCullum,Royal Challengers Bangalore,,,3,,0,50.00,,Gujarat Lions,catch,
+,,,4,12.00,,Pune,Maharashtra Cricket Association's International Stadium,30,Imran Tahir,Kolkata Knight Riders,4,48,,,,,,Rising Pune Supergiant,,0
+23,Piyush Chawla,,0,12.00,7,Pune,Maharashtra Cricket Association's International Stadium,30,Rahul Tripathi,Kolkata Knight Riders,1,12,38,,0,165.21,,Rising Pune Supergiant,bold,0
+,,,7,10.66,,Pune,Maharashtra Cricket Association's International Stadium,30,Washington Sundar,Kolkata Knight Riders,3,32,,,,,,Rising Pune Supergiant,,0
+,,,7,9.78,,Pune,Maharashtra Cricket Association's International Stadium,30,Shardul Thakur,Kolkata Knight Riders,3.1,31,,,,,,Rising Pune Supergiant,,0
+,,,3,12.66,,Pune,Maharashtra Cricket Association's International Stadium,30,Chris Woakes,Rising Pune Supergiant,3,38,,,,,,Kolkata Knight Riders,,0
+5,,,,,1,Pune,Maharashtra Cricket Association's International Stadium,30,Darren Bravo,Rising Pune Supergiant,,,6,,0,120.00,,Kolkata Knight Riders,,
+,,,6,8.66,,Pune,Maharashtra Cricket Association's International Stadium,30,Jaydev Unadkat,Kolkata Knight Riders,3,26,,,,,,Rising Pune Supergiant,,1
+47,Jaydev Unadkat,Rahul Tripathi,,,7,Pune,Maharashtra Cricket Association's International Stadium,30,Robin Uthappa,Rising Pune Supergiant,,,87,,6,185.10,,Kolkata Knight Riders,catch,
+2,Kuldeep Yadav,,,,0,Pune,Maharashtra Cricket Association's International Stadium,30,Manoj Tiwary,Kolkata Knight Riders,,,1,,0,50.00,Robin Uthappa,Rising Pune Supergiant,stemping,
+0,,,,,0,Pune,Maharashtra Cricket Association's International Stadium,30,Manish Pandey,Rising Pune Supergiant,,,0,,0,0.00,,Kolkata Knight Riders,,
+41,Sunil Narine,,,,4,Pune,Maharashtra Cricket Association's International Stadium,30,Ajinkya Rahane,Kolkata Knight Riders,,,46,,1,112.19,Robin Uthappa,Rising Pune Supergiant,stemping,
+,,,8,9.33,,Pune,Maharashtra Cricket Association's International Stadium,30,Umesh Yadav,Rising Pune Supergiant,3,28,,,,,,Kolkata Knight Riders,,1
+11,Kuldeep Yadav,,,,1,Pune,Maharashtra Cricket Association's International Stadium,30,MS Dhoni,Kolkata Knight Riders,,,23,,2,209.09,Robin Uthappa,Rising Pune Supergiant,stemping,
+46,Dan Christian,Shardul Thakur,,,6,Pune,Maharashtra Cricket Association's International Stadium,30,Gautam Gambhir,Rising Pune Supergiant,,,62,,1,134.78,,Kolkata Knight Riders,catch,
+37,,,,,4,Pune,Maharashtra Cricket Association's International Stadium,30,Steve Smith,Kolkata Knight Riders,,,51,,1,137.83,,Rising Pune Supergiant,,
+11,,,6,8.50,3,Pune,Maharashtra Cricket Association's International Stadium,30,Sunil Narine,Rising Pune Supergiant,4,34,16,Shardul Thakur,0,145.45,,Kolkata Knight Riders,runout,1
+,,,8,7.75,,Pune,Maharashtra Cricket Association's International Stadium,30,Kuldeep Yadav,Rising Pune Supergiant,4,31,,,,,,Kolkata Knight Riders,,2
+,,,2,7.00,,Pune,Maharashtra Cricket Association's International Stadium,30,Colin de Grandhomme,Rising Pune Supergiant,2,14,,,,,,Kolkata Knight Riders,,0
+6,Umesh Yadav,Manish Pandey,7,7.75,0,Pune,Maharashtra Cricket Association's International Stadium,30,Dan Christian,Kolkata Knight Riders,4,31,16,,2,266.66,,Rising Pune Supergiant,catch,1
+,,,6,9.00,,Pune,Maharashtra Cricket Association's International Stadium,30,Piyush Chawla,Rising Pune Supergiant,4,36,,,,,,Kolkata Knight Riders,,1
+7,,,3,6.00,1,Mumbai,Wankhede Stadium,28,Dan Christian,Mumbai Indians,1,6,8,,0,114.28,,Rising Pune Supergiant,,1
+12,Harbhajan Singh,,,,2,Mumbai,Wankhede Stadium,28,Steve Smith,Mumbai Indians,,,17,,0,141.66,,Rising Pune Supergiant,bold,
+13,Jasprit Bumrah,,,,4,Mumbai,Wankhede Stadium,28,Manoj Tiwary,Mumbai Indians,,,22,,0,169.23,,Rising Pune Supergiant,lbw,
+2,,,7,5.00,0,Mumbai,Wankhede Stadium,28,Harbhajan Singh,Rising Pune Supergiant,4,20,7,,1,350.00,,Mumbai Indians,,1
+11,Jasprit Bumrah,,,,0,Mumbai,Wankhede Stadium,28,MS Dhoni,Mumbai Indians,,,7,,0,63.63,,Rising Pune Supergiant,bold,
+13,Ben Stokes,Washington Sundar,,,3,Mumbai,Wankhede Stadium,28,Jos Buttler,Rising Pune Supergiant,,,17,,0,130.76,,Mumbai Indians,catch,
+0,,,10,9.00,0,Mumbai,Wankhede Stadium,28,Mitchell McClenaghan,Rising Pune Supergiant,4,36,0,Ben Stokes/Jaydev Unadkat,0,0.00,,Mumbai Indians,runout,0
+11,Jaydev Unadkat,Ben Stokes,,,2,Mumbai,Wankhede Stadium,28,Hardik Pandya,Rising Pune Supergiant,,,13,,0,118.18,,Mumbai Indians,catch,
+12,Mitchell Johnson,,10,5.25,2,Mumbai,Wankhede Stadium,28,Ben Stokes,Mumbai Indians,4,21,17,,0,141.66,,Rising Pune Supergiant,bold,2
+,,,12,8.00,,Mumbai,Wankhede Stadium,28,Imran Tahir,Mumbai Indians,4,32,,,,,,Rising Pune Supergiant,,1
+10,Ben Stokes,,7,9.75,0,Mumbai,Wankhede Stadium,28,Karn Sharma,Rising Pune Supergiant,4,39,11,,1,110.00,,Mumbai Indians,bold,2
+9,Imran Tahir,Steve Smith,,,1,Mumbai,Wankhede Stadium,28,Kieron Pollard,Rising Pune Supergiant,,,9,,0,100.00,,Mumbai Indians,catch,
+,,,6,9.66,,Mumbai,Wankhede Stadium,28,Shardul Thakur,Mumbai Indians,3,29,,,,,,Rising Pune Supergiant,,0
+32,Karn Sharma,&,,,5,Mumbai,Wankhede Stadium,28,Ajinkya Rahane,Mumbai Indians,,,38,,1,118.75,,Rising Pune Supergiant,catch,
+9,Dan Christian,Jaydev Unadkat,,,0,Mumbai,Wankhede Stadium,28,Nitish Rana,Rising Pune Supergiant,,,3,,0,33.33,,Mumbai Indians,catch,
+27,Washington Sundar,,,,4,Mumbai,Wankhede Stadium,28,Parthiv Patel,Rising Pune Supergiant,,,33,,0,122.22,,Mumbai Indians,bold,
+31,Karn Sharma,Kieron Pollard,,,3,Mumbai,Wankhede Stadium,28,Rahul Tripathi,Mumbai Indians,,,45,,2,145.16,,Rising Pune Supergiant,catch,
+2,,,8,6.50,0,Mumbai,Wankhede Stadium,28,Washington Sundar,Mumbai Indians,4,26,2,,0,100.00,,Rising Pune Supergiant,,1
+,,,10,7.25,,Mumbai,Wankhede Stadium,28,Jasprit Bumrah,Rising Pune Supergiant,4,29,,,,,,Mumbai Indians,,2
+0,,,9,8.50,0,Mumbai,Wankhede Stadium,28,Mitchell Johnson,Rising Pune Supergiant,4,34,0,,0,0.00,,Mumbai Indians,,1
+,,,8,10.00,,Mumbai,Wankhede Stadium,28,Jaydev Unadkat,Mumbai Indians,4,40,,,,,,Rising Pune Supergiant,,2
+39,Jaydev Unadkat,&,,,6,Mumbai,Wankhede Stadium,28,Rohit Sharma,Rising Pune Supergiant,,,58,,3,148.71,,Mumbai Indians,catch,
+2,Yuzvendra Chahal,Virat Kohli,7,2.40,0,Kolkata,Eden Gardens,27,Colin de Grandhomme,Royal Challengers Bangalore,1.4,4,0,,0,0.00,,Kolkata Knight Riders,catch,3
+8,Yuzvendra Chahal,,,,0,Kolkata,Eden Gardens,27,Yusuf Pathan,Royal Challengers Bangalore,,,8,,0,100.00,Kedar Jadhav,Kolkata Knight Riders,stemping,
+3,Colin de Grandhomme,,10,5.00,0,Kolkata,Eden Gardens,27,Pawan Negi,Kolkata Knight Riders,3,15,2,,0,66.66,,Royal Challengers Bangalore,lbw,2
+4,,,7,7.71,1,Kolkata,Eden Gardens,27,Sreenath Arvind,Kolkata Knight Riders,3.3,27,5,,0,125.00,,Royal Challengers Bangalore,,1
+3,Chris Woakes,,10,8.25,0,Kolkata,Eden Gardens,27,Samuel Badree,Kolkata Knight Riders,4,33,0,,0,0.00,,Royal Challengers Bangalore,lbw,1
+3,Pawan Negi,AB de Villiers,12,7.00,0,Kolkata,Eden Gardens,27,Nathan Coulter-Nile,Royal Challengers Bangalore,3,21,2,,0,66.66,,Kolkata Knight Riders,catch,3
+9,Chris Woakes,Robin Uthappa,3,9.00,2,Kolkata,Eden Gardens,27,Stuart Binny,Kolkata Knight Riders,1,9,8,,0,88.88,,Royal Challengers Bangalore,catch,1
+21,Tymal Mills,Mandeep Singh,10,3.00,3,Kolkata,Eden Gardens,27,Chris Woakes,Royal Challengers Bangalore,2,6,18,,0,85.71,,Kolkata Knight Riders,catch,3
+1,Nathan Coulter-Nile,Manish Pandey,,,0,Kolkata,Eden Gardens,27,Virat Kohli,Kolkata Knight Riders,,,0,,0,0.00,,Royal Challengers Bangalore,catch,
+9,Samuel Badree,,,,2,Kolkata,Eden Gardens,27,Robin Uthappa,Royal Challengers Bangalore,,,11,,0,122.22,,Kolkata Knight Riders,lbw,
+16,Yuzvendra Chahal,Samuel Badree,,,1,Kolkata,Eden Gardens,27,Manish Pandey,Royal Challengers Bangalore,,,15,,0,93.75,,Kolkata Knight Riders,catch,
+19,Pawan Negi,Tymal Mills,,,1,Kolkata,Eden Gardens,27,Suryakumar Yadav,Royal Challengers Bangalore,,,15,,0,78.94,,Kolkata Knight Riders,catch,
+11,Tymal Mills,Kedar Jadhav,,,1,Kolkata,Eden Gardens,27,Gautam Gambhir,Royal Challengers Bangalore,,,14,,1,127.27,,Kolkata Knight Riders,catch,
+3,Umesh Yadav,Manish Pandey,,,0,Kolkata,Eden Gardens,27,Mandeep Singh,Kolkata Knight Riders,,,1,,0,33.33,,Royal Challengers Bangalore,catch,
+17,Chris Woakes,Nathan Coulter-Nile,,,1,Kolkata,Eden Gardens,27,Chris Gayle,Kolkata Knight Riders,,,7,,0,41.17,,Royal Challengers Bangalore,catch,
+2,Colin de Grandhomme,Manish Pandey,10,4.00,0,Kolkata,Eden Gardens,27,Yuzvendra Chahal,Kolkata Knight Riders,4,16,0,,0,0.00,,Royal Challengers Bangalore,catch,3
+5,Colin de Grandhomme,Kuldeep Yadav,13,7.75,0,Kolkata,Eden Gardens,27,Tymal Mills,Kolkata Knight Riders,4,31,2,,0,40.00,,Royal Challengers Bangalore,catch,2
+4,,,12,5.00,0,Kolkata,Eden Gardens,27,Umesh Yadav,Royal Challengers Bangalore,3,15,2,,0,50.00,,Kolkata Knight Riders,,1
+17,Stuart Binny,Yuzvendra Chahal,,,6,Kolkata,Eden Gardens,27,Sunil Narine,Royal Challengers Bangalore,,,34,,1,200.00,,Kolkata Knight Riders,catch,
+6,Nathan Coulter-Nile,Robin Uthappa,,,2,Kolkata,Eden Gardens,27,AB de Villiers,Kolkata Knight Riders,,,8,,0,133.33,,Royal Challengers Bangalore,catch,
+7,Nathan Coulter-Nile,Chris Woakes,,,2,Kolkata,Eden Gardens,27,Kedar Jadhav,Kolkata Knight Riders,,,9,,0,128.57,,Royal Challengers Bangalore,catch,
+7,Sreenath Arvind,,,,0,Kolkata,Eden Gardens,27,Kuldeep Yadav,Royal Challengers Bangalore,,,4,,0,57.14,,Kolkata Knight Riders,bold,
+24,Axar Patel,Glenn Maxwell,3,6.00,4,Rajkot,Saurashtra Cricket Association Stadium,26,Suresh Raina,Kings XI Punjab,1,6,32,,0,133.33,,Gujarat Lions,catch,0
+,,,7,10.50,,Rajkot,Saurashtra Cricket Association Stadium,26,Shubham Agarwal,Kings XI Punjab,4,42,,,,,,Gujarat Lions,,1
+44,,,,,6,Rajkot,Saurashtra Cricket Association Stadium,26,Dinesh Karthik,Kings XI Punjab,,,58,,0,131.81,,Gujarat Lions,,
+5,,,,,0,Rajkot,Saurashtra Cricket Association Stadium,26,Wriddhiman Saha,Gujarat Lions,,,10,Basil Thampi,1,200.00,,Kings XI Punjab,runout,
+,,,8,6.00,,Rajkot,Saurashtra Cricket Association Stadium,26,KC Cariappa,Gujarat Lions,4,24,,,,,,Kings XI Punjab,,2
+6,Sandeep Sharma,,,,1,Rajkot,Saurashtra Cricket Association Stadium,26,Brendon McCullum,Kings XI Punjab,,,6,,0,100.00,,Gujarat Lions,lbw,
+,,,7,10.00,,Rajkot,Saurashtra Cricket Association Stadium,26,Sandeep Sharma,Gujarat Lions,4,40,,,,,,Kings XI Punjab,,2
+17,Dwayne Smith,Aaron Finch,7,9.00,3,Rajkot,Saurashtra Cricket Association Stadium,26,Axar Patel,Gujarat Lions,4,36,34,,2,200.00,,Kings XI Punjab,catch,2
+12,Sandeep Sharma,,7,8.75,2,Rajkot,Saurashtra Cricket Association Stadium,26,Andrew Tye,Kings XI Punjab,4,35,22,,1,183.33,,Gujarat Lions,bold,2
+7,KC Cariappa,&,7,8.00,1,Rajkot,Saurashtra Cricket Association Stadium,26,Ravindra Jadeja,Kings XI Punjab,4,32,9,,0,128.57,,Gujarat Lions,catch,1
+9,Andrew Tye,Brendon McCullum,0,12.00,0,Rajkot,Saurashtra Cricket Association Stadium,26,Marcus Stoinis,Gujarat Lions,1,12,7,,0,77.77,,Kings XI Punjab,catch,0
+24,Andrew Tye,Suresh Raina,,,4,Rajkot,Saurashtra Cricket Association Stadium,26,Shaun Marsh,Gujarat Lions,,,30,,1,125.00,,Kings XI Punjab,catch,
+,,,8,3.50,,Rajkot,Saurashtra Cricket Association Stadium,26,Nathu Singh,Kings XI Punjab,2,7,,,,,,Gujarat Lions,,1
+18,Ravindra Jadeja,,,,1,Rajkot,Saurashtra Cricket Association Stadium,26,Glenn Maxwell,Gujarat Lions,,,31,,3,172.22,,Kings XI Punjab,lbw,
+4,Nathu Singh,Dinesh Karthik,,,0,Rajkot,Saurashtra Cricket Association Stadium,26,Manan Vohra,Gujarat Lions,,,2,,0,50.00,,Kings XI Punjab,catch,
+10,,,6,11.00,1,Rajkot,Saurashtra Cricket Association Stadium,26,Basil Thampi,Kings XI Punjab,4,44,11,,0,110.00,,Gujarat Lions,,0
+1,KC Cariappa,,,,0,Rajkot,Saurashtra Cricket Association Stadium,26,Akshdeep Nath,Kings XI Punjab,,,0,,0,0.00,,Gujarat Lions,lbw,
+12,Mohit Sharma,Marcus Stoinis,,,0,Rajkot,Saurashtra Cricket Association Stadium,26,Aaron Finch,Kings XI Punjab,,,13,,1,108.33,,Gujarat Lions,catch,
+40,Shubham Agarwal,&,,,9,Rajkot,Saurashtra Cricket Association Stadium,26,Hashim Amla,Gujarat Lions,,,65,,2,162.50,,Kings XI Punjab,catch,
+4,Axar Patel,Marcus Stoinis,1,18.00,1,Rajkot,Saurashtra Cricket Association Stadium,26,Dwayne Smith,Kings XI Punjab,1,18,4,,0,100.00,,Gujarat Lions,catch,1
+,,,4,7.33,,Rajkot,Saurashtra Cricket Association Stadium,26,T Natarajan,Gujarat Lions,3,22,,,,,,Kings XI Punjab,,0
+3,,,10,6.25,0,Rajkot,Saurashtra Cricket Association Stadium,26,Mohit Sharma,Gujarat Lions,4,25,4,,0,133.33,,Kings XI Punjab,,1
+2,,,9,6.50,0,Mumbai,Wankhede Stadium,25,Harbhajan Singh,Delhi Daredevils,4,26,2,Kagiso Rabada,0,100.00,,Mumbai Indians,runout,0
+3,Jasprit Bumrah,Harbhajan Singh,,,0,Mumbai,Wankhede Stadium,25,Rishabh Pant,Mumbai Indians,,,0,,0,0.00,,Delhi Daredevils,catch,
+18,,,,,3,Mumbai,Wankhede Stadium,25,Jos Buttler,Delhi Daredevils,,,28,Sanju Samson,2,155.55,,Mumbai Indians,runout,
+39,Jasprit Bumrah,,13,7.50,4,Mumbai,Wankhede Stadium,25,Kagiso Rabada,Mumbai Indians,4,30,44,,1,112.82,,Delhi Daredevils,bold,1
+1,,,12,6.00,0,Mumbai,Wankhede Stadium,25,Mitchell McClenaghan,Delhi Daredevils,4,24,1,,0,100.00,,Mumbai Indians,,3
+23,,,6,7.66,0,Mumbai,Wankhede Stadium,25,Hardik Pandya,Delhi Daredevils,3,23,24,Karun Nair/Rishabh Pant,2,104.34,,Mumbai Indians,runout,1
+3,Mitchell McClenaghan,,,,0,Mumbai,Wankhede Stadium,25,Corey Anderson,Mumbai Indians,,,0,,0,0.00,,Delhi Daredevils,lbw,
+16,Amit Mishra,Rishabh Pant,1,8.00,1,Mumbai,Wankhede Stadium,25,Krunal Pandya,Delhi Daredevils,1,8,17,,0,106.25,,Mumbai Indians,catch,0
+5,,,11,5.00,0,Mumbai,Wankhede Stadium,25,Pat Cummins,Mumbai Indians,4,20,4,,0,80.00,,Delhi Daredevils,,2
+29,Pat Cummins,Sanju Samson,,,4,Mumbai,Wankhede Stadium,25,Kieron Pollard,Delhi Daredevils,,,26,,0,89.65,,Mumbai Indians,catch,
+7,Mitchell McClenaghan,Parthiv Patel,,,1,Mumbai,Wankhede Stadium,25,Shreyas Iyer,Mumbai Indians,,,6,,0,85.71,,Delhi Daredevils,catch,
+1,,,,,0,Mumbai,Wankhede Stadium,25,Aditya Tare,Mumbai Indians,,,0,Hardik Pandya,0,0.00,,Delhi Daredevils,runout,
+9,Pat Cummins,Corey Anderson,,,1,Mumbai,Wankhede Stadium,25,Nitish Rana,Delhi Daredevils,,,8,,0,88.88,,Mumbai Indians,catch,
+41,,,10,8.25,5,Mumbai,Wankhede Stadium,25,Chris Morris,Mumbai Indians,4,33,52,,1,126.82,,Delhi Daredevils,,0
+11,Kagiso Rabada,,,,1,Mumbai,Wankhede Stadium,25,Parthiv Patel,Delhi Daredevils,,,8,,0,72.72,,Mumbai Indians,bold,
+15,Hardik Pandya,,,,0,Mumbai,Wankhede Stadium,25,Karun Nair,Mumbai Indians,,,5,,0,33.33,,Delhi Daredevils,bold,
+,,,11,5.25,,Mumbai,Wankhede Stadium,25,Jasprit Bumrah,Delhi Daredevils,4,21,,,,,,Mumbai Indians,,2
+,,,14,4.50,,Mumbai,Wankhede Stadium,25,Amit Mishra,Mumbai Indians,4,18,,,,,,Delhi Daredevils,,2
+3,,,14,5.75,1,Mumbai,Wankhede Stadium,25,Mitchell Johnson,Delhi Daredevils,4,23,7,,0,233.33,,Mumbai Indians,,0
+6,Mitchell McClenaghan,Rohit Sharma,,,2,Mumbai,Wankhede Stadium,25,Sanju Samson,Mumbai Indians,,,9,,0,150.00,,Delhi Daredevils,catch,
+9,Amit Mishra,Pat Cummins,,,0,Mumbai,Wankhede Stadium,25,Rohit Sharma,Delhi Daredevils,,,5,,0,55.55,,Mumbai Indians,catch,
+,,,8,9.00,,Mumbai,Wankhede Stadium,25,Zaheer Khan,Mumbai Indians,4,36,,,,,,Delhi Daredevils,,0
+,,,5,7.66,,Pune,Maharashtra Cricket Association's International Stadium,24,Imran Tahir,Sunrisers Hyderabad,3,23,,,,,,Rising Pune Supergiant,,1
+,,,9,9.75,,Pune,Maharashtra Cricket Association's International Stadium,24,Bhuvneshwar Kumar,Rising Pune Supergiant,4,39,,,,,,Sunrisers Hyderabad,,1
+41,,,,,6,Pune,Maharashtra Cricket Association's International Stadium,24,Rahul Tripathi,Sunrisers Hyderabad,,,59,Rashid Khan,3,143.90,,Rising Pune Supergiant,runout,
+7,Bipul Sharma,Siddarth Kaul,,,0,Pune,Maharashtra Cricket Association's International Stadium,24,Ajinkya Rahane,Sunrisers Hyderabad,,,2,,0,28.57,,Rising Pune Supergiant,catch,
+,,,1,15.00,,Pune,Maharashtra Cricket Association's International Stadium,24,Siddarth Kaul,Rising Pune Supergiant,3,45,,,,,,Sunrisers Hyderabad,,0
+,,,10,4.25,,Pune,Maharashtra Cricket Association's International Stadium,24,Rashid Khan,Rising Pune Supergiant,4,17,,,,,,Sunrisers Hyderabad,,1
+29,Imran Tahir,Rahul Tripathi,,,5,Pune,Maharashtra Cricket Association's International Stadium,24,Shikhar Dhawan,Rising Pune Supergiant,,,30,,0,103.44,,Sunrisers Hyderabad,catch,
+28,,,2,4.00,6,Pune,Maharashtra Cricket Association's International Stadium,24,Moises Henriques,Rising Pune Supergiant,1,4,55,,2,196.42,,Sunrisers Hyderabad,,0
+,,,7,10.25,,Pune,Maharashtra Cricket Association's International Stadium,24,Jaydev Unadkat,Sunrisers Hyderabad,4,41,,,,,,Rising Pune Supergiant,,1
+8,,,,,3,Pune,Maharashtra Cricket Association's International Stadium,24,Manoj Tiwary,Sunrisers Hyderabad,,,17,,0,212.50,,Rising Pune Supergiant,,
+9,Bhuvneshwar Kumar,sub (Vijay Shankar),4,9.50,1,Pune,Maharashtra Cricket Association's International Stadium,24,Ben Stokes,Sunrisers Hyderabad,2,19,10,,0,111.11,,Rising Pune Supergiant,catch,0
+,,,6,10.50,,Pune,Maharashtra Cricket Association's International Stadium,24,Mohammed Siraj,Rising Pune Supergiant,4,42,,,,,,Sunrisers Hyderabad,,0
+,,,4,12.50,,Pune,Maharashtra Cricket Association's International Stadium,24,Shardul Thakur,Sunrisers Hyderabad,4,50,,,,,,Rising Pune Supergiant,,0
+10,,,,,2,Pune,Maharashtra Cricket Association's International Stadium,24,Deepak Hooda,Rising Pune Supergiant,,,19,,1,190.00,,Sunrisers Hyderabad,,
+34,,,,,5,Pune,Maharashtra Cricket Association's International Stadium,24,MS Dhoni,Sunrisers Hyderabad,,,61,,3,179.41,,Rising Pune Supergiant,,
+21,Rashid Khan,,,,1,Pune,Maharashtra Cricket Association's International Stadium,24,Steve Smith,Sunrisers Hyderabad,,,27,,2,128.57,,Rising Pune Supergiant,bold,
+40,Jaydev Unadkat,,,,3,Pune,Maharashtra Cricket Association's International Stadium,24,David Warner,Rising Pune Supergiant,,,43,,1,107.50,,Sunrisers Hyderabad,bold,
+,,,11,5.00,,Pune,Maharashtra Cricket Association's International Stadium,24,Dan Christian,Sunrisers Hyderabad,4,20,,,,,,Rising Pune Supergiant,,1
+,,,7,6.33,,Pune,Maharashtra Cricket Association's International Stadium,24,Washington Sundar,Sunrisers Hyderabad,3,19,,,,,,Rising Pune Supergiant,,0
+,,,10,7.50,,Pune,Maharashtra Cricket Association's International Stadium,24,Bipul Sharma,Rising Pune Supergiant,4,30,,,,,,Sunrisers Hyderabad,,1
+14,Dan Christian,,,,1,Pune,Maharashtra Cricket Association's International Stadium,24,Kane Williamson,Rising Pune Supergiant,,,21,,1,150.00,,Sunrisers Hyderabad,lbw,
+46,Kuldeep Yadav,Manish Pandey,4,5.50,9,Kolkata,Eden Gardens,23,Suresh Raina,Kolkata Knight Riders,2,11,84,,4,182.60,,Gujarat Lions,catch,1
+3,Nathan Coulter-Nile,Gautam Gambhir,,,0,Kolkata,Eden Gardens,23,Dinesh Karthik,Kolkata Knight Riders,,,3,,0,100.00,,Gujarat Lions,catch,
+,,,3,11.50,,Kolkata,Eden Gardens,23,Dhawal Kulkarni,Kolkata Knight Riders,2,23,,,,,,Gujarat Lions,,0
+4,,,,,2,Kolkata,Eden Gardens,23,Yusuf Pathan,Gujarat Lions,,,11,,0,275.00,,Kolkata Knight Riders,,
+11,Kuldeep Yadav,Umesh Yadav,,,0,Kolkata,Eden Gardens,23,Ishan Kishan,Kolkata Knight Riders,,,4,,0,36.36,,Gujarat Lions,catch,
+17,Chris Woakes,Manish Pandey,,,5,Kolkata,Eden Gardens,23,Brendon McCullum,Kolkata Knight Riders,,,33,,1,194.11,,Gujarat Lions,catch,
+,,,6,12.30,,Kolkata,Eden Gardens,23,Nathan Coulter-Nile,Gujarat Lions,3.2,41,,,,,,Kolkata Knight Riders,,2
+,,,3,10.00,,Kolkata,Eden Gardens,23,Chris Woakes,Gujarat Lions,2,20,,,,,,Kolkata Knight Riders,,1
+48,Praveen Kumar,Brendon McCullum,,,8,Kolkata,Eden Gardens,23,Robin Uthappa,Gujarat Lions,,,72,,2,150.00,,Kolkata Knight Riders,catch,
+21,Basil Thampi,,,,2,Kolkata,Eden Gardens,23,Manish Pandey,Gujarat Lions,,,24,,0,114.28,,Kolkata Knight Riders,bold,
+1,,,,,0,Kolkata,Eden Gardens,23,Suryakumar Yadav,Gujarat Lions,,,1,Brendon McCullum,0,100.00,,Kolkata Knight Riders,runout,
+2,,,7,9.50,0,Kolkata,Eden Gardens,23,James Faulkner,Kolkata Knight Riders,4,38,4,,0,200.00,,Gujarat Lions,,1
+28,James Faulkner,Suresh Raina,,,1,Kolkata,Eden Gardens,23,Gautam Gambhir,Gujarat Lions,,,33,,1,117.85,,Kolkata Knight Riders,catch,
+13,,,5,7.75,1,Kolkata,Eden Gardens,23,Ravindra Jadeja,Kolkata Knight Riders,4,31,19,,1,146.15,,Gujarat Lions,,0
+,,,3,8.50,,Kolkata,Eden Gardens,23,Umesh Yadav,Gujarat Lions,2,17,,,,,,Kolkata Knight Riders,,1
+,,,7,11.00,,Kolkata,Eden Gardens,23,Basil Thampi,Kolkata Knight Riders,4,44,,,,,,Gujarat Lions,,1
+17,Suresh Raina,James Faulkner,7,10.50,9,Kolkata,Eden Gardens,23,Sunil Narine,Gujarat Lions,4,42,42,,1,247.05,,Kolkata Knight Riders,catch,0
+1,,,7,10.33,0,Kolkata,Eden Gardens,23,Shakib Al Hasan,Gujarat Lions,3,31,1,,0,100.00,,Kolkata Knight Riders,,0
+15,Nathan Coulter-Nile,Manish Pandey,,,4,Kolkata,Eden Gardens,23,Aaron Finch,Kolkata Knight Riders,,,31,,2,206.66,,Gujarat Lions,catch,
+4,Umesh Yadav,,2,7.00,1,Kolkata,Eden Gardens,23,Dwayne Smith,Kolkata Knight Riders,2,14,5,,0,125.00,,Gujarat Lions,bold,0
+,,,7,8.25,,Kolkata,Eden Gardens,23,Kuldeep Yadav,Gujarat Lions,4,33,,,,,,Kolkata Knight Riders,,2
+,,,4,12.00,,Kolkata,Eden Gardens,23,Praveen Kumar,Kolkata Knight Riders,2,24,,,,,,Gujarat Lions,,1
+3,Mitchell McClenaghan,Kieron Pollard,1,14.00,0,Indore,Holkar Cricket Stadium,22,Marcus Stoinis,Mumbai Indians,2,28,1,,0,33.33,,Kings XI Punjab,catch,1
+,,,1,11.00,,Indore,Holkar Cricket Stadium,22,Swapnil Singh,Mumbai Indians,2,22,,,,,,Kings XI Punjab,,0
+,,,4,6.00,,Indore,Holkar Cricket Stadium,22,Harbhajan Singh,Kings XI Punjab,2,12,,,,,,Mumbai Indians,,0
+60,,,,,8,Indore,Holkar Cricket Stadium,22,Hashim Amla,Mumbai Indians,,,104,,6,173.33,,Kings XI Punjab,,
+,,,4,14.50,,Indore,Holkar Cricket Stadium,22,Ishant Sharma,Mumbai Indians,4,58,,,,,,Kings XI Punjab,,0
+21,Mitchell McClenaghan,Kieron Pollard,,,5,Indore,Holkar Cricket Stadium,22,Shaun Marsh,Mumbai Indians,,,26,,0,123.80,,Kings XI Punjab,catch,
+4,,,4,9.00,2,Indore,Holkar Cricket Stadium,22,Hardik Pandya,Kings XI Punjab,2,18,15,,1,375.00,,Mumbai Indians,,0
+,,,9,7.50,,Indore,Holkar Cricket Stadium,22,Jasprit Bumrah,Kings XI Punjab,4,30,,,,,,Mumbai Indians,,1
+,,,4,13.00,,Indore,Holkar Cricket Stadium,22,Sandeep Sharma,Mumbai Indians,3,39,,,,,,Kings XI Punjab,,0
+15,Krunal Pandya,,,,0,Indore,Holkar Cricket Stadium,22,Wriddhiman Saha,Mumbai Indians,,,11,,0,73.33,,Kings XI Punjab,bold,
+,,,6,7.25,,Indore,Holkar Cricket Stadium,22,Krunal Pandya,Kings XI Punjab,4,29,,,,,,Mumbai Indians,,1
+5,,,4,10.00,0,Indore,Holkar Cricket Stadium,22,Axar Patel,Mumbai Indians,2,20,4,,0,80.00,,Kings XI Punjab,,0
+18,Jasprit Bumrah,,,,4,Indore,Holkar Cricket Stadium,22,Glenn Maxwell,Mumbai Indians,,,40,,3,222.22,,Kings XI Punjab,bold,
+37,Mohit Sharma,Glenn Maxwell,,,7,Indore,Holkar Cricket Stadium,22,Jos Buttler,Kings XI Punjab,,,77,,5,208.10,,Mumbai Indians,catch,
+,,,6,14.50,,Indore,Holkar Cricket Stadium,22,Lasith Malinga,Kings XI Punjab,4,58,,,,,,Mumbai Indians,,0
+34,,,,,0,Indore,Holkar Cricket Stadium,22,Nitish Rana,Kings XI Punjab,,,62,,7,182.35,,Mumbai Indians,,
+,,,5,11.60,,Indore,Holkar Cricket Stadium,22,Mohit Sharma,Mumbai Indians,2.3,29,,,,,,Kings XI Punjab,,1
+18,Marcus Stoinis,Glenn Maxwell,,,4,Indore,Holkar Cricket Stadium,22,Parthiv Patel,Kings XI Punjab,,,37,,2,205.55,,Mumbai Indians,catch,
+,,,11,11.50,,Indore,Holkar Cricket Stadium,22,Mitchell McClenaghan,Kings XI Punjab,4,46,,,,,,Mumbai Indians,,2
+,,,2,8.00,,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,21,Jayant Yadav,Sunrisers Hyderabad,2,16,,,,,,Delhi Daredevils,,0
+50,Chris Morris,Angelo Mathews,,,7,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,21,Shikhar Dhawan,Delhi Daredevils,,,70,,1,140.00,,Sunrisers Hyderabad,catch,
+51,Chris Morris,Shreyas Iyer,,,6,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,21,Kane Williamson,Delhi Daredevils,,,89,,5,174.50,,Sunrisers Hyderabad,catch,
+,,,7,8.25,,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,21,Rashid Khan,Delhi Daredevils,4,33,,,,,,Sunrisers Hyderabad,,0
+23,,,,,5,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,21,Karun Nair,Sunrisers Hyderabad,,,33,sub [Vijay Shankar],1,143.47,,Delhi Daredevils,runout,
+4,,,,,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,21,Deepak Hooda,Delhi Daredevils,,,9,,1,225.00,,Sunrisers Hyderabad,,
+6,,,3,10.66,2,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,21,Moises Henriques,Delhi Daredevils,3,32,12,,0,200.00,,Sunrisers Hyderabad,,0
+9,Mohammed Siraj,Deepak Hooda,,,3,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,21,Sam Billings,Sunrisers Hyderabad,,,13,,0,144.44,,Delhi Daredevils,catch,
+,,,6,9.25,,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,21,Pat Cummins,Sunrisers Hyderabad,4,37,,,,,,Delhi Daredevils,,0
+,,,9,9.75,,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,21,Mohammed Siraj,Delhi Daredevils,4,39,,,,,,Sunrisers Hyderabad,,2
+,,,9,7.25,,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,21,Bhuvneshwar Kumar,Delhi Daredevils,4,29,,,,,,Sunrisers Hyderabad,,0
+4,Chris Morris,,3,6.00,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,21,Yuvraj Singh,Delhi Daredevils,1,6,3,,0,75.00,,Sunrisers Hyderabad,bold,1
+7,Chris Morris,Amit Mishra,,,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,21,David Warner,Delhi Daredevils,,,4,,0,57.14,,Sunrisers Hyderabad,catch,
+1,Yuvraj Singh,David Warner,,,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,21,Rishabh Pant,Sunrisers Hyderabad,,,0,,0,0.00,,Delhi Daredevils,catch,
+,,,2,11.00,,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,21,Amit Mishra,Sunrisers Hyderabad,3,33,,,,,,Delhi Daredevils,,0
+31,,,,,5,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,21,Shreyas Iyer,Sunrisers Hyderabad,,,50,,2,161.29,,Delhi Daredevils,,
+23,Siddarth Kaul,sub (Chris Jordan),1,13.66,2,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,21,Angelo Mathews,Sunrisers Hyderabad,3,41,31,,1,134.78,,Delhi Daredevils,catch,0
+33,Mohammed Siraj,Moises Henriques,,,3,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,21,Sanju Samson,Sunrisers Hyderabad,,,42,,2,127.27,,Delhi Daredevils,catch,
+0,,,10,6.50,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,21,Chris Morris,Sunrisers Hyderabad,4,26,0,,0,0.00,,Delhi Daredevils,,4
+,,,4,9.25,,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,21,Zaheer Khan,Sunrisers Hyderabad,4,37,,,,,,Delhi Daredevils,,0
+,,,9,8.00,,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,21,Siddarth Kaul,Delhi Daredevils,4,32,,,,,,Sunrisers Hyderabad,,1
+,,,8,7.75,,Rajkot,Saurashtra Cricket Association Stadium,20,Yuzvendra Chahal,Gujarat Lions,4,31,,,,,,Royal Challengers Bangalore,,3
+15,Pawan Negi,,,,2,Rajkot,Saurashtra Cricket Association Stadium,20,Aaron Finch,Royal Challengers Bangalore,,,19,,1,126.66,Kedar Jadhav,Gujarat Lions,stemping,
+6,,,9,8.50,0,Rajkot,Saurashtra Cricket Association Stadium,20,Andrew Tye,Royal Challengers Bangalore,4,34,6,,0,100.00,,Gujarat Lions,,0
+8,Yuzvendra Chahal,Shane Watson,,,2,Rajkot,Saurashtra Cricket Association Stadium,20,Suresh Raina,Royal Challengers Bangalore,,,23,,2,287.50,,Gujarat Lions,catch,
+4,Sreenath Arvind,Virat Kohli,,,0,Rajkot,Saurashtra Cricket Association Stadium,20,Dinesh Karthik,Royal Challengers Bangalore,,,1,,0,25.00,,Gujarat Lions,catch,
+50,Dhawal Kulkarni,Dwayne Smith,,,7,Rajkot,Saurashtra Cricket Association Stadium,20,Virat Kohli,Gujarat Lions,,,64,,1,128.00,,Royal Challengers Bangalore,catch,
+,,,7,10.75,,Rajkot,Saurashtra Cricket Association Stadium,20,Adam Milne,Gujarat Lions,4,43,,,,,,Royal Challengers Bangalore,,1
+4,Yuzvendra Chahal,Mandeep Singh,0,17.00,0,Rajkot,Saurashtra Cricket Association Stadium,20,Dwayne Smith,Royal Challengers Bangalore,1,17,1,,0,25.00,,Gujarat Lions,catch,0
+,,,8,9.25,,Rajkot,Saurashtra Cricket Association Stadium,20,Dhawal Kulkarni,Royal Challengers Bangalore,4,37,,,,,,Gujarat Lions,,1
+,,,17,5.25,,Rajkot,Saurashtra Cricket Association Stadium,20,Pawan Negi,Gujarat Lions,4,21,,,,,,Royal Challengers Bangalore,,1
+16,,,,,5,Rajkot,Saurashtra Cricket Association Stadium,20,Kedar Jadhav,Gujarat Lions,,,38,,2,237.50,,Royal Challengers Bangalore,,
+1,,,11,7.75,0,Rajkot,Saurashtra Cricket Association Stadium,20,Basil Thampi,Royal Challengers Bangalore,4,31,0,,0,0.00,,Gujarat Lions,,1
+,,,7,13.25,,Rajkot,Saurashtra Cricket Association Stadium,20,Sreenath Arvind,Gujarat Lions,4,53,,,,,,Royal Challengers Bangalore,,1
+38,Basil Thampi,,,,5,Rajkot,Saurashtra Cricket Association Stadium,20,Chris Gayle,Gujarat Lions,,,77,,7,202.63,,Royal Challengers Bangalore,lbw,
+,,,4,12.00,,Rajkot,Saurashtra Cricket Association Stadium,20,Shivil Kaushik,Royal Challengers Bangalore,3,36,,,,,,Gujarat Lions,,0
+16,Adam Milne,Yuzvendra Chahal,,,2,Rajkot,Saurashtra Cricket Association Stadium,20,Ishan Kishan,Royal Challengers Bangalore,,,39,,4,243.75,,Gujarat Lions,catch,
+16,,,1,9.00,2,Rajkot,Saurashtra Cricket Association Stadium,20,Travis Head,Gujarat Lions,2,18,30,,1,187.50,,Royal Challengers Bangalore,,0
+22,,,4,14.25,2,Rajkot,Saurashtra Cricket Association Stadium,20,Ravindra Jadeja,Royal Challengers Bangalore,4,57,23,Kedar Jadhav,0,104.54,,Gujarat Lions,runout,0
+44,Yuzvendra Chahal,Adam Milne,,,2,Rajkot,Saurashtra Cricket Association Stadium,20,Brendon McCullum,Royal Challengers Bangalore,,,72,,7,163.63,,Gujarat Lions,catch,
+,,,1,12.00,,Rajkot,Saurashtra Cricket Association Stadium,20,Shane Watson,Gujarat Lions,2,24,,,,,,Royal Challengers Bangalore,,0
+1,,,10,10.50,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,19,Rashid Khan,Kings XI Punjab,4,42,6,,1,600.00,,Sunrisers Hyderabad,,2
+2,Rashid Khan,,,,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,19,Wriddhiman Saha,Sunrisers Hyderabad,,,0,,0,0.00,,Kings XI Punjab,bold,
+5,Bhuvneshwar Kumar,,5,9.50,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,19,KC Cariappa,Sunrisers Hyderabad,4,38,1,,0,20.00,,Kings XI Punjab,bold,1
+17,Mohammad Nabi,,,,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,19,Eoin Morgan,Sunrisers Hyderabad,,,13,,1,76.47,,Kings XI Punjab,bold,
+15,Mohit Sharma,Wriddhiman Saha,,,1,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,19,Shikhar Dhawan,Kings XI Punjab,,,15,,0,100.00,,Sunrisers Hyderabad,catch,
+20,KC Cariappa,,,,2,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,19,Naman Ojha,Kings XI Punjab,,,34,,1,170.00,Wriddhiman Saha,Sunrisers Hyderabad,stemping,
+4,,,10,8.75,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,19,Sandeep Sharma,Sunrisers Hyderabad,4,35,5,,0,125.00,,Kings XI Punjab,,1
+54,,,,,7,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,19,David Warner,Kings XI Punjab,,,70,,2,129.62,,Sunrisers Hyderabad,,
+12,Moises Henriques,Shikhar Dhawan,7,8.25,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,19,Axar Patel,Sunrisers Hyderabad,4,33,7,,0,58.33,,Kings XI Punjab,catch,2
+,,,7,7.09,,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,19,Siddarth Kaul,Kings XI Punjab,3.4,26,,,,,,Sunrisers Hyderabad,,1
+5,Siddarth Kaul,,11,5.75,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,19,Ishant Sharma,Sunrisers Hyderabad,4,23,2,,0,40.00,,Kings XI Punjab,bold,0
+16,Axar Patel,,7,3.00,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,19,Moises Henriques,Kings XI Punjab,2,6,9,,0,56.25,Wriddhiman Saha,Sunrisers Hyderabad,stemping,1
+12,Bhuvneshwar Kumar,David Warner,,,2,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,19,Glenn Maxwell,Sunrisers Hyderabad,,,10,,0,83.33,,Kings XI Punjab,catch,
+6,Rashid Khan,,,,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,19,David Miller,Sunrisers Hyderabad,,,1,,0,16.66,,Kings XI Punjab,bold,
+10,Mohit Sharma,Sandeep Sharma,,,1,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,19,Deepak Hooda,Kings XI Punjab,,,12,,0,120.00,,Sunrisers Hyderabad,catch,
+50,Bhuvneshwar Kumar,,,,9,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,19,Manan Vohra,Sunrisers Hyderabad,,,95,,5,190.00,,Kings XI Punjab,lbw,
+1,Bhuvneshwar Kumar,,,,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,19,Hashim Amla,Sunrisers Hyderabad,,,0,,0,0.00,,Kings XI Punjab,lbw,
+,,,15,4.75,,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,19,Bhuvneshwar Kumar,Kings XI Punjab,4,19,,,,,,Sunrisers Hyderabad,,5
+1,Axar Patel,Wriddhiman Saha,,,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,19,Yuvraj Singh,Kings XI Punjab,,,0,,0,0.00,,Sunrisers Hyderabad,catch,
+3,Sandeep Sharma,David Miller,11,7.00,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,19,Mohammad Nabi,Kings XI Punjab,4,28,2,,0,66.66,,Sunrisers Hyderabad,catch,1
+5,Bhuvneshwar Kumar,Shikhar Dhawan,10,6.25,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,19,Mohit Sharma,Sunrisers Hyderabad,4,25,10,,1,200.00,,Kings XI Punjab,catch,2
+,,,4,14.50,,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,19,Barinder Sran,Kings XI Punjab,2,29,,,,,,Sunrisers Hyderabad,,0
+2,Zaheer Khan,Sam Billings,0,12.00,0,Delhi,Feroz Shah Kotla Ground,18,Colin de Grandhomme,Delhi Daredevils,1,12,1,,0,50.00,,Kolkata Knight Riders,catch,0
+39,Chris Morris,,,,6,Delhi,Feroz Shah Kotla Ground,18,Yusuf Pathan,Delhi Daredevils,,,59,,2,151.28,,Kolkata Knight Riders,bold,
+25,Umesh Yadav,Robin Uthappa,,,7,Delhi,Feroz Shah Kotla Ground,18,Sanju Samson,Kolkata Knight Riders,,,39,,0,156.00,,Delhi Daredevils,catch,
+4,Sunil Narine,,3,7.50,0,Delhi,Feroz Shah Kotla Ground,18,Angelo Mathews,Kolkata Knight Riders,2,15,1,,0,25.00,,Delhi Daredevils,bold,0
+,,,12,5.50,,Delhi,Feroz Shah Kotla Ground,18,Nathan Coulter-Nile,Delhi Daredevils,4,22,,,,,,Kolkata Knight Riders,,3
+12,Zaheer Khan,Angelo Mathews,,,2,Delhi,Feroz Shah Kotla Ground,18,Gautam Gambhir,Delhi Daredevils,,,14,,0,116.66,,Kolkata Knight Riders,catch,
+2,Pat Cummins,Rishabh Pant,,,1,Delhi,Feroz Shah Kotla Ground,18,Robin Uthappa,Delhi Daredevils,,,4,,0,200.00,,Kolkata Knight Riders,catch,
+17,Nathan Coulter-Nile,Robin Uthappa,,,2,Delhi,Feroz Shah Kotla Ground,18,Sam Billings,Kolkata Knight Riders,,,21,,0,123.52,,Delhi Daredevils,catch,
+49,,,,,4,Delhi,Feroz Shah Kotla Ground,18,Manish Pandey,Delhi Daredevils,,,69,,3,140.81,,Kolkata Knight Riders,,
+9,Pat Cummins,Zaheer Khan,,,0,Delhi,Feroz Shah Kotla Ground,18,Suryakumar Yadav,Delhi Daredevils,,,7,,0,77.77,,Kolkata Knight Riders,catch,
+5,Amit Mishra,,5,7.75,0,Delhi,Feroz Shah Kotla Ground,18,Chris Woakes,Delhi Daredevils,4,31,3,,0,60.00,Rishabh Pant,Kolkata Knight Riders,stemping,1
+4,,,6,9.75,0,Delhi,Feroz Shah Kotla Ground,18,Pat Cummins,Kolkata Knight Riders,4,39,3,,0,75.00,,Delhi Daredevils,,2
+,,,6,9.17,,Delhi,Feroz Shah Kotla Ground,18,Amit Mishra,Kolkata Knight Riders,2.5,26,,,,,,Delhi Daredevils,,1
+1,,,5,9.33,0,Delhi,Feroz Shah Kotla Ground,18,Mohammed Shami,Kolkata Knight Riders,3,28,0,,0,0.00,,Delhi Daredevils,,0
+,,,7,13.25,,Delhi,Feroz Shah Kotla Ground,18,Umesh Yadav,Delhi Daredevils,4,53,,,,,,Kolkata Knight Riders,,1
+1,,,8,5.00,0,Delhi,Feroz Shah Kotla Ground,18,Sunil Narine,Delhi Daredevils,4,20,1,,0,100.00,,Kolkata Knight Riders,,1
+17,,,,,4,Delhi,Feroz Shah Kotla Ground,18,Shreyas Iyer,Kolkata Knight Riders,,,26,Colin de Grandhomme/Robin Uthappa,0,152.94,,Delhi Daredevils,runout,
+9,Chris Woakes,Umesh Yadav,6,7.50,3,Delhi,Feroz Shah Kotla Ground,18,Chris Morris,Kolkata Knight Riders,4,30,16,,0,177.77,,Delhi Daredevils,catch,1
+27,Nathan Coulter-Nile,,,,1,Delhi,Feroz Shah Kotla Ground,18,Karun Nair,Kolkata Knight Riders,,,21,,0,77.77,,Delhi Daredevils,bold,
+,,,4,9.66,,Delhi,Feroz Shah Kotla Ground,18,Kuldeep Yadav,Delhi Daredevils,3,29,,,,,,Kolkata Knight Riders,,0
+16,Nathan Coulter-Nile,Gautam Gambhir,,,2,Delhi,Feroz Shah Kotla Ground,18,Rishabh Pant,Kolkata Knight Riders,,,38,,4,237.50,,Delhi Daredevils,catch,
+,,,10,7.00,,Delhi,Feroz Shah Kotla Ground,18,Zaheer Khan,Kolkata Knight Riders,4,28,,,,,,Delhi Daredevils,,2
+,,,6,6.75,,Bengaluru,M. Chinnaswamy Stadium,17,Imran Tahir,Royal Challengers Bangalore,4,27,,,,,,Rising Pune Supergiant,,1
+8,Shardul Thakur,,,,2,Bengaluru,M. Chinnaswamy Stadium,17,Stuart Binny,Rising Pune Supergiant,,,18,,1,225.00,,Royal Challengers Bangalore,bold,
+23,Pawan Negi,Virat Kohli,,,3,Bengaluru,M. Chinnaswamy Stadium,17,Rahul Tripathi,Royal Challengers Bangalore,,,31,,1,134.78,,Rising Pune Supergiant,catch,
+25,Samuel Badree,,,,5,Bengaluru,M. Chinnaswamy Stadium,17,Ajinkya Rahane,Royal Challengers Bangalore,,,30,,0,120.00,,Rising Pune Supergiant,bold,
+1,Adam Milne,AB de Villiers,10,8.75,0,Bengaluru,M. Chinnaswamy Stadium,17,Shardul Thakur,Royal Challengers Bangalore,4,35,0,,0,0.00,,Rising Pune Supergiant,catch,3
+19,Ben Stokes,Ajinkya Rahane,,,3,Bengaluru,M. Chinnaswamy Stadium,17,Virat Kohli,Rising Pune Supergiant,,,28,,1,147.36,,Royal Challengers Bangalore,catch,
+5,,,12,6.25,0,Bengaluru,M. Chinnaswamy Stadium,17,Jaydev Unadkat,Royal Challengers Bangalore,4,25,2,,0,40.00,,Rising Pune Supergiant,,2
+3,Ben Stokes,,11,6.75,0,Bengaluru,M. Chinnaswamy Stadium,17,Adam Milne,Rising Pune Supergiant,4,27,2,,0,66.66,,Royal Challengers Bangalore,bold,2
+11,,,,,3,Bengaluru,M. Chinnaswamy Stadium,17,Manoj Tiwary,Royal Challengers Bangalore,,,27,Virat Kohli/Kedar Jadhav,2,245.45,,Rising Pune Supergiant,runout,
+3,Adam Milne,,13,4.50,0,Bengaluru,M. Chinnaswamy Stadium,17,Ben Stokes,Royal Challengers Bangalore,4,18,2,,0,66.66,,Rising Pune Supergiant,bold,3
+7,Shardul Thakur,Rahul Tripathi,7,4.00,0,Bengaluru,M. Chinnaswamy Stadium,17,Pawan Negi,Rising Pune Supergiant,3,12,10,,1,142.85,,Royal Challengers Bangalore,catch,1
+25,Shane Watson,,,,3,Bengaluru,M. Chinnaswamy Stadium,17,MS Dhoni,Royal Challengers Bangalore,,,28,,1,112.00,,Rising Pune Supergiant,bold,
+24,Sreenath Arvind,,,,3,Bengaluru,M. Chinnaswamy Stadium,17,Steve Smith,Royal Challengers Bangalore,,,27,,0,112.50,,Rising Pune Supergiant,bold,
+3,Shardul Thakur,MS Dhoni,,,0,Bengaluru,M. Chinnaswamy Stadium,17,Mandeep Singh,Rising Pune Supergiant,,,0,,0,0.00,,Royal Challengers Bangalore,catch,
+7,,,9,7.25,0,Bengaluru,M. Chinnaswamy Stadium,17,Sreenath Arvind,Rising Pune Supergiant,4,29,6,,0,85.71,,Royal Challengers Bangalore,,2
+3,Sreenath Arvind,Mandeep Singh,8,6.50,0,Bengaluru,M. Chinnaswamy Stadium,17,Dan Christian,Royal Challengers Bangalore,4,26,1,,0,33.33,,Rising Pune Supergiant,catch,0
+30,Imran Tahir,,,,1,Bengaluru,M. Chinnaswamy Stadium,17,AB de Villiers,Rising Pune Supergiant,,,29,,2,96.66,MS Dhoni,Royal Challengers Bangalore,stemping,
+1,Jaydev Unadkat,,7,8.00,0,Bengaluru,M. Chinnaswamy Stadium,17,Samuel Badree,Rising Pune Supergiant,4,32,0,,0,0.00,,Royal Challengers Bangalore,bold,1
+2,,,3,11.00,0,Bengaluru,M. Chinnaswamy Stadium,17,Yuzvendra Chahal,Rising Pune Supergiant,1,11,1,,0,50.00,,Royal Challengers Bangalore,,0
+22,Jaydev Unadkat,,,,0,Bengaluru,M. Chinnaswamy Stadium,17,Kedar Jadhav,Rising Pune Supergiant,,,18,,0,81.81,,Royal Challengers Bangalore,bold,
+18,Ben Stokes,,9,11.00,1,Bengaluru,M. Chinnaswamy Stadium,17,Shane Watson,Rising Pune Supergiant,4,44,14,,0,77.77,,Royal Challengers Bangalore,bold,1
+29,Harbhajan Singh,Rohit Sharma,,,2,Mumbai,Wankhede Stadium,16,Suresh Raina,Mumbai Indians,,,28,,0,96.55,,Gujarat Lions,catch,
+26,,,,,2,Mumbai,Wankhede Stadium,16,Dinesh Karthik,Mumbai Indians,,,48,,2,184.61,,Gujarat Lions,,
+,,,9,5.50,,Mumbai,Wankhede Stadium,16,Harbhajan Singh,Gujarat Lions,4,22,,,,,,Mumbai Indians,,1
+24,Munaf Patel,Brendon McCullum,,,1,Mumbai,Wankhede Stadium,16,Jos Buttler,Gujarat Lions,,,26,,2,108.33,,Mumbai Indians,catch,
+14,Mitchell McClenaghan,Krunal Pandya,,,1,Mumbai,Wankhede Stadium,16,Ishan Kishan,Mumbai Indians,,,11,,0,78.57,,Gujarat Lions,catch,
+44,Lasith Malinga,,,,6,Mumbai,Wankhede Stadium,16,Brendon McCullum,Mumbai Indians,,,64,,3,145.45,,Gujarat Lions,bold,
+,,,12,6.00,,Mumbai,Wankhede Stadium,16,Mitchell McClenaghan,Gujarat Lions,4,24,,,,,,Mumbai Indians,,2
+3,,,1,15.00,1,Mumbai,Wankhede Stadium,16,Hardik Pandya,Gujarat Lions,1,15,6,,0,200.00,,Mumbai Indians,,0
+,,,4,6.00,,Mumbai,Wankhede Stadium,16,Krunal Pandya,Gujarat Lions,3,18,,,,,,Mumbai Indians,,0
+,,,7,8.50,,Mumbai,Wankhede Stadium,16,Andrew Tye,Mumbai Indians,4,34,,,,,,Gujarat Lions,,2
+,,,6,8.50,,Mumbai,Wankhede Stadium,16,Ravindra Jadeja,Mumbai Indians,4,34,,,,,,Gujarat Lions,,0
+23,Andrew Tye,Ravindra Jadeja,,,2,Mumbai,Wankhede Stadium,16,Kieron Pollard,Gujarat Lions,,,39,,3,169.56,,Mumbai Indians,catch,
+7,,,,,1,Mumbai,Wankhede Stadium,16,Jason Roy,Mumbai Indians,,,14,,1,200.00,,Gujarat Lions,,
+,,,4,8.50,,Mumbai,Wankhede Stadium,16,Basil Thampi,Mumbai Indians,4,34,,,,,,Gujarat Lions,,0
+36,Andrew Tye,Dinesh Karthik,,,4,Mumbai,Wankhede Stadium,16,Nitish Rana,Gujarat Lions,,,53,,2,147.22,,Mumbai Indians,catch,
+2,Praveen Kumar,Jason Roy,,,0,Mumbai,Wankhede Stadium,16,Parthiv Patel,Gujarat Lions,,,0,,0,0.00,,Mumbai Indians,catch,
+,,,6,12.75,,Mumbai,Wankhede Stadium,16,Lasith Malinga,Gujarat Lions,4,51,,,,,,Mumbai Indians,,1
+,,,5,11.25,,Mumbai,Wankhede Stadium,16,Jasprit Bumrah,Gujarat Lions,4,45,,,,,,Mumbai Indians,,0
+2,Mitchell McClenaghan,Nitish Rana,3,12.00,0,Mumbai,Wankhede Stadium,16,Dwayne Smith,Mumbai Indians,1,12,0,,0,0.00,,Gujarat Lions,catch,0
+,,,8,8.75,,Mumbai,Wankhede Stadium,16,Munaf Patel,Mumbai Indians,4,35,,,,,,Gujarat Lions,,1
+29,,,,,3,Mumbai,Wankhede Stadium,16,Rohit Sharma,Gujarat Lions,,,40,,1,137.93,,Mumbai Indians,,
+,,,7,10.00,,Mumbai,Wankhede Stadium,16,Praveen Kumar,Mumbai Indians,2.3,25,,,,,,Gujarat Lions,,1
+5,Shahbaz Nadeem,Zaheer Khan,,,1,Delhi,Feroz Shah Kotla Ground,15,Wriddhiman Saha,Delhi Daredevils,,,7,,0,140.00,,Kings XI Punjab,catch,
+2,Chris Morris,,6,7.66,0,Delhi,Feroz Shah Kotla Ground,15,KC Cariappa,Delhi Daredevils,3,23,1,,0,50.00,,Kings XI Punjab,bold,1
+18,KC Cariappa,Eoin Morgan,,,2,Delhi,Feroz Shah Kotla Ground,15,Sanju Samson,Kings XI Punjab,,,19,,1,105.55,,Delhi Daredevils,catch,
+20,Pat Cummins,Karun Nair,,,3,Delhi,Feroz Shah Kotla Ground,15,Eoin Morgan,Delhi Daredevils,,,22,,0,110.00,,Kings XI Punjab,catch,
+,,,6,6.50,,Delhi,Feroz Shah Kotla Ground,15,Shahbaz Nadeem,Kings XI Punjab,2,13,,,,,,Delhi Daredevils,,2
+40,Axar Patel,David Miller,,,9,Delhi,Feroz Shah Kotla Ground,15,Sam Billings,Kings XI Punjab,,,55,,0,137.50,,Delhi Daredevils,catch,
+2,,,10,10.25,0,Delhi,Feroz Shah Kotla Ground,15,Sandeep Sharma,Delhi Daredevils,4,41,2,,0,100.00,,Kings XI Punjab,,1
+22,,,3,7.66,3,Delhi,Feroz Shah Kotla Ground,15,Corey Anderson,Kings XI Punjab,3,23,39,,3,177.27,,Delhi Daredevils,,1
+29,Chris Morris,,6,8.25,1,Delhi,Feroz Shah Kotla Ground,15,Axar Patel,Delhi Daredevils,4,33,44,,3,151.72,,Kings XI Punjab,bold,1
+6,,,10,5.75,2,Delhi,Feroz Shah Kotla Ground,15,Pat Cummins,Kings XI Punjab,4,23,12,,0,200.00,,Delhi Daredevils,,2
+,,,10,11.25,,Delhi,Feroz Shah Kotla Ground,15,Varun Aaron,Delhi Daredevils,4,45,,,,,,Kings XI Punjab,,2
+2,Amit Mishra,Sam Billings,2,7.00,0,Delhi,Feroz Shah Kotla Ground,15,Glenn Maxwell,Delhi Daredevils,1,7,0,,0,0.00,,Kings XI Punjab,catch,0
+28,Corey Anderson,,,,1,Delhi,Feroz Shah Kotla Ground,15,David Miller,Delhi Daredevils,,,24,,0,85.71,,Kings XI Punjab,lbw,
+17,Mohit Sharma,Eoin Morgan,,,3,Delhi,Feroz Shah Kotla Ground,15,Shreyas Iyer,Kings XI Punjab,,,22,,0,129.41,,Delhi Daredevils,catch,
+8,Sandeep Sharma,Mohit Sharma,8,5.75,1,Delhi,Feroz Shah Kotla Ground,15,Chris Morris,Kings XI Punjab,4,23,16,,1,200.00,,Delhi Daredevils,catch,3
+6,Shahbaz Nadeem,,,,0,Delhi,Feroz Shah Kotla Ground,15,Manan Vohra,Delhi Daredevils,,,3,,0,50.00,,Kings XI Punjab,lbw,
+3,Varun Aaron,Wriddhiman Saha,,,0,Delhi,Feroz Shah Kotla Ground,15,Karun Nair,Kings XI Punjab,,,0,,0,0.00,,Delhi Daredevils,catch,
+12,Chris Morris,Sam Billings,,,4,Delhi,Feroz Shah Kotla Ground,15,Hashim Amla,Delhi Daredevils,,,19,,0,158.33,,Kings XI Punjab,catch,
+,,,9,5.33,,Delhi,Feroz Shah Kotla Ground,15,Amit Mishra,Kings XI Punjab,3,16,,,,,,Delhi Daredevils,,1
+9,Varun Aaron,Eoin Morgan,,,3,Delhi,Feroz Shah Kotla Ground,15,Rishabh Pant,Kings XI Punjab,,,15,,0,166.66,,Delhi Daredevils,catch,
+14,Pat Cummins,,9,9.00,1,Delhi,Feroz Shah Kotla Ground,15,Mohit Sharma,Delhi Daredevils,4,36,13,,0,92.85,,Kings XI Punjab,bold,1
+,,,5,9.50,,Delhi,Feroz Shah Kotla Ground,15,Zaheer Khan,Kings XI Punjab,4,38,,,,,,Delhi Daredevils,,0
+,,,11,8.75,,Kolkata,Eden Gardens,14,Ashish Nehra,Kolkata Knight Riders,4,35,,,,,,Sunrisers Hyderabad,,1
+14,,,6,10.00,2,Kolkata,Eden Gardens,14,Bipul Sharma,Kolkata Knight Riders,2,20,21,,1,150.00,,Sunrisers Hyderabad,,0
+35,Bhuvneshwar Kumar,David Warner,,,3,Kolkata,Eden Gardens,14,Manish Pandey,Sunrisers Hyderabad,,,46,,2,131.42,,Kolkata Knight Riders,catch,
+2,Bhuvneshwar Kumar,,,,0,Kolkata,Eden Gardens,14,Colin de Grandhomme,Sunrisers Hyderabad,,,0,,0,0.00,,Kolkata Knight Riders,bold,
+15,,,4,2.00,1,Kolkata,Eden Gardens,14,Yusuf Pathan,Sunrisers Hyderabad,1,2,21,,1,140.00,,Kolkata Knight Riders,,1
+,,,7,7.25,,Kolkata,Eden Gardens,14,Rashid Khan,Kolkata Knight Riders,4,29,,,,,,Sunrisers Hyderabad,,1
+22,Yusuf Pathan,Colin de Grandhomme,,,4,Kolkata,Eden Gardens,14,Shikhar Dhawan,Kolkata Knight Riders,,,23,,0,104.54,,Sunrisers Hyderabad,catch,
+16,Rashid Khan,,,,2,Kolkata,Eden Gardens,14,Gautam Gambhir,Sunrisers Hyderabad,,,15,,0,93.75,,Kolkata Knight Riders,bold,
+39,Ben Cutting,Rashid Khan,,,5,Kolkata,Eden Gardens,14,Robin Uthappa,Sunrisers Hyderabad,,,68,,4,174.35,,Kolkata Knight Riders,catch,
+11,,,,,0,Kolkata,Eden Gardens,14,Naman Ojha,Kolkata Knight Riders,,,11,,0,100.00,,Sunrisers Hyderabad,,
+10,Trent Boult,Colin de Grandhomme,3,10.25,1,Kolkata,Eden Gardens,14,Ben Cutting,Kolkata Knight Riders,4,41,15,,1,150.00,,Sunrisers Hyderabad,catch,1
+3,Ashish Nehra,Naman Ojha,,,1,Kolkata,Eden Gardens,14,Suryakumar Yadav,Sunrisers Hyderabad,,,4,,0,133.33,,Kolkata Knight Riders,catch,
+,,,10,8.25,,Kolkata,Eden Gardens,14,Trent Boult,Sunrisers Hyderabad,4,33,,,,,,Kolkata Knight Riders,,1
+1,,,5,12.25,0,Kolkata,Eden Gardens,14,Chris Woakes,Sunrisers Hyderabad,4,49,1,,0,100.00,,Kolkata Knight Riders,,2
+30,Kuldeep Yadav,Chris Woakes,,,4,Kolkata,Eden Gardens,14,David Warner,Kolkata Knight Riders,,,26,,0,86.66,,Sunrisers Hyderabad,catch,
+,,,12,5.75,,Kolkata,Eden Gardens,14,Kuldeep Yadav,Sunrisers Hyderabad,4,23,,,,,,Kolkata Knight Riders,,1
+10,Chris Woakes,&,2,13.00,2,Kolkata,Eden Gardens,14,Moises Henriques,Kolkata Knight Riders,2,26,13,,0,130.00,,Sunrisers Hyderabad,catch,0
+,,,10,9.00,,Kolkata,Eden Gardens,14,Umesh Yadav,Sunrisers Hyderabad,3,27,,,,,,Kolkata Knight Riders,,0
+9,Bhuvneshwar Kumar,,10,4.50,1,Kolkata,Eden Gardens,14,Sunil Narine,Sunrisers Hyderabad,4,18,6,,0,66.66,,Kolkata Knight Riders,bold,1
+7,Sunil Narine,,,,1,Kolkata,Eden Gardens,14,Deepak Hooda,Kolkata Knight Riders,,,13,,1,185.71,Robin Uthappa,Sunrisers Hyderabad,stemping,
+,,,12,5.00,,Kolkata,Eden Gardens,14,Bhuvneshwar Kumar,Kolkata Knight Riders,4,20,,,,,,Sunrisers Hyderabad,,3
+16,Woakes,sub (Rishi Dhawan),,,2,Kolkata,Eden Gardens,14,Yuvraj Singh,Kolkata Knight Riders,,,26,,2,162.50,,Sunrisers Hyderabad,catch,
+,,,6,13.25,,Rajkot,Saurashtra Cricket Association Stadium,13,Imran Tahir,Gujarat Lions,4,53,,,,,,Rising Pune Supergiant,,1
+,,,7,7.00,,Rajkot,Saurashtra Cricket Association Stadium,13,Basil Thampi,Rising Pune Supergiant,3,21,,,,,,Gujarat Lions,,0
+19,,,,,3,Rajkot,Saurashtra Cricket Association Stadium,13,Aaron Finch,Rising Pune Supergiant,,,33,,2,173.68,,Gujarat Lions,,
+1,,,10,11.00,0,Rajkot,Saurashtra Cricket Association Stadium,13,Lockie Ferguson,Gujarat Lions,4,44,1,,0,100.00,,Rising Pune Supergiant,,0
+3,Praveen Kumar,Suresh Raina,,,0,Rajkot,Saurashtra Cricket Association Stadium,13,Ajinkya Rahane,Gujarat Lions,,,0,,0,0.00,,Rising Pune Supergiant,catch,
+22,,,0,9.00,4,Rajkot,Saurashtra Cricket Association Stadium,13,Suresh Raina,Rising Pune Supergiant,1,9,35,,1,159.09,,Gujarat Lions,,0
+1,Andrew Tye,,9,4.66,0,Rajkot,Saurashtra Cricket Association Stadium,13,Shardul Thakur,Gujarat Lions,3,14,0,,0,0.00,,Rising Pune Supergiant,bold,1
+5,Imran Tahir,,,,0,Rajkot,Saurashtra Cricket Association Stadium,13,Dinesh Karthik,Rising Pune Supergiant,,,3,,0,60.00,,Gujarat Lions,bold,
+27,Andrew Tye,Ishan Kishan,,,2,Rajkot,Saurashtra Cricket Association Stadium,13,Manoj Tiwary,Gujarat Lions,,,31,,1,114.81,,Rising Pune Supergiant,catch,
+30,Shardul Thakur,Rahul Chahar,6,5.00,8,Rajkot,Saurashtra Cricket Association Stadium,13,Dwayne Smith,Rising Pune Supergiant,2,10,47,,1,156.66,,Gujarat Lions,catch,1
+18,Andrew Tye,,8,6.00,2,Rajkot,Saurashtra Cricket Association Stadium,13,Ben Stokes,Gujarat Lions,3,18,25,,1,138.88,,Rising Pune Supergiant,bold,0
+,,,2,11.00,,Rajkot,Saurashtra Cricket Association Stadium,13,Shadab Jakati,Rising Pune Supergiant,2,22,,,,,,Gujarat Lions,,0
+28,Dwayne Smith,Aaron Finch,,,6,Rajkot,Saurashtra Cricket Association Stadium,13,Steve Smith,Gujarat Lions,,,43,,1,153.57,,Rising Pune Supergiant,catch,
+8,Ravindra Jadeja,,,,0,Rajkot,Saurashtra Cricket Association Stadium,13,MS Dhoni,Gujarat Lions,,,5,,0,62.50,,Rising Pune Supergiant,lbw,
+17,Andrew Tye,Aaron Finch,,,3,Rajkot,Saurashtra Cricket Association Stadium,13,Rahul Tripathi,Gujarat Lions,,,33,,2,194.11,,Rising Pune Supergiant,catch,
+,,,3,10.00,,Rajkot,Saurashtra Cricket Association Stadium,13,Ravindra Jadeja,Rising Pune Supergiant,4,40,,,,,,Gujarat Lions,,1
+15,Andrew Tye,Brendon McCullum,1,16.00,2,Rajkot,Saurashtra Cricket Association Stadium,13,Ankit Sharma,Gujarat Lions,1,16,25,,1,166.66,,Rising Pune Supergiant,catch,0
+,,,11,4.25,,Rajkot,Saurashtra Cricket Association Stadium,13,Andrew Tye,Rising Pune Supergiant,4,17,,,,,,Gujarat Lions,,5
+,,,9,12.75,,Rajkot,Saurashtra Cricket Association Stadium,13,Praveen Kumar,Rising Pune Supergiant,4,51,,,,,,Gujarat Lions,,1
+2,,,8,8.66,0,Rajkot,Saurashtra Cricket Association Stadium,13,Rahul Chahar,Gujarat Lions,3,26,3,,0,150.00,,Rising Pune Supergiant,,1
+32,Rahul Chahar,,,,5,Rajkot,Saurashtra Cricket Association Stadium,13,Brendon McCullum,Rising Pune Supergiant,,,49,,3,153.12,MS Dhoni,Gujarat Lions,stemping,
+,,,3,11.50,,Bengaluru,M. Chinnaswamy Stadium,12,Tim Southee,Royal Challengers Bangalore,2,23,,,,,,Mumbai Indians,,0
+13,,,2,14.00,0,Bengaluru,M. Chinnaswamy Stadium,12,Pawan Negi,Mumbai Indians,2,28,13,,0,100.00,,Royal Challengers Bangalore,,0
+,,,12,5.75,,Bengaluru,M. Chinnaswamy Stadium,12,Harbhajan Singh,Royal Challengers Bangalore,4,23,,,,,,Mumbai Indians,,0
+,,,10,5.25,,Bengaluru,M. Chinnaswamy Stadium,12,Sreenath Arvind,Mumbai Indians,4,21,,,,,,Royal Challengers Bangalore,,0
+5,Stuart Binny,Chris Gayle,,,0,Bengaluru,M. Chinnaswamy Stadium,12,Jos Buttler,Royal Challengers Bangalore,,,2,,0,40.00,,Mumbai Indians,catch,
+,,,17,2.25,,Bengaluru,M. Chinnaswamy Stadium,12,Samuel Badree,Mumbai Indians,4,9,,,,,,Royal Challengers Bangalore,,4
+4,,,3,7.00,0,Bengaluru,M. Chinnaswamy Stadium,12,Stuart Binny,Mumbai Indians,2,14,6,,0,150.00,,Royal Challengers Bangalore,,1
+1,Samuel Badree,Mandeep Singh,11,5.00,0,Bengaluru,M. Chinnaswamy Stadium,12,Mitchell McClenaghan,Royal Challengers Bangalore,4,20,0,,0,0.00,,Mumbai Indians,catch,2
+47,Mitchell McClenaghan,Jos Buttler,,,5,Bengaluru,M. Chinnaswamy Stadium,12,Virat Kohli,Mumbai Indians,,,62,,2,131.91,,Royal Challengers Bangalore,catch,
+4,,,3,4.50,0,Bengaluru,M. Chinnaswamy Stadium,12,Hardik Pandya,Royal Challengers Bangalore,2,9,9,,1,225.00,,Mumbai Indians,,1
+8,Samuel Badree,Chris Gayle,,,0,Bengaluru,M. Chinnaswamy Stadium,12,Parthiv Patel,Royal Challengers Bangalore,,,3,,0,37.50,,Mumbai Indians,catch,
+30,,,9,5.25,3,Bengaluru,M. Chinnaswamy Stadium,12,Krunal Pandya,Royal Challengers Bangalore,4,21,37,,1,123.33,,Mumbai Indians,,1
+1,Mitchell McClenaghan,,,,0,Bengaluru,M. Chinnaswamy Stadium,12,Mandeep Singh,Mumbai Indians,,,0,,0,0.00,,Royal Challengers Bangalore,bold,
+27,Hardik Pandya,Parthiv Patel,,,2,Bengaluru,M. Chinnaswamy Stadium,12,Chris Gayle,Mumbai Indians,,,22,,1,81.48,,Royal Challengers Bangalore,catch,
+,,,5,10.33,,Bengaluru,M. Chinnaswamy Stadium,12,Yuzvendra Chahal,Mumbai Indians,3,31,,,,,,Royal Challengers Bangalore,,1
+,,,8,9.39,,Bengaluru,M. Chinnaswamy Stadium,12,Tymal Mills,Mumbai Indians,3.5,36,,,,,,Royal Challengers Bangalore,,0
+47,Yuzvendra Chahal,AB de Villiers,,,3,Bengaluru,M. Chinnaswamy Stadium,12,Kieron Pollard,Royal Challengers Bangalore,,,70,,5,148.93,,Mumbai Indians,catch,
+21,Krunal Pandya,Rohit Sharma,,,0,Bengaluru,M. Chinnaswamy Stadium,12,AB de Villiers,Mumbai Indians,,,19,,1,90.47,,Royal Challengers Bangalore,catch,
+16,Samuel Badree,Sreenath Arvind,,,1,Bengaluru,M. Chinnaswamy Stadium,12,Nitish Rana,Royal Challengers Bangalore,,,11,,0,68.75,,Mumbai Indians,catch,
+8,,,,,0,Bengaluru,M. Chinnaswamy Stadium,12,Kedar Jadhav,Mumbai Indians,,,9,Jasprit Bumrah,0,112.50,,Royal Challengers Bangalore,runout,
+,,,6,9.75,,Bengaluru,M. Chinnaswamy Stadium,12,Jasprit Bumrah,Royal Challengers Bangalore,4,39,,,,,,Mumbai Indians,,0
+2,Samuel Badree,,,,0,Bengaluru,M. Chinnaswamy Stadium,12,Rohit Sharma,Royal Challengers Bangalore,,,0,,0,0.00,,Mumbai Indians,bold,
+12,Sunil Narine,,3,9.33,1,Kolkata,Eden Gardens,11,Marcus Stoinis,Kolkata Knight Riders,1.3,14,9,,0,75.00,,Kings XI Punjab,bold,0
+19,Piyush Chawla,,,,4,Kolkata,Eden Gardens,11,Manan Vohra,Kolkata Knight Riders,,,28,,1,147.36,,Kings XI Punjab,bold,
+,,,6,12.00,,Kolkata,Eden Gardens,11,Piyush Chawla,Kings XI Punjab,3,36,,,,,,Kolkata Knight Riders,,1
+5,Chris Woakes,Gautam Gambhir,4,11.50,0,Kolkata,Eden Gardens,11,Varun Aaron,Kolkata Knight Riders,2,23,4,,0,80.00,,Kings XI Punjab,catch,1
+,,,7,8.00,,Kolkata,Eden Gardens,11,Ishant Sharma,Kolkata Knight Riders,2,16,,,,,,Kings XI Punjab,,0
+,,,6,10.00,,Kolkata,Eden Gardens,11,Chris Woakes,Kings XI Punjab,3,30,,,,,,Kolkata Knight Riders,,2
+,,,10,9.00,,Kolkata,Eden Gardens,11,Trent Boult,Kings XI Punjab,4,36,,,,,,Kolkata Knight Riders,,0
+16,,,,,2,Kolkata,Eden Gardens,11,Manish Pandey,Kings XI Punjab,,,25,,1,156.25,,Kolkata Knight Riders,,
+16,Axar Patel,,,,3,Kolkata,Eden Gardens,11,Robin Uthappa,Kings XI Punjab,,,26,,1,162.50,,Kolkata Knight Riders,bold,
+,,,8,7.50,,Kolkata,Eden Gardens,11,Colin de Grandhomme,Kings XI Punjab,2,15,,,,,,Kolkata Knight Riders,,1
+0,,,8,9.33,0,Kolkata,Eden Gardens,11,Sandeep Sharma,Kolkata Knight Riders,3,28,0,,0,0.00,,Kings XI Punjab,,0
+,,,11,8.25,,Kolkata,Eden Gardens,11,Umesh Yadav,Kings XI Punjab,4,33,,,,,,Kolkata Knight Riders,,4
+17,Umesh Yadav,Chris Woakes,,,2,Kolkata,Eden Gardens,11,Wriddhiman Saha,Kolkata Knight Riders,,,25,,2,147.05,,Kings XI Punjab,catch,
+49,,,,,11,Kolkata,Eden Gardens,11,Gautam Gambhir,Kings XI Punjab,,,72,,0,146.93,,Kolkata Knight Riders,,
+18,Varun Aaron,Axar Patel,14,4.75,4,Kolkata,Eden Gardens,11,Sunil Narine,Kings XI Punjab,4,19,37,,3,205.55,,Kolkata Knight Riders,catch,1
+19,Umesh Yadav,Manish Pandey,,,2,Kolkata,Eden Gardens,11,David Miller,Kolkata Knight Riders,,,28,,2,147.36,,Kings XI Punjab,catch,
+14,Umesh Yadav,Robin Uthappa,0,18.00,3,Kolkata,Eden Gardens,11,Glenn Maxwell,Kolkata Knight Riders,1,18,25,,1,178.57,,Kings XI Punjab,catch,0
+1,Umesh Yadav,Sunil Narine,2,9.00,0,Kolkata,Eden Gardens,11,Axar Patel,Kolkata Knight Riders,4,36,0,,0,0.00,,Kings XI Punjab,catch,1
+8,Chris Woakes,Suryakumar Yadav,3,10.00,1,Kolkata,Eden Gardens,11,Mohit Sharma,Kolkata Knight Riders,3,30,10,,0,125.00,,Kings XI Punjab,catch,0
+27,Colin de Grandhomme,Gautam Gambhir,,,4,Kolkata,Eden Gardens,11,Hashim Amla,Kolkata Knight Riders,,,25,,0,92.59,,Kings XI Punjab,catch,
+0,,,7,11.50,0,Mumbai,Wankhede Stadium,10,Ashish Nehra,Mumbai Indians,4,46,0,,0,0.00,,Sunrisers Hyderabad,,1
+4,Jasprit Bumrah,,12,4.75,0,Mumbai,Wankhede Stadium,10,Rashid Khan,Mumbai Indians,4,19,2,,0,50.00,,Sunrisers Hyderabad,bold,1
+3,,,15,5.75,0,Mumbai,Wankhede Stadium,10,Harbhajan Singh,Sunrisers Hyderabad,4,23,3,,0,100.00,,Mumbai Indians,,2
+11,Ashish Nehra,,,,3,Mumbai,Wankhede Stadium,10,Jos Buttler,Sunrisers Hyderabad,,,14,,0,127.27,,Mumbai Indians,bold,
+43,Mitchell McClenaghan,,,,5,Mumbai,Wankhede Stadium,10,Shikhar Dhawan,Mumbai Indians,,,48,,1,111.62,,Sunrisers Hyderabad,bold,
+,,,7,10.50,,Mumbai,Wankhede Stadium,10,Mitchell McClenaghan,Sunrisers Hyderabad,4,42,,,,,,Mumbai Indians,,1
+3,,,10,7.33,0,Mumbai,Wankhede Stadium,10,Hardik Pandya,Sunrisers Hyderabad,3,22,2,,0,66.66,,Mumbai Indians,,1
+9,Jasprit Bumrah,Kieron Pollard,,,0,Mumbai,Wankhede Stadium,10,Naman Ojha,Mumbai Indians,,,9,,0,100.00,,Sunrisers Hyderabad,catch,
+10,Jasprit Bumrah,,5,9.00,4,Mumbai,Wankhede Stadium,10,Ben Cutting,Mumbai Indians,2,18,20,,0,200.00,,Sunrisers Hyderabad,bold,0
+20,Bhuvneshwar Kumar,Ben Cutting,0,12.00,3,Mumbai,Wankhede Stadium,10,Krunal Pandya,Sunrisers Hyderabad,1,12,37,,3,185.00,,Mumbai Indians,catch,0
+2,Lasith Malinga,Nitish Rana,,,0,Mumbai,Wankhede Stadium,10,Vijay Shankar,Mumbai Indians,,,1,,0,50.00,,Sunrisers Hyderabad,catch,
+11,Bhuvneshwar Kumar,Shikhar Dhawan,,,0,Mumbai,Wankhede Stadium,10,Kieron Pollard,Sunrisers Hyderabad,,,11,,1,100.00,,Mumbai Indians,catch,
+34,Harbhajan Singh,Parthiv Patel,,,7,Mumbai,Wankhede Stadium,10,David Warner,Mumbai Indians,,,49,,2,144.11,,Sunrisers Hyderabad,catch,
+,,,3,12.75,,Mumbai,Wankhede Stadium,10,Mustafizur Rahman,Mumbai Indians,2.4,34,,,,,,Sunrisers Hyderabad,,0
+36,Bhuvneshwar Kumar,,,,3,Mumbai,Wankhede Stadium,10,Nitish Rana,Sunrisers Hyderabad,,,45,,2,125.00,,Mumbai Indians,bold,
+24,Deepak Hooda,Bhuvneshwar Kumar,,,7,Mumbai,Wankhede Stadium,10,Parthiv Patel,Sunrisers Hyderabad,,,39,,0,162.50,,Mumbai Indians,catch,
+,,,9,7.50,,Mumbai,Wankhede Stadium,10,Lasith Malinga,Sunrisers Hyderabad,4,30,,,,,,Mumbai Indians,,1
+9,Harbhajan Singh,Kieron Pollard,2,9.00,1,Mumbai,Wankhede Stadium,10,Deepak Hooda,Mumbai Indians,2,18,9,,0,100.00,,Sunrisers Hyderabad,catch,1
+,,,9,6.00,,Mumbai,Wankhede Stadium,10,Jasprit Bumrah,Sunrisers Hyderabad,4,24,,,,,,Mumbai Indians,,3
+3,,,13,5.25,0,Mumbai,Wankhede Stadium,10,Bhuvneshwar Kumar,Mumbai Indians,4,21,4,,0,133.33,,Sunrisers Hyderabad,,3
+7,Hardik Pandya,,,,1,Mumbai,Wankhede Stadium,10,Yuvraj Singh,Mumbai Indians,,,5,,0,71.42,,Sunrisers Hyderabad,bold,
+4,Rashid Khan,,,,0,Mumbai,Wankhede Stadium,10,Rohit Sharma,Sunrisers Hyderabad,,,4,,0,100.00,,Mumbai Indians,lbw,
+2,,,8,6.00,0,Pune,Maharashtra Cricket Association's International Stadium,9,Imran Tahir,Delhi Daredevils,4,24,0,,0,0.00,,Rising Pune Supergiant,,1
+,,,10,5.75,,Pune,Maharashtra Cricket Association's International Stadium,9,Shahbaz Nadeem,Rising Pune Supergiant,4,23,,,,,,Delhi Daredevils,,1
+5,Chris Morris,Shahbaz Nadeem,,,2,Pune,Maharashtra Cricket Association's International Stadium,9,Rahul Tripathi,Delhi Daredevils,,,10,,0,200.00,,Rising Pune Supergiant,catch,
+9,Zaheer Khan,Sanju Samson,,,0,Pune,Maharashtra Cricket Association's International Stadium,9,Ajinkya Rahane,Delhi Daredevils,,,10,,0,111.11,,Rising Pune Supergiant,catch,
+7,Pat Cummins,Amit Mishra,7,12.00,1,Pune,Maharashtra Cricket Association's International Stadium,9,Ashok Dinda,Delhi Daredevils,3,36,7,,0,100.00,,Rising Pune Supergiant,catch,0
+7,Amit Mishra,Sanju Samson,8,11.25,1,Pune,Maharashtra Cricket Association's International Stadium,9,Adam Zampa,Delhi Daredevils,4,45,5,,0,71.42,,Rising Pune Supergiant,catch,1
+18,Zaheer Khan,Chris Morris,,,2,Pune,Maharashtra Cricket Association's International Stadium,9,Mayank Agarwal,Delhi Daredevils,,,20,,0,111.11,,Rising Pune Supergiant,catch,
+17,Imran Tahir,,,,4,Pune,Maharashtra Cricket Association's International Stadium,9,Sam Billings,Rising Pune Supergiant,,,24,,0,141.17,,Delhi Daredevils,bold,
+5,Pat Cummins,Rishabh Pant,7,10.25,0,Pune,Maharashtra Cricket Association's International Stadium,9,Ben Stokes,Delhi Daredevils,4,41,2,,0,40.00,,Rising Pune Supergiant,catch,0
+4,,,2,10.00,0,Pune,Maharashtra Cricket Association's International Stadium,9,Corey Anderson,Rising Pune Supergiant,1,10,2,,0,50.00,,Delhi Daredevils,,0
+14,Amit Mishra,Karun Nair,,,0,Pune,Maharashtra Cricket Association's International Stadium,9,MS Dhoni,Delhi Daredevils,,,11,,1,78.57,,Rising Pune Supergiant,catch,
+7,Shahbaz Nadeem,Rishabh Pant,,,1,Pune,Maharashtra Cricket Association's International Stadium,9,Faf du Plessis,Delhi Daredevils,,,8,,0,114.28,,Rising Pune Supergiant,catch,
+22,,,,,1,Pune,Maharashtra Cricket Association's International Stadium,9,Rishabh Pant,Rising Pune Supergiant,,,31,Mayank Agarwal,2,140.90,,Delhi Daredevils,runout,
+,,,10,3.66,,Pune,Maharashtra Cricket Association's International Stadium,9,Amit Mishra,Rising Pune Supergiant,3,11,,,,,,Delhi Daredevils,,3
+6,Zaheer Khan,Rishabh Pant,4,11.66,0,Pune,Maharashtra Cricket Association's International Stadium,9,Deepak Chahar,Delhi Daredevils,3,35,14,,2,233.33,,Rising Pune Supergiant,catch,1
+,,,7,7.57,,Pune,Maharashtra Cricket Association's International Stadium,9,Pat Cummins,Rising Pune Supergiant,3.1,24,,,,,,Delhi Daredevils,,2
+5,Deepak Chahar,MS Dhoni,,,0,Pune,Maharashtra Cricket Association's International Stadium,9,Aditya Tare,Rising Pune Supergiant,,,0,,0,0.00,,Delhi Daredevils,catch,
+63,Adam Zampa,,,,8,Pune,Maharashtra Cricket Association's International Stadium,9,Sanju Samson,Rising Pune Supergiant,,,102,,5,161.90,,Delhi Daredevils,bold,
+9,,,5,9.50,4,Pune,Maharashtra Cricket Association's International Stadium,9,Chris Morris,Rising Pune Supergiant,2,19,38,,3,422.22,,Delhi Daredevils,,1
+,,,8,6.66,,Pune,Maharashtra Cricket Association's International Stadium,9,Zaheer Khan,Rising Pune Supergiant,3,20,,,,,,Delhi Daredevils,,3
+17,Amit Mishra,Chris Morris,1,10.50,0,Pune,Maharashtra Cricket Association's International Stadium,9,Rajat Bhatia,Delhi Daredevils,2,21,16,,1,94.11,,Rising Pune Supergiant,catch,0
+,,,2,9.33,,Indore,Holkar Cricket Stadium,8,Marcus Stoinis,Royal Challengers Bangalore,3,28,,,,,,Kings XI Punjab,,0
+,,,8,8.28,,Indore,Holkar Cricket Stadium,8,Yuzvendra Chahal,Kings XI Punjab,3.3,29,,,,,,Royal Challengers Bangalore,,1
+21,Tymal Mills,,,,4,Indore,Holkar Cricket Stadium,8,Manan Vohra,Royal Challengers Bangalore,,,34,,1,161.90,,Kings XI Punjab,lbw,
+,,,3,9.50,,Indore,Holkar Cricket Stadium,8,Iqbal Abdulla,Kings XI Punjab,2,19,,,,,,Royal Challengers Bangalore,,0
+,,,6,11.00,,Indore,Holkar Cricket Stadium,8,Tymal Mills,Kings XI Punjab,2,22,,,,,,Royal Challengers Bangalore,,1
+38,,,,,4,Indore,Holkar Cricket Stadium,8,Hashim Amla,Royal Challengers Bangalore,,,58,,3,152.63,,Kings XI Punjab,,
+20,,,,,1,Indore,Holkar Cricket Stadium,8,Stuart Binny,Kings XI Punjab,,,18,,1,90.00,,Royal Challengers Bangalore,,
+,,,12,5.25,,Indore,Holkar Cricket Stadium,8,Varun Aaron,Royal Challengers Bangalore,4,21,,,,,,Kings XI Punjab,,2
+22,,,,,3,Indore,Holkar Cricket Stadium,8,Glenn Maxwell,Royal Challengers Bangalore,,,43,,4,195.45,,Kings XI Punjab,,
+,,,10,11.75,,Indore,Holkar Cricket Stadium,8,Mohit Sharma,Royal Challengers Bangalore,4,47,,,,,,Kings XI Punjab,,0
+12,Sandeep Sharma,Glenn Maxwell,,,1,Indore,Holkar Cricket Stadium,8,Vishnu Vinod,Kings XI Punjab,,,7,,0,58.33,,Royal Challengers Bangalore,catch,
+,,,15,6.50,,Indore,Holkar Cricket Stadium,8,Sandeep Sharma,Royal Challengers Bangalore,4,26,,,,,,Kings XI Punjab,,1
+,,,2,7.00,,Indore,Holkar Cricket Stadium,8,Pawan Negi,Kings XI Punjab,1,7,,,,,,Royal Challengers Bangalore,,0
+,,,2,13.00,,Indore,Holkar Cricket Stadium,8,T Natarajan,Royal Challengers Bangalore,1,13,,,,,,Kings XI Punjab,,0
+6,Yuzvendra Chahal,,13,3.00,0,Indore,Holkar Cricket Stadium,8,Axar Patel,Royal Challengers Bangalore,4,12,9,,1,150.00,,Kings XI Punjab,bold,1
+46,,,,,3,Indore,Holkar Cricket Stadium,8,AB de Villiers,Kings XI Punjab,,,89,,9,193.47,,Royal Challengers Bangalore,,
+34,Varun Aaron,Wriddhiman Saha,,,1,Indore,Holkar Cricket Stadium,8,Mandeep Singh,Kings XI Punjab,,,28,,1,82.35,,Royal Challengers Bangalore,catch,
+4,Axar Patel,,1,14.00,0,Indore,Holkar Cricket Stadium,8,Shane Watson,Kings XI Punjab,2,28,1,,0,25.00,,Royal Challengers Bangalore,bold,0
+4,Varun Aaron,,,,0,Indore,Holkar Cricket Stadium,8,Kedar Jadhav,Kings XI Punjab,,,1,,0,25.00,,Royal Challengers Bangalore,lbw,
+,,,5,10.25,,Indore,Holkar Cricket Stadium,8,Billy Stanlake,Kings XI Punjab,4,41,,,,,,Royal Challengers Bangalore,,0
+11,Krunal Pandya,Hardik Pandya,,,0,Mumbai,Wankhede Stadium,7,Yusuf Pathan,Mumbai Indians,,,6,,0,54.54,,Kolkata Knight Riders,catch,
+1,,,7,6.75,0,Mumbai,Wankhede Stadium,7,Harbhajan Singh,Kolkata Knight Riders,4,27,1,,0,100.00,,Mumbai Indians,,0
+22,Ankit Rajpoot,,,,1,Mumbai,Wankhede Stadium,7,Jos Buttler,Kolkata Knight Riders,,,28,,2,127.27,,Mumbai Indians,lbw,
+,,,9,12.75,,Mumbai,Wankhede Stadium,7,Mitchell McClenaghan,Kolkata Knight Riders,4,51,,,,,,Mumbai Indians,,1
+8,Lasith Malinga,Kieron Pollard,9,8.50,0,Mumbai,Wankhede Stadium,7,Chris Woakes,Mumbai Indians,4,34,9,,0,112.50,,Kolkata Knight Riders,catch,1
+11,,,,,3,Mumbai,Wankhede Stadium,7,Hardik Pandya,Kolkata Knight Riders,,,29,,2,263.63,,Mumbai Indians,,
+3,Krunal Pandya,Hardik Pandya,,,1,Mumbai,Wankhede Stadium,7,Robin Uthappa,Mumbai Indians,,,4,,0,133.33,,Kolkata Knight Riders,catch,
+47,,,,,5,Mumbai,Wankhede Stadium,7,Manish Pandey,Mumbai Indians,,,81,,5,172.34,,Kolkata Knight Riders,,
+15,Lasith Malinga,Kieron Pollard,,,2,Mumbai,Wankhede Stadium,7,Suryakumar Yadav,Mumbai Indians,,,17,,0,113.33,,Kolkata Knight Riders,catch,
+13,Krunal Pandya,Mitchell McClenaghan,,,3,Mumbai,Wankhede Stadium,7,Gautam Gambhir,Mumbai Indians,,,19,,0,146.15,,Kolkata Knight Riders,catch,
+6,Ankit Rajpoot,Robin Uthappa,8,6.00,2,Mumbai,Wankhede Stadium,7,Krunal Pandya,Kolkata Knight Riders,4,24,11,,0,183.33,,Mumbai Indians,catch,3
+17,Chris Woakes,sub (Rishi Dhawan),,,1,Mumbai,Wankhede Stadium,7,Kieron Pollard,Kolkata Knight Riders,,,17,,1,100.00,,Mumbai Indians,catch,
+,,,8,12.26,,Mumbai,Wankhede Stadium,7,Trent Boult,Mumbai Indians,3.5,47,,,,,,Kolkata Knight Riders,,0
+2,Mitchell McClenaghan,,12,5.50,0,Mumbai,Wankhede Stadium,7,Sunil Narine,Mumbai Indians,4,22,1,,0,50.00,,Kolkata Knight Riders,lbw,1
+29,Ankit Rajpoot,Sunil Narine,,,5,Mumbai,Wankhede Stadium,7,Nitish Rana,Kolkata Knight Riders,,,50,,3,172.41,,Mumbai Indians,catch,
+27,Kuldeep Yadav,,,,3,Mumbai,Wankhede Stadium,7,Parthiv Patel,Kolkata Knight Riders,,,30,,1,111.11,,Mumbai Indians,lbw,
+,,,5,9.00,,Mumbai,Wankhede Stadium,7,Lasith Malinga,Kolkata Knight Riders,4,36,,,,,,Mumbai Indians,,2
+,,,7,9.75,,Mumbai,Wankhede Stadium,7,Jasprit Bumrah,Kolkata Knight Riders,4,39,,,,,,Mumbai Indians,,1
+,,,13,9.25,,Mumbai,Wankhede Stadium,7,Ankit Rajpoot,Mumbai Indians,4,37,,,,,,Kolkata Knight Riders,,3
+,,,9,8.75,,Mumbai,Wankhede Stadium,7,Kuldeep Yadav,Mumbai Indians,4,35,,,,,,Kolkata Knight Riders,,1
+6,Sunil Narine,,,,0,Mumbai,Wankhede Stadium,7,Rohit Sharma,Kolkata Knight Riders,,,2,,0,33.33,,Mumbai Indians,lbw,
+24,Jasprit Bumrah,,,,3,Mumbai,Wankhede Stadium,7,Chris Lynn,Mumbai Indians,,,32,,1,133.33,,Kolkata Knight Riders,lbw,
+9,Praveen Kumar,Brendon McCullum,,,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,6,Shikhar Dhawan,Gujarat Lions,,,9,,1,100.00,,Sunrisers Hyderabad,catch,
+5,Rashid Khan,,,,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,6,Aaron Finch,Sunrisers Hyderabad,,,3,,0,60.00,,Gujarat Lions,lbw,
+27,Bhuvneshwar Kumar,sub (Vijay Shankar),,,4,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,6,Dwayne Smith,Sunrisers Hyderabad,,,37,,1,137.03,,Gujarat Lions,catch,
+,,,7,6.00,,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,6,Bipul Sharma,Gujarat Lions,4,24,,,,,,Sunrisers Hyderabad,,0
+8,Rashid Khan,,4,12.00,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,6,Suresh Raina,Sunrisers Hyderabad,2,24,5,,0,62.50,,Gujarat Lions,lbw,0
+,,,11,4.75,,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,6,Rashid Khan,Gujarat Lions,4,19,,,,,,Sunrisers Hyderabad,,3
+32,Ashish Nehra,Naman Ojha,,,2,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,6,Dinesh Karthik,Sunrisers Hyderabad,,,30,,0,93.75,,Gujarat Lions,catch,
+39,,,0,12.00,6,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,6,Moises Henriques,Gujarat Lions,1,12,52,,0,133.33,,Sunrisers Hyderabad,,0
+21,Bhuvneshwar Kumar,Shikhar Dhawan,,,5,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,6,Jason Roy,Sunrisers Hyderabad,,,31,,0,147.61,,Gujarat Lions,catch,
+2,,,2,8.50,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,6,Dhawal Kulkarni,Sunrisers Hyderabad,2,17,1,Rashid Khan,0,50.00,,Gujarat Lions,runout,0
+,,,2,9.66,,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,6,Ben Cutting,Gujarat Lions,3,29,,,,,,Sunrisers Hyderabad,,0
+,,,9,6.75,,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,6,Ashish Nehra,Gujarat Lions,4,27,,,,,,Sunrisers Hyderabad,,1
+8,,,3,10.50,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,6,Basil Thampi,Sunrisers Hyderabad,2,21,13,,1,162.50,,Gujarat Lions,,0
+45,,,,,6,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,6,David Warner,Gujarat Lions,,,76,,4,168.88,,Sunrisers Hyderabad,,
+,,,7,7.25,,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,6,Shivil Kaushik,Sunrisers Hyderabad,4,29,,,,,,Gujarat Lions,,0
+,,,6,9.42,,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,6,Tejas Baroka,Sunrisers Hyderabad,3.3,33,,,,,,Gujarat Lions,,0
+7,,,5,8.00,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,6,Praveen Kumar,Sunrisers Hyderabad,2,16,7,,0,100.00,,Gujarat Lions,,1
+,,,10,5.25,,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,6,Bhuvneshwar Kumar,Gujarat Lions,4,21,,,,,,Sunrisers Hyderabad,,2
+10,Rashid Khan,,,,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,6,Brendon McCullum,Sunrisers Hyderabad,,,5,,0,50.00,,Gujarat Lions,lbw,
+8,Chris Morris,,3,3.00,0,Bengaluru,M. Chinnaswamy Stadium,5,Pawan Negi,Delhi Daredevils,1,3,10,,1,125.00,,Royal Challengers Bangalore,bold,2
+36,Pawan Negi,,,,3,Bengaluru,M. Chinnaswamy Stadium,5,Rishabh Pant,Royal Challengers Bangalore,,,57,,4,158.33,,Delhi Daredevils,bold,
+,,,12,7.25,,Bengaluru,M. Chinnaswamy Stadium,5,Billy Stanlake,Delhi Daredevils,4,29,,,,,,Royal Challengers Bangalore,,2
+18,Zaheer Khan,Sam Billings,,,1,Bengaluru,M. Chinnaswamy Stadium,5,Stuart Binny,Delhi Daredevils,,,16,,0,88.88,,Royal Challengers Bangalore,catch,
+2,Pawan Negi,&,12,3.25,0,Bengaluru,M. Chinnaswamy Stadium,5,Shahbaz Nadeem,Royal Challengers Bangalore,4,13,0,,0,0.00,,Delhi Daredevils,catch,1
+5,Yuzvendra Chahal,,1,14.50,0,Bengaluru,M. Chinnaswamy Stadium,5,Carlos Brathwaite,Royal Challengers Bangalore,2,29,1,,0,20.00,,Delhi Daredevils,bold,0
+19,Iqbal Abdulla,Billy Stanlake,,,1,Bengaluru,M. Chinnaswamy Stadium,5,Sam Billings,Royal Challengers Bangalore,,,25,,1,131.57,,Delhi Daredevils,catch,
+10,Pat Cummins,,,,3,Bengaluru,M. Chinnaswamy Stadium,5,Mandeep Singh,Delhi Daredevils,,,12,,0,120.00,,Royal Challengers Bangalore,bold,
+8,Chris Morris,Sanju Samson,,,1,Bengaluru,M. Chinnaswamy Stadium,5,Chris Gayle,Delhi Daredevils,,,6,,0,75.00,,Royal Challengers Bangalore,catch,
+,,,11,4.75,,Bengaluru,M. Chinnaswamy Stadium,5,Yuzvendra Chahal,Delhi Daredevils,4,19,,,,,,Royal Challengers Bangalore,,1
+3,Chris Morris,,7,8.25,0,Bengaluru,M. Chinnaswamy Stadium,5,Tymal Mills,Delhi Daredevils,4,33,0,,0,0.00,,Royal Challengers Bangalore,bold,1
+7,,,3,12.00,0,Bengaluru,M. Chinnaswamy Stadium,5,Iqbal Abdulla,Delhi Daredevils,3,36,5,,0,71.42,,Royal Challengers Bangalore,,2
+6,Shane Watson,,10,7.25,1,Bengaluru,M. Chinnaswamy Stadium,5,Pat Cummins,Royal Challengers Bangalore,4,29,6,,0,100.00,,Delhi Daredevils,bold,1
+17,Tymal Mills,,,,3,Bengaluru,M. Chinnaswamy Stadium,5,Aditya Tare,Royal Challengers Bangalore,,,18,,0,105.88,,Delhi Daredevils,bold,
+5,Iqbal Abdulla,,17,5.25,0,Bengaluru,M. Chinnaswamy Stadium,5,Chris Morris,Royal Challengers Bangalore,4,21,4,,0,80.00,,Delhi Daredevils,lbw,3
+37,Zaheer Khan,Chris Morris,,,5,Bengaluru,M. Chinnaswamy Stadium,5,Kedar Jadhav,Delhi Daredevils,,,69,,5,186.48,,Royal Challengers Bangalore,catch,
+3,Billy Stanlake,,,,1,Bengaluru,M. Chinnaswamy Stadium,5,Karun Nair,Royal Challengers Bangalore,,,4,,0,133.33,,Delhi Daredevils,bold,
+5,,,,,0,Bengaluru,M. Chinnaswamy Stadium,5,Vishnu Vinod,Delhi Daredevils,,,9,Shahbaz Nadeem,1,180.00,,Royal Challengers Bangalore,runout,
+14,,,3,16.00,0,Bengaluru,M. Chinnaswamy Stadium,5,Amit Mishra,Royal Challengers Bangalore,2,32,8,,0,57.14,,Delhi Daredevils,,0
+12,Billy Stanlake,Stuart Binny,,,1,Bengaluru,M. Chinnaswamy Stadium,5,Sanju Samson,Royal Challengers Bangalore,,,13,,0,108.33,,Delhi Daredevils,catch,
+1,,,9,7.75,0,Bengaluru,M. Chinnaswamy Stadium,5,Zaheer Khan,Royal Challengers Bangalore,4,31,1,,0,100.00,,Delhi Daredevils,,2
+24,Shahbaz Nadeem,,12,5.25,4,Bengaluru,M. Chinnaswamy Stadium,5,Shane Watson,Delhi Daredevils,4,21,24,,0,100.00,Rishabh Pant,Royal Challengers Bangalore,stemping,1
+,,,5,9.33,,Indore,Holkar Cricket Stadium,4,Marcus Stoinis,Rising Pune Supergiant,3,28,,,,,,Kings XI Punjab,,1
+27,Marcus Stoinis,Manan Vohra,,,3,Indore,Holkar Cricket Stadium,4,Steve Smith,Kings XI Punjab,,,26,,0,96.29,,Rising Pune Supergiant,catch,
+4,Sandeep Sharma,,,,0,Indore,Holkar Cricket Stadium,4,Mayank Agarwal,Kings XI Punjab,,,0,,0,0.00,,Rising Pune Supergiant,bold,
+,,,8,8.25,,Indore,Holkar Cricket Stadium,4,Sandeep Sharma,Rising Pune Supergiant,4,33,,,,,,Kings XI Punjab,,2
+23,,,,,3,Indore,Holkar Cricket Stadium,4,Manoj Tiwary,Kings XI Punjab,,,40,,2,173.91,,Rising Pune Supergiant,,
+9,Imran Tahir,,,,3,Indore,Holkar Cricket Stadium,4,Wriddhiman Saha,Rising Pune Supergiant,,,14,,0,155.55,,Kings XI Punjab,bold,
+11,,,,,0,Indore,Holkar Cricket Stadium,4,MS Dhoni,Kings XI Punjab,,,5,,0,45.45,,Rising Pune Supergiant,,
+0,,,3,10.00,0,Indore,Holkar Cricket Stadium,4,Rajat Bhatia,Kings XI Punjab,2,20,0,,0,0.00,,Rising Pune Supergiant,,0
+,,,7,8.66,,Indore,Holkar Cricket Stadium,4,Ashok Dinda,Kings XI Punjab,3,26,,,,,,Rising Pune Supergiant,,1
+32,Axar Patel,,10,8.00,2,Indore,Holkar Cricket Stadium,4,Ben Stokes,Kings XI Punjab,4,32,50,,3,156.25,,Rising Pune Supergiant,bold,0
+22,Imran Tahir,,7,6.75,1,Indore,Holkar Cricket Stadium,4,Axar Patel,Rising Pune Supergiant,4,27,24,,1,109.09,,Kings XI Punjab,bold,1
+,,,9,8.00,,Indore,Holkar Cricket Stadium,4,Rahul Chahar,Kings XI Punjab,4,32,,,,,,Rising Pune Supergiant,,1
+,,,8,7.25,,Indore,Holkar Cricket Stadium,4,Imran Tahir,Kings XI Punjab,4,29,,,,,,Rising Pune Supergiant,,2
+20,,,,,2,Indore,Holkar Cricket Stadium,4,Glenn Maxwell,Rising Pune Supergiant,,,44,,4,220.00,,Kings XI Punjab,,
+27,,,,,1,Indore,Holkar Cricket Stadium,4,David Miller,Rising Pune Supergiant,,,30,,2,111.11,,Kings XI Punjab,,
+8,Sandeep Sharma,Glenn Maxwell,4,12.00,2,Indore,Holkar Cricket Stadium,4,Dan Christian,Kings XI Punjab,2,24,17,,1,212.50,,Rising Pune Supergiant,catch,0
+9,Ashok Dinda,Manoj Tiwary,,,1,Indore,Holkar Cricket Stadium,4,Manan Vohra,Rising Pune Supergiant,,,14,,1,155.55,,Kings XI Punjab,catch,
+15,T Natarajan,Marcus Stoinis,,,1,Indore,Holkar Cricket Stadium,4,Ajinkya Rahane,Kings XI Punjab,,,19,,1,126.66,,Rising Pune Supergiant,catch,
+27,Rahul Chahar,Ben Stokes,,,2,Indore,Holkar Cricket Stadium,4,Hashim Amla,Rising Pune Supergiant,,,28,,1,103.70,,Kings XI Punjab,catch,
+,,,3,7.00,,Indore,Holkar Cricket Stadium,4,Swapnil Singh,Rising Pune Supergiant,2,14,,,,,,Kings XI Punjab,,1
+,,,4,8.66,,Indore,Holkar Cricket Stadium,4,T Natarajan,Rising Pune Supergiant,3,26,,,,,,Kings XI Punjab,,1
+,,,6,8.50,,Indore,Holkar Cricket Stadium,4,Mohit Sharma,Rising Pune Supergiant,4,34,,,,,,Kings XI Punjab,,0
+,,,2,10.00,,Rajkot,Saurashtra Cricket Association Stadium,3,Shadab Jakati,Kolkata Knight Riders,3,30,,,,,,Gujarat Lions,,0
+0,,,1,23.00,0,Rajkot,Saurashtra Cricket Association Stadium,3,Dwayne Smith,Kolkata Knight Riders,1,23,0,,0,0.00,,Gujarat Lions,,0
+51,,,,,7,Rajkot,Saurashtra Cricket Association Stadium,3,Suresh Raina,Kolkata Knight Riders,,,68,,0,133.33,,Gujarat Lions,,
+25,Trent Boult,Suryakumar Yadav,,,6,Rajkot,Saurashtra Cricket Association Stadium,3,Dinesh Karthik,Kolkata Knight Riders,,,47,,2,188.00,,Gujarat Lions,catch,
+,,,4,16.00,,Rajkot,Saurashtra Cricket Association Stadium,3,Manpreet Gony,Kolkata Knight Riders,2,32,,,,,,Gujarat Lions,,0
+,,,2,6.50,,Rajkot,Saurashtra Cricket Association Stadium,3,Praveen Kumar,Kolkata Knight Riders,2,13,,,,,,Gujarat Lions,,0
+12,Piyush Chawla,Yusuf Pathan,,,3,Rajkot,Saurashtra Cricket Association Stadium,3,Jason Roy,Kolkata Knight Riders,,,14,,0,116.66,,Gujarat Lions,catch,
+,,,3,14.82,,Rajkot,Saurashtra Cricket Association Stadium,3,Dhawal Kulkarni,Kolkata Knight Riders,2.5,42,,,,,,Gujarat Lions,,0
+,,,5,11.66,,Rajkot,Saurashtra Cricket Association Stadium,3,Chris Woakes,Gujarat Lions,3,35,,,,,,Kolkata Knight Riders,,0
+8,Kuldeep Yadav,Suryakumar Yadav,,,0,Rajkot,Saurashtra Cricket Association Stadium,3,Aaron Finch,Kolkata Knight Riders,,,15,,2,187.50,,Gujarat Lions,catch,
+,,,1,15.00,,Rajkot,Saurashtra Cricket Association Stadium,3,Yusuf Pathan,Gujarat Lions,1,15,,,,,,Kolkata Knight Riders,,0
+,,,9,10.00,,Rajkot,Saurashtra Cricket Association Stadium,3,Trent Boult,Gujarat Lions,4,40,,,,,,Kolkata Knight Riders,,1
+48,,,,,12,Rajkot,Saurashtra Cricket Association Stadium,3,Gautam Gambhir,Gujarat Lions,,,76,,0,158.33,,Kolkata Knight Riders,,
+,,,7,8.25,,Rajkot,Saurashtra Cricket Association Stadium,3,Sunil Narine,Gujarat Lions,4,33,,,,,,Kolkata Knight Riders,,0
+,,,8,6.25,,Rajkot,Saurashtra Cricket Association Stadium,3,Kuldeep Yadav,Gujarat Lions,4,25,,,,,,Kolkata Knight Riders,,2
+,,,10,10.00,,Rajkot,Saurashtra Cricket Association Stadium,3,Shivil Kaushik,Kolkata Knight Riders,4,40,,,,,,Gujarat Lions,,0
+,,,7,8.25,,Rajkot,Saurashtra Cricket Association Stadium,3,Piyush Chawla,Gujarat Lions,4,33,,,,,,Kolkata Knight Riders,,1
+41,,,,,6,Rajkot,Saurashtra Cricket Association Stadium,3,Chris Lynn,Gujarat Lions,,,93,,8,226.82,,Kolkata Knight Riders,,
+24,Kuldeep Yadav,,,,4,Rajkot,Saurashtra Cricket Association Stadium,3,Brendon McCullum,Kolkata Knight Riders,,,35,,2,145.83,,Gujarat Lions,lbw,
+,,,8,7.00,,Pune,Maharashtra Cricket Association's International Stadium,2,Imran Tahir,Mumbai Indians,4,28,,,,,,Rising Pune Supergiant,,3
+17,Ben Stokes,Mayank Agarwal,0,16.36,3,Pune,Maharashtra Cricket Association's International Stadium,2,Kieron Pollard,Rising Pune Supergiant,1.5,30,27,,1,158.82,,Mumbai Indians,catch,0
+54,,,,,7,Pune,Maharashtra Cricket Association's International Stadium,2,Steve Smith,Mumbai Indians,,,84,,3,155.55,,Rising Pune Supergiant,,
+34,Tim Southee,Nitish Rana,,,6,Pune,Maharashtra Cricket Association's International Stadium,2,Ajinkya Rahane,Mumbai Indians,,,60,,3,176.47,,Rising Pune Supergiant,catch,
+0,,,9,9.00,0,Pune,Maharashtra Cricket Association's International Stadium,2,Mitchell McClenaghan,Rising Pune Supergiant,4,36,0,,0,0.00,,Mumbai Indians,,1
+,,,5,8.66,,Pune,Maharashtra Cricket Association's International Stadium,2,Adam Zampa,Mumbai Indians,3,26,,,,,,Rising Pune Supergiant,,1
+5,Mitchell McClenaghan,Rohit Sharma,,,1,Pune,Maharashtra Cricket Association's International Stadium,2,Mayank Agarwal,Mumbai Indians,,,6,,0,120.00,,Rising Pune Supergiant,catch,
+15,,,5,9.00,1,Pune,Maharashtra Cricket Association's International Stadium,2,Hardik Pandya,Rising Pune Supergiant,4,36,35,,4,233.33,,Mumbai Indians,,1
+,,,6,7.25,,Pune,Maharashtra Cricket Association's International Stadium,2,Jasprit Bumrah,Rising Pune Supergiant,4,29,,,,,,Mumbai Indians,,0
+14,Hardik Pandya,Tim Southee,10,9.00,3,Pune,Maharashtra Cricket Association's International Stadium,2,Ben Stokes,Mumbai Indians,4,36,21,,0,150.00,,Rising Pune Supergiant,catch,1
+,,,9,14.25,,Pune,Maharashtra Cricket Association's International Stadium,2,Ashok Dinda,Mumbai Indians,4,57,,,,,,Rising Pune Supergiant,,0
+28,Adam Zampa,Rajat Bhatia,,,1,Pune,Maharashtra Cricket Association's International Stadium,2,Nitish Rana,Rising Pune Supergiant,,,34,,2,121.42,,Mumbai Indians,catch,
+12,,,,,1,Pune,Maharashtra Cricket Association's International Stadium,2,MS Dhoni,Mumbai Indians,,,12,,0,100.00,,Rising Pune Supergiant,,
+3,,,8,8.50,0,Pune,Maharashtra Cricket Association's International Stadium,2,Tim Southee,Rising Pune Supergiant,4,34,7,MS Dhoni,1,233.33,,Mumbai Indians,runout,1
+5,Rajat Bhatia,MS Dhoni,2,10.50,0,Pune,Maharashtra Cricket Association's International Stadium,2,Krunal Pandya,Rising Pune Supergiant,2,21,3,,0,60.00,,Mumbai Indians,catch,0
+,,,6,10.50,,Pune,Maharashtra Cricket Association's International Stadium,2,Deepak Chahar,Mumbai Indians,2,21,,,,,,Rising Pune Supergiant,,0
+19,Imran Tahir,,,,3,Pune,Maharashtra Cricket Association's International Stadium,2,Jos Buttler,Rising Pune Supergiant,,,38,,3,200.00,,Mumbai Indians,lbw,
+7,Imran Tahir,,,,0,Pune,Maharashtra Cricket Association's International Stadium,2,Rohit Sharma,Rising Pune Supergiant,,,3,,0,42.85,,Mumbai Indians,bold,
+,,,5,4.66,,Pune,Maharashtra Cricket Association's International Stadium,2,Rajat Bhatia,Mumbai Indians,3,14,,,,,,Rising Pune Supergiant,,2
+14,Imran Tahir,,,,4,Pune,Maharashtra Cricket Association's International Stadium,2,Parthiv Patel,Rising Pune Supergiant,,,19,,0,135.71,,Mumbai Indians,bold,
+12,Rajat Bhatia,&,,,0,Pune,Maharashtra Cricket Association's International Stadium,2,Ambati Rayudu,Rising Pune Supergiant,,,10,,0,83.33,,Mumbai Indians,catch,
+10,Bhuvneshwar Kumar,Yuvraj Singh,1,10.00,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,1,Stuart Binny,Sunrisers Hyderabad,1,10,11,,1,110.00,,Royal Challengers Bangalore,catch,1
+,,,8,10.50,,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,1,Ashish Nehra,Royal Challengers Bangalore,4,42,,,,,,Sunrisers Hyderabad,,2
+7,,,5,5.50,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,1,Yuzvendra Chahal,Sunrisers Hyderabad,4,22,3,sub [Chris Jordan],0,42.85,,Royal Challengers Bangalore,runout,1
+,,,8,9.00,,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,1,Rashid Khan,Royal Challengers Bangalore,4,36,,,,,,Sunrisers Hyderabad,,2
+3,Bhuvneshwar Kumar,David Warner,11,7.75,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,1,Tymal Mills,Sunrisers Hyderabad,4,31,6,,1,200.00,,Royal Challengers Bangalore,catch,1
+12,,,4,7.00,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,1,Deepak Hooda,Royal Challengers Bangalore,1,7,16,,1,133.33,,Sunrisers Hyderabad,,1
+37,Yuzvendra Chahal,Sachin Baby,1,10.00,3,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,1,Moises Henriques,Royal Challengers Bangalore,2,20,52,,2,140.54,,Sunrisers Hyderabad,catch,0
+31,Stuart Binny,Sachin Baby,,,5,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,1,Shikhar Dhawan,Royal Challengers Bangalore,,,40,,0,129.03,,Sunrisers Hyderabad,catch,
+6,,,10,9.54,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,1,Ben Cutting,Royal Challengers Bangalore,3.4,35,16,,2,266.66,,Sunrisers Hyderabad,,0
+8,Aniket Choudhary,Mandeep Singh,,,2,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,1,David Warner,Royal Challengers Bangalore,,,14,,1,175.00,,Sunrisers Hyderabad,catch,
+,,,12,6.75,,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,1,Bhuvneshwar Kumar,Royal Challengers Bangalore,4,27,,,,,,Sunrisers Hyderabad,,2
+27,Tymal Mills,,,,7,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,1,Yuvraj Singh,Royal Challengers Bangalore,,,62,,3,229.62,,Sunrisers Hyderabad,bold,
+2,,,5,13.75,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,1,Aniket Choudhary,Sunrisers Hyderabad,4,55,6,,1,300.00,,Royal Challengers Bangalore,,1
+16,Rashid Khan,,,,5,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,1,Mandeep Singh,Sunrisers Hyderabad,,,24,,0,150.00,,Royal Challengers Bangalore,bold,
+2,Ashish Nehra,,2,12.00,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,1,Sreenath Arvind,Sunrisers Hyderabad,3,36,0,,0,0.00,,Royal Challengers Bangalore,bold,0
+21,Deepak Hooda,David Warner,,,2,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,1,Chris Gayle,Sunrisers Hyderabad,,,32,,3,152.38,,Royal Challengers Bangalore,catch,
+,,,2,4.00,,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,1,Bipul Sharma,Royal Challengers Bangalore,1,4,,,,,,Sunrisers Hyderabad,,1
+17,Ashish Nehra,Moises Henriques,3,13.66,1,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,1,Shane Watson,Sunrisers Hyderabad,3,41,22,,1,129.41,,Royal Challengers Bangalore,catch,0
+22,Rashid Khan,Yuvraj Singh,0,11.00,3,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,1,Travis Head,Sunrisers Hyderabad,1,11,30,,0,136.36,,Royal Challengers Bangalore,catch,0
+16,,,,,4,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,1,Kedar Jadhav,Sunrisers Hyderabad,,,31,Ben Cutting,1,193.75,,Royal Challengers Bangalore,runout,
+3,Bipul Sharma,Moises Henriques,,,0,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,1,Sachin Baby,Sunrisers Hyderabad,,,1,,0,33.33,,Royal Challengers Bangalore,catch,
